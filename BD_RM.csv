@@ -1,4 +1,4 @@
-RM,labels,Unnamed: 2,Unnamed: 3,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asunto,Autor,Asignado a,Actualizado,Fecha de inicio,Fecha fin
+RM,labels,Proyecto,Estado interno,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asunto,Autor,Asignado a,Actualizado,Fecha de inicio,Fecha fin
 128602,CIERRE CUENTA DE INVERSIÓN,CIUDAD,En Análisis | BACKLOG ,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSIÓN 2024 ,Dario Elola,Dario Elola,2025-04-28 18:18,2024-10-28,2025-03-07
 123417,"SERVICIOS BÁSICOS, ROBUSTECIMIENTO, Valentina Juszkiewicz, G- Desarrollo Ciudad PL/SQL",CIUDAD,En Análisis | BACKLOG ,GCBA-SIGAF,Hito - Entregable,92756.0,E-Stand By,Alta,Modificar las retenciones en Servicios Básicos para que maneje pagos parciales,Laura Isabel Freysselinard,Alejandro Daniel Lagorio ,2025-04-24 16:28,2025-03-06,2025-03-06
 120743,"CONTABILIDAD, Alejandro Lagorio, ROBUSTECIMIENTO",CIUDAD,En Análisis | BACKLOG ,GCBA-SIGAF,Hito - Entregable,128602.0,E-Stand By,Urgente,CIERRE CUENTA DE INVERSIÓN 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gestión ,Dario Elola,Alejandro Daniel Lagorio ,2025-04-24 12:16,2024-11-20,2024-11-20
