@@ -1,19 +1,21 @@
 [
   {
     "ASIGNADO A": "Carolina Gualdi",
-    "PRIORIDAD": 1.0,
+    "PRIORIDAD": 1,
     "PROYECTO": "OBSBA",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "GENERAR RM PARA LAS CORRECCIONES DEL MAL DE LILI",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Carolina Gualdi",
-    "PRIORIDAD": 2.0,
+    "PRIORIDAD": 2,
     "PROYECTO": "OBSBA",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "CONCILIACIÓN SALDO POR BENEFICIARIO – CUENTA PROVEEDORES ",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": null,
@@ -21,31 +23,35 @@
     "PROYECTO": null,
     "ESTADO TRELLO": null,
     "RM": null,
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Daniel Bordon",
-    "PRIORIDAD": 1.0,
+    "PRIORIDAD": 1,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 133311 | CIERRE CUENTA DE INVERSIÓN 2024 | 2025 // decremento saldo impago",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Daniel Bordon",
-    "PRIORIDAD": 2.0,
+    "PRIORIDAD": 2,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 132470 | CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Corrección de asientos de formularios C55 con errores",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Daniel Bordon",
-    "PRIORIDAD": 3.0,
+    "PRIORIDAD": 3,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 133998 | Libro mayor Cuenta 212010001 con problemas de bajada a Excel",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": null,
@@ -53,7 +59,8 @@
     "PROYECTO": null,
     "ESTADO TRELLO": null,
     "RM": null,
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": null,
@@ -61,23 +68,26 @@
     "PROYECTO": null,
     "ESTADO TRELLO": null,
     "RM": null,
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Franchesca Rivas",
-    "PRIORIDAD": 1.0,
+    "PRIORIDAD": 1,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | DEV. POR DESA",
     "RM": "RM 131496 | CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Franchesca Rivas",
-    "PRIORIDAD": 2.0,
+    "PRIORIDAD": 2,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 132275 | Movimientos en AC Cuenta OD",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": null,
@@ -85,47 +95,53 @@
     "PROYECTO": null,
     "ESTADO TRELLO": null,
     "RM": null,
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Luz Fox",
-    "PRIORIDAD": 1.0,
+    "PRIORIDAD": 1,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
     "RM": "RM 133948| CIERRE CUENTA DE INVERSIÓN 2024 | Arreglar cuentas contables",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Luz Fox",
-    "PRIORIDAD": 2.0,
+    "PRIORIDAD": 2,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
     "RM": "RM 134209 | SIGAF | CI 2024 // Asientos PAG erróneos",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Luz Fox",
-    "PRIORIDAD": 3.0,
+    "PRIORIDAD": 3,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
     "RM": "RM 127973 | CIERRE CUENTA DE INVERSIÓN 2024 | C55 debe generarse con impacto en pagado igual que OP original 2",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Luz Fox",
-    "PRIORIDAD": 4.0,
+    "PRIORIDAD": 4,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
     "RM": "RM 130027 | CIERRE CUENTA DE INVERSIÓN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validación",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Luz Fox",
-    "PRIORIDAD": 5.0,
+    "PRIORIDAD": 5,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
     "RM": "RM 53785 | Consulta de pagos Servicios Básicos",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": null,
@@ -133,23 +149,26 @@
     "PROYECTO": null,
     "ESTADO TRELLO": null,
     "RM": null,
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Renzo Antonioli",
-    "PRIORIDAD": 1.0,
+    "PRIORIDAD": 1,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 130217 | Generar reporte de Gastos de Telefonía Educación-Hacienda",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Renzo Antonioli",
-    "PRIORIDAD": 2.0,
+    "PRIORIDAD": 2,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 117065 | CIERRE CUENTA DE INVERSIÓN 2024 | Consulta diferencias Listado de Deuda por Beneficiario.",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": null,
@@ -157,22 +176,249 @@
     "PROYECTO": null,
     "ESTADO TRELLO": null,
     "RM": null,
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Valentina Juszkiewicz",
-    "PRIORIDAD": 1.0,
+    "PRIORIDAD": 1,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 134304 | CI 2024 - Cuenta : 213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
   },
   {
     "ASIGNADO A": "Valentina Juszkiewicz",
-    "PRIORIDAD": 2.0,
+    "PRIORIDAD": 2,
     "PROYECTO": "CIUDAD",
     "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
     "RM": "RM 130301 | CIERRE CUENTA DE INVERSIÓN 2024 | Conciliación Libro Banco - Contabilidad CUT | Pagos",
-    "fecha": "2025-04-24"
+    "fecha": "2025-04-24",
+    "FECHA": "2025-04-24"
+  },
+  {
+    "ASIGNADO A": "Carolina Gualdi",
+    "PRIORIDAD": "",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 130300 | Cierre de Balance 2024- Fecha de Impacto NC y NB",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Carolina Gualdi",
+    "PRIORIDAD": "",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 132695 | Cambios Importes de Retenciones de Fondos a Rendir",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Carolina Gualdi",
+    "PRIORIDAD": "",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "06 En Prueba Func. | EN CURSO",
+    "RM": "RM 131668 | Retenciones duplicadas tesorería Obsba",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Carolina Gualdi",
+    "PRIORIDAD": "",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "06 En Prueba Func. | EN CURSO",
+    "RM": "RM 128819 | Planta Valorizada RRHH Error OP no esta tomando el objeto del gasto 1390",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Carolina Gualdi",
+    "PRIORIDAD": "",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "06 En Prueba Func. | EN CURSO",
+    "RM": "RM 91676 | Report/PDF Nota de Crédito/Bancaria/Debito",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Daniel Bordon",
+    "PRIORIDAD": "1",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 133311 | CIERRE CUENTA DE INVERSIÓN 2024 | 2025 // decremento saldo impago",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Daniel Bordon",
+    "PRIORIDAD": "2",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 132470 | CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Corrección de asientos de formularios C55 con errores",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Daniel Bordon",
+    "PRIORIDAD": "3",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "06 En Prueba Func. | EN CURSO",
+    "RM": "RM 132628 | CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Dario Elola",
+    "PRIORIDAD": "1",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 133998 | Libro mayor Cuenta 212010001 con problemas de bajada a Excel",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Dario Elola",
+    "PRIORIDAD": "",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 88181 | Capacitación y apoyo Funcional a los Usuarios",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Franchesca Rivas",
+    "PRIORIDAD": "1",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | DEV. POR DESA",
+    "RM": "RM 131496 | CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Franchesca Rivas",
+    "PRIORIDAD": "2",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 132275 | Movimientos en AC Cuenta OD",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Franchesca Rivas",
+    "PRIORIDAD": "3",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 134518 | CIERRE CUENTA DE INVERSIÓN 2024 | CI 2024 - OD 210 - Cuenta regularización de montos por retenciones",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Luz Fox",
+    "PRIORIDAD": "1",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
+    "RM": "RM 127973 | CIERRE CUENTA DE INVERSIÓN 2024 | C55 debe generarse con impacto en pagado igual que OP original 2",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Luz Fox",
+    "PRIORIDAD": "2",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "08 En Prueba QA | EN CURSO",
+    "RM": "RM 53785 | Consulta de pagos Servicios Básicos",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Renzo Antonioli",
+    "PRIORIDAD": "1",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 130217 | Generar reporte de Gastos de Telefonía Educación-Hacienda",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Renzo Antonioli",
+    "PRIORIDAD": "2",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 117065 | CIERRE CUENTA DE INVERSIÓN 2024 | Consulta diferencias Listado de Deuda por Beneficiario.",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Valentina Juszkiewicz",
+    "PRIORIDAD": "1",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 134233 | SIGAF | Solicitud de corrección de importes asientos C55 5200/2024 y 6174/2024",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Valentina Juszkiewicz",
+    "PRIORIDAD": "2",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 130301 | CIERRE CUENTA DE INVERSIÓN 2024 | Conciliación Libro Banco - Contabilidad CUT | Pagos",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Valentina Juszkiewicz",
+    "PRIORIDAD": "3",
+    "PROYECTO": "CIUDAD",
+    "ESTADO TRELLO": "06 En Prueba Func. | EN CURSO",
+    "RM": "\"RM 131404 | SIGAF | Agregar la condición en la solapa \"\"Beneficiario\"\" al autoriza la Orden de Pago\"",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "",
+    "PRIORIDAD": "",
+    "PROYECTO": "",
+    "ESTADO TRELLO": "",
+    "RM": "",
+    "FECHA": "2025-04-27"
+  },
+  {
+    "ASIGNADO A": "Vanina Zylberg",
+    "PRIORIDAD": "1",
+    "PROYECTO": "OBSBA",
+    "ESTADO TRELLO": "03 En Análisis | EN CURSO ###",
+    "RM": "RM 134097 | Cambios Importes de Retenciones de Fondos a Rendir (Contabilidad)",
+    "FECHA": "2025-04-27"
   }
 ]
