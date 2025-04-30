@@ -1,5 +1,4 @@
 RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asunto,Autor,Asignado a,Actualizado,Fecha de inicio,Fecha fin
-128602,CIERRE CUENTA DE INVERSIAAN,CIUDAD,11,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 ,Dario Elola,Dario Elola,2025-04-28 18:18,2024-10-28,2025-03-07
 123417,"SERVICIOS BAASICOS, ROBUSTECIMIENTO, Valentina Juszkiewicz, G- Desarrollo Ciudad PL/SQL",CIUDAD,11,GCBA-SIGAF,Hito - Entregable,92756,E-Stand By,Alta,Modificar las retenciones en Servicios BAAsicos para que maneje pagos parciales,Laura Isabel Freysselinard,Alejandro Daniel Lagorio ,2025-04-24 16:28,2025-03-06,2025-03-06
 120743,"CONTABILIDAD, Alejandro Lagorio, ROBUSTECIMIENTO",CIUDAD,11,GCBA-SIGAF,Hito - Entregable,128602,E-Stand By,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n ,Dario Elola,Alejandro Daniel Lagorio ,2025-04-24 12:16,2024-11-20,2024-11-20
 128603,"CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUCTIVA, Dario Elola",CIUDAD,11,GCBA-SIGAF,Tarea,128602,T-En Curso,Media,CIERRE CUENTA DE INVERSIAAN 2024 | ConciliaciAA3n Libro Banco - Contabilidad CUT ,Dario Elola,Renzo Antonioli,2025-03-10 15:53,2025-03-01,2025-03-07
@@ -39,6 +38,40 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 124226,FIRMA DIGITAL,CIUDAD,11,GCBA-SIGAF,Hito - Entregable,,E-Backlog,Media,Firma Digital | Agregar ValidaciAA3n que excluya de la lista de OP'S para firmar a las que estAAn totalmente decrementadas,Dario Elola,G- Func. Gastos y Contabilidad,2025-04-14 08:41,,
 125740,"REPORTES, ROBUSTECIMIENTO",CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | reporte para control de deuda,Gaston Sarkissian,Dario Elola,2025-03-13 09:25,,
 128853,SERVICIOS BAASICOS,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134426,MDA-AnAAlisis,Baja,ReimputaciAA3n Presupuestaria de Medidores || Servicios Basicos,Hernan Gabriel Burgos,G- Func. Gastos y Contabilidad,2025-04-25 11:46,,
+129765,"Franchesca Rivas, CONTABILIDAD",OBSBA,11,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,Dario Elola,Dario Elola,2025-04-28 17:26,2025-02-27,2025-04-30
+120656,"CIERRE DE BALANCE, CONTABILIDAD",OBSBA,11,OBSBA-SIGAF,Tarea,129765,T-Stand By,Media,Contabilidad 2024 | Diferencias Contabilidad - Presupuesto 2024,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2025-03-05 08:06,,
+72898,"RETENCIONES, Carolina Gualdi, [ #3 ALTA ]",OBSBA,11,OBSBA,Tarea,91631,T-Stand By,Alta,Agregar validacion en Obsba: la condiciAA3n impositiva del ente respecto al tipo factura habilitada,Vanina Zylberg,Carolina Noemi Gualdi,2025-02-18 15:19,2024-03-08,2024-05-31
+119035,"REPORTES, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte de Detalle de Ordenes de Pago - Adecuaciones,Dario Elola,,2024-10-28 13:29,,
+115640,"Vanina Zylberg, FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,OBSBA - NB Inconsistencia en aplicacion de NB cuando la OP tiene una NC asociada,Vanina Zylberg,Vanina Zylberg,2024-09-09 15:54,2024-09-04,2024-09-04
+91675,"GESTION DE FACTURAS y OP, Vanina Zylberg, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Nota de Debito,Dario Elola,,2025-04-08 14:40,,
+91680,"CONTABILIDAD, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Apertura y cierre de periodos contables,Dario Elola,,2023-12-13 22:51,,
+130054,"RETENCIONES, Carolina Gualdi, INCIDENCIA PRODUCTIVA",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Retenciones| Optimizacion tiempo de Calculadora de Retenciones,Franchesca Gabriela Rivas Veliz,Carolina Noemi Gualdi,2025-03-25 11:15,,
+130159,"INCIDENCIA PRODUCTIVA, CONTABILIDAD, Franchesca Rivas",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,ADECUAR FORMATO LIBRO DIARIO  EN PDF,Franchesca Gabriela Rivas Veliz,,2025-03-05 18:13,,
+112475,"FONDOS A RENDIR, Franchesca Rivas, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Descripcion AXT de C42 FR,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-08-06 16:31,,
+61430,"Carolina Gualdi, PLANTA VALORIZADA, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,42848,E-Backlog,Media,Certificados de RetenciAA3n - Firma Digital,Nancy Andrea Martinez,Nancy Andrea Martinez,2023-05-08 15:42,2023-01-20,
+100446,"Franchesca Rivas, CONTABILIDAD, INCIDENCIA PRODUCTIVA, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Contabilidad NC de FFC Deuda Flotante,Franchesca Gabriela Rivas Veliz,,2024-03-20 14:03,,
+99213,"FONDO COMPENSADOR, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Eliminar impacto presupuestario de Retenciones NB,Vanina Zylberg,,2024-03-05 14:17,2024-03-05,2024-06-30
+99076,"GESTION DE FACTURAS y OP, Vanina Zylberg, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,ENTES - Agrupados - cambio de beneficiarios en gestiones,Vanina Zylberg,Vanina Zylberg,2025-04-08 14:50,2024-03-04,2024-03-08
+89697,"PRESUPUESTO, Franchesca Rivas, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Alta,OBSBA - Fechas que se utilizan para Impactos ,Vanina Zylberg,Franchesca Gabriela Rivas Veliz,2024-12-17 18:50,2023-11-24,2023-12-08
+91674,"FONDOS A RENDIR, Franchesca Rivas, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Fondos a Rendir | Nota de CrAAdito aplicada a Rendiciones,Dario Elola,,2023-12-13 22:43,,
+80017,"PRESUPUESTO, INCIDENCIA PRODUCTIVA, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Obsba - Presupuesto - Revisar impactos de retenciones de Notas Bancarias,Vanina Zylberg,,2023-12-14 11:37,,
+88345,"FONDOS A RENDIR, INCIDENCIA PRODUCTIVA, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Agregar Boton de Autorizar y Desautorizar en Resumen,Franchesca Gabriela Rivas Veliz,G- SWF ObSBA,2025-01-02 11:42,,
+94671,"GESTION DE FACTURAS y OP, Pablo Camdessanche, Dario Elola, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,NC - NB | Cambio de Fecha de autorizaciAA3n ,Dario Elola,Pablo Camdessanche,2024-01-17 15:05,2024-01-16,2024-01-16
+91683,"CONTABILIDAD, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Reportes Contables | Estado de Resultado,Dario Elola,,2023-12-13 22:58,,
+91685,"FONDO COMPENSADOR, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Fondo Compensador - Gestiones de HIV | Importar detalles con Excel y mostrarlos en una pestaAAa de detalles en la factura,Dario Elola,,2023-12-13 23:00,,
+93127,"GESTION DE FACTURAS y OP, [ #5 BAJA ]",OBSBA,11,OBSBA,Hito - Entregable,91631,E-Stand By,Alta,"Autorizacion ""C42""  desde el Modulo de Gastos",Carolina Noemi Gualdi,Franchesca Gabriela Rivas Veliz,2024-01-02 12:44,2023-12-21,2023-12-31
+96082,"Franchesca Rivas, FONDOS A RENDIR, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Alta ABM Fondo Anual- Fondos a Rendir ,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-01-31 14:52,,
+96094,"FONDOS A RENDIR, Franchesca Rivas, [ #4 MEDIA ]",OBSBA,11,OBSBA,Hito - Entregable,91631,E-Stand By,Media,Funcionalidad del Saldo Anual SFP,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-01-31 15:41,,
+96099,"Franchesca Rivas, FONDOS A RENDIR, [ #5 BAJA ]",OBSBA,11,OBSBA,Hito - Entregable,91631,E-Stand By,Media,Habilitar Check Box de Consulta SFC-SFP,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-01-31 16:01,,
+96171,"Franchesca Rivas, CONTABILIDAD, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Contabilidad de Descuentos y Excedentes - Fondos a Rendir,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-02-01 11:21,,
+99754,"GESTION DE FACTURAS y OP, INCIDENCIA PRODUCTIVA, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Alta,Gestiones de Facturas solapa Resumen. Mensaje para guardar al navegar de un registro al otro,Vanina Zylberg,Daniel Marcelo FernAAndez,2024-03-20 22:49,2024-03-12,2024-05-12
+114929,"PRESUPUESTO, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,,T-Stand By,Media,C55 Cambio de Imputacion (CDI) | Adecuar validaciones presupuetarias ,Dario Elola,,2024-08-28 12:44,,
+118956,"REPORTES, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte Cuenta Corriente | Adecuaciones Plan de Pagos - Agregar observaciones para todo tipo de factura ,Dario Elola,,2024-10-25 18:04,,
+119161,"REPORTES, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte Cuenta Corriente | Adecuaciones Plan de Pagos - Agregar lista de valores a la bAAosqueda por ente ,Dario Elola,,2024-10-29 11:43,,
+119693,"CONTABILIDAD, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Contabilidad | Cierre de Ejercicio - Minuta de Inicio y Cierre automAAticas ,Dario Elola,,2025-04-14 18:20,,2025-09-30
+123104,"REPORTES, INCIDENCIA PRODUCTIVA, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte Saldo por Beneficiario | Agregar numero de comprobante AFIP para los registros de DAS,Dario Elola,,2024-12-05 11:34,,
+133663,"CONTABILIDAD, INCIDENCIA PRODUCTIVA",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Contabilidad | CorrecciAA3n de fondo - Asientos de FRA (DAS) Sin RegularizaciAA3n y Regularizados ,Dario Elola,,2025-04-10 17:59,,
+129765,,OBSBA,11,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,Dario Elola,Dario Elola,2025-04-29 18:36,2025-02-27,2025-04-30
 130301,"CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUCTIVA, Valentina Juszkiewicz, ASIGNADO, { 02 }",CIUDAD,12,GCBA-SIGAF,Tarea,128603,T-En Curso,Media,CIERRE CUENTA DE INVERSIAAN 2024 | ConciliaciAA3n Libro Banco - Contabilidad CUT | Pagos,Renzo Antonioli,Renzo Antonioli,2025-04-22 10:33,2025-03-01,2025-03-07
 130217,"Renzo Antonioli, SERVICIOS BAASICOS, { 01 }, ASIGNADO",CIUDAD,12,Mesa SIGAF,MDA-SIGAF,,MDA-AnAAlisis,Alta,Generar reporte de Gastos de TelefonAAa EducaciAA3n-Hacienda,Oriana Sosa,Renzo Antonioli,2025-04-25 10:46,,
 117065,"Renzo Antonioli, CIERRE CUENTA DE INVERSIAAN, ASIGNADO, { 02 }",CIUDAD,12,Mantenimiento Correctivo,MDA-SIGAF,128602,MDA-AnAAlisis,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Consulta diferencias Listado de Deuda por Beneficiario.,Lucas Gutierrez,Dario Elola,2025-03-10 15:44,,
@@ -47,10 +80,51 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 133998,"CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUCTIVA, ASIGNADO, Dario Elola, { 01 }",CIUDAD,12,Mesa SIGAF,MDA-SIGAF,,MDA-AnAAlisis,Alta,Libro mayor Cuenta 212010001 con problemas de bajada a Excel, KAREN  LICERA,G- Func. Gastos y Contabilidad,2025-04-15 16:24,,
 134518,"CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUCTIVA, ASIGNADO, { 03 }, Franchesca Rivas",CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Media,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciAA3n de montos por retenciones,Gaston Sarkissian,Dario Elola,2025-04-28 12:02,,
 134263,"Operador Mesa de Ayuda, INCIDENCIA PRODUCTIVA, RETENCIONES, ASIGNADO MESA",CIUDAD,12,Mesa SIGAF,MDA-SIGAF,,MDA-AnAAlisis,Media,Cambiar constancias de retenciAA3n al estado ANULADO. ,Hernan Gabriel Burgos,G- Func. Gastos y Contabilidad,2025-04-22 14:23,,
+130300,"CONTABILIDAD, Pablo Camdessanche, Carolina Gualdi, ASIGNADO, CIERRE DE BALANCE",OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-Stand By,Alta,Cierre de Balance 2024- Fecha de Impacto NC y NB,Carolina Noemi Gualdi,Franchesca Gabriela Rivas Veliz,2025-03-06 16:57,2025-02-28,2025-02-28
+132695,"Carolina Gualdi, EXCEPCIAAN, INCIDENCIA PRODUCTIVA, NO REQUIUERE DESARROLLO, Software Factory, RETENCIONES, ASIGNADO",OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-En Curso,Alta,Cambios Importes de Retenciones de Fondos a Rendir,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-25 20:09,2025-03-28,2025-04-30
+134097,"CONTABILIDAD, Pablo Camdessanche, Carolina Gualdi, ASIGNADO, CIERRE DE BALANCE, Vanina Zylberg, { 01 }",OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-Stand By,Alta,Cambios Importes de Retenciones de Fondos a Rendir (Contabilidad),Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-16 15:10,2025-03-28,2025-04-30
+134233,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAlisis,Alta,SIGAF | Solicitud de correcciA3n de importes asientos C55 5200/2024 y 6174/2024, KAREN  LICERA,Valentina Juszkiewicz,2025-04-29 11:52,,
+131565,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,134403,MDA-AnAlisis,Baja,Revision de la carga de datos en facturas de servicios bAsicos,Hernan Gabriel Burgos,G- Func. Gastos y Contabilidad,2025-04-29 10:04,,
+128602,,CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSIAN 2024 ,Dario Elola,Dario Elola,2025-04-29 17:50,2024-10-28,2025-03-07
+134233,"RM
+134233    { 01 }, CIERRE DE CUENTA DE INVERSIAAN, GESTIO...
+134233                                                     
+Name: labels, dtype: object",CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Analisis,Alta,SIGAF | Solicitud de correccion de importes asientos C55 5200/2024 y 6174/2024,,Valentina Juszkiewicz,2025-04-30,,
+131565,"RM
+131565    SERVICIOS BAASICOS, INCIDENCIA PRODUCTIVA
+131565                                             
+Name: labels, dtype: object",CIUDAD,12,Mesa SIGAF,MDA-SIGAF,134403,MDA-Analisis,Baja,Revision de la carga de datos en facturas de servicios basicos,,G- Func. Gastos y Contabilidad,2025-04-30,,
+128602,"RM
+128602    CIERRE CUENTA DE INVERSIAAN
+128602                               
+Name: labels, dtype: object",CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSION 2024 ,,Dario Elola,2025-04-30,2024-10-28,2025-03-07
+128602,CIERRE CUENTA DE INVERSIAAN,CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 ,Dario Elola,Dario Elola,2025-04-30,2024-10-28,2025-03-07
 132275,"INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERSIAAN, Franchesca Rivas, ASIGNADO, { 02 }",CIUDAD,13,Mesa SIGAF,MDA-SIGAF,,MDA-AnAAlisis,Media,Movimientos en AC Cuenta OD ,Agustina Mainardi,Juan Miguel Olivares,2025-04-28 18:22,,
 77508,"ROBUSTECIMIENTO, Luis Alberto Carrizo, [ NET ], Renzo Antonioli",CIUDAD,14,GCBA-SIGAF,Hito - Entregable,95295,E-Stand By,Media,ActualizaciAA3n de Actividades Economicas (Datos Impositivos) - AutomatizaciAA3n y carga manual,Lucas Gutierrez,Ignacio Ferreyra,2025-04-24 15:13,2024-02-19,2024-12-31
 120953,"Vanina Zylberg, REPORTES, Business Intelligence BI",CIUDAD,14,Mesa BI,Tarea,119916,T-Stand By,Media,Reporte Tiempos PRD - Error: el reporte trajo un resultado 2023 cuando se esta filtrando por 2024,Vanina Zylberg,SebastiAAn Javier  Cardoso,2025-03-06 12:57,2024-11-14,2024-11-21
 78536,"RETENCIONES, ROBUSTECIMIENTO, Otto Buteler, Daniel Bordon",CIUDAD,14,GCBA-SIGAF,Hito - Entregable,92756,E-Stand By,Media,Tabla bAAsica Excepciones Padron AGIP por Partida completa del gasto,Lucas Gutierrez,Otto Federico Klix Buteler,2025-04-08 14:31,2023-08-11,2024-12-31
+132086,"RETENCIONES, Pablo Camdessanche, Carolina Gualdi",OBSBA,14,OBSBA-SIGAF,Tarea,88181,T-Stand By,Alta,ModificaciAA3n del filtro para liquidar retenciones (deseleccionar Tesoreria),Carolina Noemi Gualdi,Pablo Camdessanche,2025-03-25 16:23,2025-03-25,2025-04-26
+132089,"RETENCIONES, Pablo Camdessanche, Carolina Gualdi",OBSBA,14,OBSBA-SIGAF,Tarea,88181,T-Stand By,Media,ModificaciAA3n del filtro para la generaciAA3n de archivos en SICORE para deseleccionar TesorerAAa.,Carolina Noemi Gualdi,Pablo Camdessanche,2025-03-25 15:16,2025-03-24,2025-04-30
+128229,"Franchesca Rivas, FONDOS A RENDIR, Pablo Camdessanche, INCIDENCIA PRODUCTIVA",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Fondos a Rendir - Cambio de Nro Afip,Franchesca Gabriela Rivas Veliz,Pablo Camdessanche,2025-03-31 10:57,2025-02-12,2025-02-12
+129501,"FONDO COMPENSADOR, Software Factory, Vanina Zylberg, INCIDENCIA PRODUCTIVA",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,OBSBA - NB Inconsistencia presupuestaria al Desautorizar,Vanina Zylberg,G- SWF ObSBA,2025-03-31 10:57,2025-02-21,2025-02-28
+129371,"Franchesca Rivas, FONDOS A RENDIR, Pablo Camdessanche, INCIDENCIA PRODUCTIVA",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Cambio ente FRC 75805-2024,Franchesca Gabriela Rivas Veliz,Pablo Camdessanche,2025-02-21 01:08,,
+119877,"PLANTA VALORIZADA, [ #4 MEDIA ], Carolina Gualdi, Pablo La Maestra",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Recursos Humanos | Derecho Habientes - Error presupuestario al autorizar PV ,Carolina Noemi Gualdi,Pablo Diego La Maestra,2025-03-05 08:59,2024-11-04,2024-11-14
+128228,"GESTION DE FACTURAS y OP, Vanina Zylberg, Pablo Camdessanche",OBSBA,14,OBSBA,Tarea,91631,T-Stand By,Alta,Error descuento de NC en Pagos parciales - duplica descuento de NC,Vanina Zylberg,G- SWF ObSBA,2025-03-18 09:20,2025-02-05,2025-02-21
+108978,"Vanina Zylberg, FONDO COMPENSADOR, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,retenciones Fondo Compensador - Ganancias,Vanina Zylberg,G- SWF ObSBA,2025-03-31 10:56,2024-06-26,2024-11-30
+99403,"GESTION DE FACTURAS y OP, INCIDENCIA PRODUCTIVA, Daniel FernAAndez, Vanina Zylberg, QA - Ejecuta TEST COMPLETO, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Gestiones de Facturas sin autorizacion parcial | Error en AutorizaciAA3n - Se realizan impactos mAAoltiples,Vanina Zylberg,Daniel Marcelo FernAAndez,2025-03-31 10:56,2024-08-14,2024-09-10
+115220,"RETENCIONES, Carolina Gualdi, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,NC parcial para gestiones con 2 objetos del gasto,Carolina Noemi Gualdi,Pablo Diego La Maestra,2025-02-11 11:35,2024-08-27,2024-12-28
+73871,"RETENCIONES, Carolina Gualdi, Software Factory, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Tarea,68634,T-Stand By,Alta,Retenciones - ENTE Condominio,Nancy Andrea Martinez,G- SWF ObSBA,2024-08-21 15:12,2024-08-21,2024-09-30
+91679,"REPORTES, Vanina Zylberg, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Poner dato de carpeta y factura interno en REPORT OP,Dario Elola,Pablo Camdessanche,2025-03-31 10:55,2024-06-12,2024-08-31
+86346,"PLANTA VALORIZADA, Dario Elola, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Planta Valorizada - Derecho Habientes - C55 ,Nancy Andrea Martinez,G- SWF ObSBA,2024-02-22 11:24,,
+74990,"RETENCIONES, Carolina Gualdi, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Tarea,68634,T-Stand By,Urgente,Retenciones Acumulados - GestiAA3n Fondo Compensador -  Nota Bancaria,Nancy Andrea Martinez,Pablo Diego La Maestra,2025-04-15 13:07,,2025-09-30
+87374,"INCIDENCIA PRODUCTIVA, GESTION DE FACTURAS y OP, Vanina Zylberg, [ #3 ALTA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Obsba aplicacion NC por total de importe de la OP,Vanina Zylberg,G- SWF ObSBA,2025-03-31 10:55,2024-07-12,2024-07-31
+82332,"RETENCIONES, Carolina Gualdi, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Periodos Impositivos | Permitir Realizar la Apertura por AplicaciAA3n ,Dario Elola,Pablo Camdessanche,2023-12-18 09:15,2023-09-13,2023-09-13
+83675,"GESTION DE FACTURAS y OP, Vanina Zylberg, Pablo Camdessanche, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,CPC | AutorizaciAA3n Masiva,Dario Elola,G- SWF ObSBA,2024-06-12 17:41,2023-10-18,2023-11-03
+74932,"GESTION DE FACTURAS y OP, Franchesca Rivas, Vanina Zylberg, Pablo Camdessanche, INCIDENCIA PRODUCTIVA, [ #5 BAJA ]",OBSBA,14,OBSBA,Hito - Entregable,91631,E-Stand By,Media,Factura OBSBA | BAAosqueda por Formulario AFIP,Dario Elola,G- SWF ObSBA,2024-06-07 17:36,2023-07-04,2023-07-04
+98742,"Pablo La Maestra, RETENCIONES, Carolina Gualdi, [ #3 ALTA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,UBICACIAAN GEOGRAAFICA - NC con 2 ubicaciones geograficas da ERROR,Carolina Noemi Gualdi,Pablo Diego La Maestra,2024-02-29 10:46,2024-02-28,2024-12-28
+98753,"Pablo La Maestra, RETENCIONES, Carolina Gualdi, [ #3 ALTA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,UBICACIAAN GEOGRAAFICA - NB con 2 ubicaciones geograficas da ERROR,Carolina Noemi Gualdi,Pablo Diego La Maestra,2024-02-29 11:43,2024-02-28,2024-12-28
+93569,"FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, Dario Elola, Kevin Borghetti, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Resumen de Facturas de Fondo Compensador sale error,Carolina Noemi Gualdi,G- SWF ObSBA,2024-08-02 14:32,2024-01-04,2024-12-31
+127646,"GESTION DE FACTURAS y OP, INCIDENCIA PRODUCTIVA, Franchesca Rivas",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,BotAA3n Consultar Asiento- Nota de CrAAdito,Franchesca Gabriela Rivas Veliz,Pablo Diego La Maestra,2025-01-29 17:00,,
 131496,"CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUCTIVA, Franchesca Rivas, Juan Miguel Olivares, { 01 }, ASIGNADO",CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10,Diego Martin Godoy,Juan Miguel Olivares,2025-04-28 15:36,,
 123605,"Carina Trolliet, Franchesca Rivas, CIERRE DE CUENTA DE INVERSIAAN, CONTABILIDAD, [ PRIORIDAD 01 ]",CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencias en movimientos de formularios C10,Agustin Retamal,Carina Andrea Trolliet,2025-04-24 11:54,,
 130027,"GESTIONES DE GASTOS, Vanina Zylberg, Adalberto Salazar, QA - Ejecuta TEST COMPLETO, CIERRE DE CUENTA DE INVERSIAAN, [ PRIORIDAD 07 ], Luz Fox",CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,Agustina Mainardi,Adalberto Jose Torres Salazar,2025-04-24 15:37,,
@@ -58,16 +132,64 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 127397,"GESTIONES DE GASTOS, INCIDENCIA PRODUCTIVA, Vanina Zylberg, Renzo Sandes",CIUDAD,15,Mesa SIGAF,Tarea,,T-En Curso,Media,Correccion inconsistencias en tablas generacion automatica C55,Vanina Zylberg,Renzo Emanuel Sandes,2025-01-30 13:37,2025-01-27,2025-01-31
 117956,"SERVICIOS BAASICOS, ROBUSTECIMIENTO, Adalberto Salazar, Dario Elola",CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,Aviso de Pago de FacturaciAA3n Servicios BAAsicos,Lucas Gutierrez,Adalberto Jose Torres Salazar,2025-04-24 16:29,2022-09-05,2025-06-28
 116319,"Valentina Juszkiewicz, SERVICIOS BAASICOS, Juan Carlos Brodersen, QA - Ejecuta TEST COMPLETO, Luz Fox",CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Media,Ref: 115400 - Modificar calculo ult. consumo Servicios BAAsicos,Lucas Gutierrez,Juan Carlos Brodersen,2025-04-22 11:06,2024-10-21,2025-05-31
+134349,"FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, Pablo Camdessanche, Carolina Gualdi, Franchesca Rivas",OBSBA,15,OBSBA-SIGAF,Tarea,91631,T-En Curso,Media,Fondos a Rendir - Cambio de Importe FRC ,Carolina Noemi Gualdi,Pablo Camdessanche,2025-04-25 18:51,2025-02-12,2025-02-12
+134338,"CONTABILIDAD, CIERRE DE BALANCE, Dario Elola, Pablo Camdessanche",OBSBA,15,OBSBA-SIGAF,Tarea,129765,T-En Curso,Alta,Contabilidad | Notas de CrAAdito con asientos en cero ,Dario Elola,Pablo Camdessanche,2025-04-23 10:56,2025-04-23,2025-04-23
+134571,"CONTABILIDAD, CIERRE DE BALANCE, Pablo Camdessanche, Dario Elola",OBSBA,15,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - CreaciAA3n de Script para Minuta ""NB OP 2025 Traditum""",Dario Elola,G- MDA OBSBA,2025-04-28 18:18,2025-04-25,2025-04-25
+134572,"CONTABILIDAD, CIERRE DE BALANCE, Pablo Camdessanche, Dario Elola",OBSBA,15,OBSBA-SIGAF,Tarea,129765,T-En Curso,Urgente,"CIERRE DE BALANCE - CreaciAA3n de Script para Minuta ""Ajuste DiagnAA3stico Mediter Fondo",Dario Elola,Dario Elola,2025-04-28 16:53,2025-04-25,2025-04-25
+134566,"CONTABILIDAD, Pablo Camdessanche, CIERRE DE BALANCE, Dario Elola",OBSBA,15,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Urgente,CIERRE DE BALANCE 2024  | Minuta CONCILIACION BANCARIA 132/4 2025,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2025-04-28 18:17,2025-04-27,2025-04-27
+134518,,CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Media,CIERRE CUENTA DE INVERSIAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciA3n de montos por retenciones,Gaston Sarkissian,Juan Miguel Olivares,2025-04-29 16:49,,
+117956,,CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,Aviso de Pago de FacturaciA3n Servicios BAsicos,Lucas Gutierrez,Lucas Gutierrez,2025-04-29 17:46,2022-09-05,2025-06-28
+134518,"RM
+134518    CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUC...
+134518                                                     
+Name: labels, dtype: object",CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Media,CIERRE CUENTA DE INVERSION 2024 | CI 2024 - OD 210 - Cuenta regularizacion de montos por retenciones,,Juan Miguel Olivares,2025-04-30,,
+120150,"Daniel Bordon, QA - Ejecuta TEST COMPLETO, Juan Carlos Brodersen, FIRMA DIGITAL",CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,RF:35904 Validacion Firma Digital,,Juan Carlos Brodersen,2025-04-30,2024-08-12,2024-12-31
+117956,"RM
+117956    SERVICIOS BAASICOS, ROBUSTECIMIENTO, Adalberto...
+117956                                                     
+Name: labels, dtype: object",CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,Aviso de Pago de Facturacion Servicios Basicos,,Lucas Gutierrez,2025-04-30,2022-09-05,2025-06-28
 132628,"Daniel Bordon, HAActor Gonzalez, CIERRE DE CUENTA DE INVERSIAAN, CONTABILIDAD, [ PRIORIDAD 02 ], QA - Ejecuta TEST COMPLETO, ASIGNADO, { 03 }",CIUDAD,16,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test funcional,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024, KAREN  LICERA,G- Func. Gastos y Contabilidad,2025-04-28 17:06,,
+131668,"INCIDENCIA PRODUCTIVA, Carolina Gualdi, RETENCIONES, Pablo La Maestra, EXCEPCIAAN, ASIGNADO",OBSBA,16,Mesa ObSBA,MDA-ObSBA,,MDA-Test funcional,Alta,Retenciones duplicadas tesoreria Obsba, KAREN  LICERA,Pablo Diego La Maestra,2025-04-28 17:11,,
+128819,"PLANTA VALORIZADA, Carolina Gualdi, INCIDENCIA PRODUCTIVA, Pablo Camdessanche, EXCEPCIAAN, ASIGNADO",OBSBA,16,OBSBA-SIGAF,Tarea,91631,T-En Curso,Urgente,Planta Valorizada RRHH Error OP no esta tomando el objeto del gasto 1390,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-15 12:34,2025-02-07,2025-02-15
+91676,"REPORTES, Kevin Borghetti, EXCEPCIAAN, CIERRE DE BALANCE, Carolina Gualdi, ASIGNADO",OBSBA,16,OBSBA-SIGAF,Hito - Entregable,91631,E-Test Funcional,Media,Report/PDF Nota de CrAAdito,Dario Elola,Carolina Noemi Gualdi,2025-04-15 09:29,2024-02-01,2025-09-30
+132628,,CIUDAD,16,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test funcional,Alta,CIERRE CUENTA DE INVERSIAN 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024, KAREN  LICERA,G- MDA SIGAF,2025-04-29 16:04,,
+131404,,CIUDAD,16,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Alta,"SIGAF | Agregar la condiciA3n en la solapa ""Beneficiario"" al autoriza la Orden de Pago",Oriana Sosa,Luz Fox,2025-04-29 15:12,,
+134304,"{ 01 }, CIERRE DE CUENTA DE INVERSIAAN, GESTIONES DE GASTOS, Valentina Juszkiewicz, Juan Miguel Olivares",CIUDAD,16,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Media,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD,,Valentina Juszkiewicz,2025-04-30,,
+131404,"RM
+131404    ROBUSTECIMIENTO, Valentina Juszkiewicz, R.R.H....
+131404                                                     
+Name: labels, dtype: object",CIUDAD,16,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Alta,"SIGAF | Agregar la condicion en la solapa ""Beneficiario"" al autoriza la Orden de Pago",,Luz Fox,2025-04-30,,
 74040,"QA - Ejecuta TEST COMPLETO, ROBUSTECIMIENTO, Carina Trolliet, APLICATIVO RETENCIONES, Valentina Juszkiewicz, Luz Fox",CIUDAD,17,GCBA-SIGAF,Hito - Entregable,96818,E-Test QA,Alta,EVGS 012023 - Que la generaciAA3n de exportaciAA3n IIBB soporte pagos parciales,Lucas Gutierrez,Luz Fox,2025-04-08 14:37,2023-06-26,2024-05-31
 53785,"Adalberto Salazar, SERVICIOS BAASICOS, Dario Elola, QA - Ejecuta TEST COMPLETO, Luz Fox, ASIGNADO QA, { 02 }",CIUDAD,18,GCBA-SIGAF,Hito - Entregable,32693,E-Test QA,Media,Consulta de pagos Servicios BAAsicos,Lucas Gutierrez,Luz Fox,2025-04-24 16:30,2023-04-10,2024-05-01
 120150,"Daniel Bordon, QA - Ejecuta TEST COMPLETO, Juan Carlos Brodersen, FIRMA DIGITAL",CIUDAD,18,GCBA-SIGAF,Hito - Entregable,96818,E-Test QA,Alta,RF:35904 ValidaciAA3n Firma Digital,Lucas Gutierrez,Ricardo Henriquez,2025-04-24 09:39,2024-08-12,2024-12-31
 127973,"INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERSIAAN, Juan Miguel Olivares, QA - Ejecuta TEST COMPLETO, { 01 }, Vanina Zylberg, ASIGNADO QA, Luz Fox",CIUDAD,18,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | C55 debe generarse con impacto en pagado igual que OP original 2,Agustin Retamal,Luz Fox,2025-04-24 16:58,,
 131404,"ROBUSTECIMIENTO, Valentina Juszkiewicz, R.R.H.H, Leonado Sosa, QA - Ejecuta TEST COMPLETO, { 03 }, ASIGNADO QA, Luz Fox",CIUDAD,18,Mesa SIGAF,MDA-SIGAF,,MDA-Desarrollo,Alta,"SIGAF | Agregar la condiciAA3n en la solapa ""Beneficiario"" al autoriza la Orden de Pago",Oriana Sosa,Leonardo SebastiAAn Sosa,2025-04-28 12:51,,
 116974,"[ NET ], Mauricio Fernandez, FIRMA DIGITAL, QA - Ejecuta TEST COMPLETO, Daniel Bordon",CIUDAD,18,GCBA-SIGAF,Hito - Entregable,96818,E-Test QA,Alta,RF:35904 ValidaciAA3n Firma Digital para .NET,Lucas Gutierrez,Ricardo Henriquez,2025-04-21 15:29,2024-08-12,2024-12-31
+133311,,CIUDAD,18,Mesa SIGAF,MDA-SIGAF,,MDA-Test QA,Media,CIERRE CUENTA DE INVERSIAN 2024 | 2025 // decremento saldo impago,Gaston Sarkissian,Luz Fox,2025-04-29 09:27,,
+130027,,CIUDAD,18,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSIAN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,Agustina Mainardi,Luz Fox,2025-04-29 17:50,,
+133311,"RM
+133311    { 01 }, CIERRE DE CUENTA DE INVERSIAAN, ASIGNA...
+133311                                                     
+Name: labels, dtype: object",CIUDAD,18,Mesa SIGAF,MDA-SIGAF,,MDA-Test QA,Media,CIERRE CUENTA DE INVERSION 2024 | 2025 // decremento saldo impago,,Luz Fox,2025-04-30,,
+129765,"RM
+129765    Franchesca Rivas, CONTABILIDAD
+129765                                  
+Name: labels, dtype: object",CIUDAD,18,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,,Dario Elola,2025-04-30,2025-02-27,2025-04-30
+130027,"RM
+130027    GESTIONES DE GASTOS, Vanina Zylberg, Adalberto...
+130027                                                     
+Name: labels, dtype: object",CIUDAD,18,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSION 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,,Luz Fox,2025-04-30,,
+127973,"INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERSIAAN, Juan Miguel Olivares, QA - Ejecuta TEST COMPLETO, { 01 }, Vanina Zylberg, ASIGNADO QA, Luz Fox",CIUDAD,18,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSION 2024 | C55 debe generarse con impacto en pagado igual que OP original 2,,Luz Fox,2025-04-30,,
 132371,"INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERSIAAN, GastAA3n Kosiol, QA - Ejecuta TEST COMPLETO, Operador Mesa de Ayuda",CIUDAD,19,Mesa SIGAF,MDA-SIGAF,128602,MDA-Pendiente usuario,Media,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud de query para PRDs con Moneda Extranjera,Oriana Sosa,Usuario Externo SIGAF,2025-04-23 13:12,,
 132763,"INCIDENCIA PRODUCTIVA, GESTIONES DE GASTOS, Operador Mesa de Ayuda, QA - Ejecuta TEST COMPLETO, Cesar Blondet",CIUDAD,19,Mesa SIGAF,MDA-SIGAF,,MDA-AnAAlisis,Baja,Revision de impactos de 1AA trimestre 2025 realizados en Cierre trimestral fase Restringida,Agustina Mainardi,G- MDA SIGAF,2025-04-10 10:19,,
 134233,"{ 01 }, CIERRE DE CUENTA DE INVERSIAAN, GESTIONES DE GASTOS, G- Desarrollo Ciudad PL/SQL, [ PRIORIDAD 03 ], Valentina Juszkiewicz",CIUDAD,19,Mesa SIGAF,MDA-SIGAF,128602,MDA-Pendiente usuario,Alta,SIGAF | Solicitud de correcciAA3n de importes asientos C55 5200/2024 y 6174/2024, KAREN  LICERA,Usuario Externo SIGAF,2025-04-28 14:29,,
+130866,"INCIDENCIA PRODUCTIVA, GESTION DE FACTURAS y OP, Vanina Zylberg, Pablo Camdessanche, EXCEPCIAAN",OBSBA,19,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,Cambio de Ente Carpeta 71890/24 Fdo Compensador,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2025-04-28 18:18,2025-04-23,2025-04-23
+134437,"CONTABILIDAD, Carolina Gualdi, CIERRE DE BALANCE, Pablo Camdessanche",OBSBA,19,OBSBA-SIGAF,Tarea,129765,T-Pasaje a ProducciAA3n,Urgente,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP,Carolina Noemi Gualdi,Pablo Camdessanche,2025-04-28 17:29,2025-04-11,2025-04-14
+132275,,CIUDAD,19,Mesa SIGAF,MDA-SIGAF,,MDA-Pasaje PROD,Media,Movimientos en AC Cuenta OD ,Agustina Mainardi,Juan Miguel Olivares,2025-04-29 16:18,,
+132275,"RM
+132275    INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERS...
+132275                                                     
+Name: labels, dtype: object",CIUDAD,19,Mesa SIGAF,MDA-SIGAF,,MDA-Pasaje PROD,Media,Movimientos en AC Cuenta OD ,,Juan Miguel Olivares,2025-04-30,,
 134194,"CIERRE DE CUENTA DE INVERSIAAN, CONTABILIDAD, Operador Mesa de Ayuda, #P R O D U C C I O N#",CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciAA3n de montos por retenciones,Gaston Sarkissian,G- MDA SIGAF,2025-04-25 09:26,,
 133948,"Franchesca Rivas, Juan Miguel Olivares, Luz Fox, QA - Ejecuta TEST COMPLETO, CONTABILIDAD",CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIAAN 2024 | Arreglar cuentas contables,Gaston Sarkissian,G- MDA SIGAF,2025-04-25 09:18,,
 134209,"CIERRE DE CUENTA DE INVERSIAAN, CONTABILIDAD, Valentina Juszkiewicz, Juan Miguel Olivares, Luz Fox, QA - Ejecuta TEST COMPLETO",CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,Alta,SIGAF | CI 2024 // Asientos PAG errAA3neos,Diego Martin Godoy,G- MDA SIGAF,2025-04-25 11:35,,
@@ -227,74 +349,6 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 114669,"FIRMA DIGITAL, QA - Ejecuta TEST COMPLETO, Cesar Blondet, Daniel Bordon, #DESESTIMADO#",CIUDAD,20,GCBA-SIGAF,Hito - Entregable,96818,MDA-Cerrado,Alta,RF:35904 ValidaciAA3n Firma Digital,Lucas Gutierrez,Nelson Daniel BordAA3n,2024-11-06 11:17,2024-08-12,2024-12-31
 32694,"REPORTES, Dario Elola, #DESESTIMADO#, ROBUSTECIMIENTO",CIUDAD,20,GCBA-SIGAF,Hito - Entregable,96818,E-Cancelada,Alta,RSSHYF Aviso FacturaciAA3n Servicios BAAsicos,Patricia Virginia Diaz Bossia,Lucas Gutierrez,2024-10-14 15:12,2022-09-05,2024-05-02
 61485,"Dario Elola, RETENCIONES, #P R O D U C C I O N#, QA - Ejecuta TEST COMPLETO, ROBUSTECIMIENTO",CIUDAD,20,GCBA-SIGAF,Hito - Entregable,32697,E-Produccion,Media,Modificar visualizaciAA3n de constancias de retenciAA3n de IIBB - SB,Lucas Gutierrez,Lucas Gutierrez,2024-08-22 21:17,2023-03-20,2024-05-27
-129765,"Franchesca Rivas, CONTABILIDAD",OBSBA,11,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,Dario Elola,Dario Elola,2025-04-28 17:26,2025-02-27,2025-04-30
-120656,"CIERRE DE BALANCE, CONTABILIDAD",OBSBA,11,OBSBA-SIGAF,Tarea,129765,T-Stand By,Media,Contabilidad 2024 | Diferencias Contabilidad - Presupuesto 2024,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2025-03-05 08:06,,
-72898,"RETENCIONES, Carolina Gualdi, [ #3 ALTA ]",OBSBA,11,OBSBA,Tarea,91631,T-Stand By,Alta,Agregar validacion en Obsba: la condiciAA3n impositiva del ente respecto al tipo factura habilitada,Vanina Zylberg,Carolina Noemi Gualdi,2025-02-18 15:19,2024-03-08,2024-05-31
-119035,"REPORTES, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte de Detalle de Ordenes de Pago - Adecuaciones,Dario Elola,,2024-10-28 13:29,,
-115640,"Vanina Zylberg, FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,OBSBA - NB Inconsistencia en aplicacion de NB cuando la OP tiene una NC asociada,Vanina Zylberg,Vanina Zylberg,2024-09-09 15:54,2024-09-04,2024-09-04
-91675,"GESTION DE FACTURAS y OP, Vanina Zylberg, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Nota de Debito,Dario Elola,,2025-04-08 14:40,,
-91680,"CONTABILIDAD, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Apertura y cierre de periodos contables,Dario Elola,,2023-12-13 22:51,,
-130054,"RETENCIONES, Carolina Gualdi, INCIDENCIA PRODUCTIVA",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Retenciones| Optimizacion tiempo de Calculadora de Retenciones,Franchesca Gabriela Rivas Veliz,Carolina Noemi Gualdi,2025-03-25 11:15,,
-130159,"INCIDENCIA PRODUCTIVA, CONTABILIDAD, Franchesca Rivas",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,ADECUAR FORMATO LIBRO DIARIO  EN PDF,Franchesca Gabriela Rivas Veliz,,2025-03-05 18:13,,
-112475,"FONDOS A RENDIR, Franchesca Rivas, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Descripcion AXT de C42 FR,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-08-06 16:31,,
-61430,"Carolina Gualdi, PLANTA VALORIZADA, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,42848,E-Backlog,Media,Certificados de RetenciAA3n - Firma Digital,Nancy Andrea Martinez,Nancy Andrea Martinez,2023-05-08 15:42,2023-01-20,
-100446,"Franchesca Rivas, CONTABILIDAD, INCIDENCIA PRODUCTIVA, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Contabilidad NC de FFC Deuda Flotante,Franchesca Gabriela Rivas Veliz,,2024-03-20 14:03,,
-99213,"FONDO COMPENSADOR, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Eliminar impacto presupuestario de Retenciones NB,Vanina Zylberg,,2024-03-05 14:17,2024-03-05,2024-06-30
-99076,"GESTION DE FACTURAS y OP, Vanina Zylberg, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,ENTES - Agrupados - cambio de beneficiarios en gestiones,Vanina Zylberg,Vanina Zylberg,2025-04-08 14:50,2024-03-04,2024-03-08
-89697,"PRESUPUESTO, Franchesca Rivas, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Alta,OBSBA - Fechas que se utilizan para Impactos ,Vanina Zylberg,Franchesca Gabriela Rivas Veliz,2024-12-17 18:50,2023-11-24,2023-12-08
-91674,"FONDOS A RENDIR, Franchesca Rivas, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Fondos a Rendir | Nota de CrAAdito aplicada a Rendiciones,Dario Elola,,2023-12-13 22:43,,
-80017,"PRESUPUESTO, INCIDENCIA PRODUCTIVA, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Obsba - Presupuesto - Revisar impactos de retenciones de Notas Bancarias,Vanina Zylberg,,2023-12-14 11:37,,
-88345,"FONDOS A RENDIR, INCIDENCIA PRODUCTIVA, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Agregar Boton de Autorizar y Desautorizar en Resumen,Franchesca Gabriela Rivas Veliz,G- SWF ObSBA,2025-01-02 11:42,,
-94671,"GESTION DE FACTURAS y OP, Pablo Camdessanche, Dario Elola, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,NC - NB | Cambio de Fecha de autorizaciAA3n ,Dario Elola,Pablo Camdessanche,2024-01-17 15:05,2024-01-16,2024-01-16
-91683,"CONTABILIDAD, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Reportes Contables | Estado de Resultado,Dario Elola,,2023-12-13 22:58,,
-91685,"FONDO COMPENSADOR, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Backlog,Media,Fondo Compensador - Gestiones de HIV | Importar detalles con Excel y mostrarlos en una pestaAAa de detalles en la factura,Dario Elola,,2023-12-13 23:00,,
-93127,"GESTION DE FACTURAS y OP, [ #5 BAJA ]",OBSBA,11,OBSBA,Hito - Entregable,91631,E-Stand By,Alta,"Autorizacion ""C42""  desde el Modulo de Gastos",Carolina Noemi Gualdi,Franchesca Gabriela Rivas Veliz,2024-01-02 12:44,2023-12-21,2023-12-31
-96082,"Franchesca Rivas, FONDOS A RENDIR, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Alta ABM Fondo Anual- Fondos a Rendir ,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-01-31 14:52,,
-96094,"FONDOS A RENDIR, Franchesca Rivas, [ #4 MEDIA ]",OBSBA,11,OBSBA,Hito - Entregable,91631,E-Stand By,Media,Funcionalidad del Saldo Anual SFP,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-01-31 15:41,,
-96099,"Franchesca Rivas, FONDOS A RENDIR, [ #5 BAJA ]",OBSBA,11,OBSBA,Hito - Entregable,91631,E-Stand By,Media,Habilitar Check Box de Consulta SFC-SFP,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-01-31 16:01,,
-96171,"Franchesca Rivas, CONTABILIDAD, [ #3 ALTA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Contabilidad de Descuentos y Excedentes - Fondos a Rendir,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-02-01 11:21,,
-99754,"GESTION DE FACTURAS y OP, INCIDENCIA PRODUCTIVA, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Alta,Gestiones de Facturas solapa Resumen. Mensaje para guardar al navegar de un registro al otro,Vanina Zylberg,Daniel Marcelo FernAAndez,2024-03-20 22:49,2024-03-12,2024-05-12
-114929,"PRESUPUESTO, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,,T-Stand By,Media,C55 Cambio de Imputacion (CDI) | Adecuar validaciones presupuetarias ,Dario Elola,,2024-08-28 12:44,,
-118956,"REPORTES, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte Cuenta Corriente | Adecuaciones Plan de Pagos - Agregar observaciones para todo tipo de factura ,Dario Elola,,2024-10-25 18:04,,
-119161,"REPORTES, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte Cuenta Corriente | Adecuaciones Plan de Pagos - Agregar lista de valores a la bAAosqueda por ente ,Dario Elola,,2024-10-29 11:43,,
-119693,"CONTABILIDAD, [ #5 BAJA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Contabilidad | Cierre de Ejercicio - Minuta de Inicio y Cierre automAAticas ,Dario Elola,,2025-04-14 18:20,,2025-09-30
-123104,"REPORTES, INCIDENCIA PRODUCTIVA, [ #4 MEDIA ]",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Reporte Saldo por Beneficiario | Agregar numero de comprobante AFIP para los registros de DAS,Dario Elola,,2024-12-05 11:34,,
-133663,"CONTABILIDAD, INCIDENCIA PRODUCTIVA",OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Contabilidad | CorrecciAA3n de fondo - Asientos de FRA (DAS) Sin RegularizaciAA3n y Regularizados ,Dario Elola,,2025-04-10 17:59,,
-130300,"CONTABILIDAD, Pablo Camdessanche, Carolina Gualdi, ASIGNADO, CIERRE DE BALANCE",OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-Stand By,Alta,Cierre de Balance 2024- Fecha de Impacto NC y NB,Carolina Noemi Gualdi,Franchesca Gabriela Rivas Veliz,2025-03-06 16:57,2025-02-28,2025-02-28
-132695,"Carolina Gualdi, EXCEPCIAAN, INCIDENCIA PRODUCTIVA, NO REQUIUERE DESARROLLO, Software Factory, RETENCIONES, ASIGNADO",OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-En Curso,Alta,Cambios Importes de Retenciones de Fondos a Rendir,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-25 20:09,2025-03-28,2025-04-30
-134097,"CONTABILIDAD, Pablo Camdessanche, Carolina Gualdi, ASIGNADO, CIERRE DE BALANCE, Vanina Zylberg, { 01 }",OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-Stand By,Alta,Cambios Importes de Retenciones de Fondos a Rendir (Contabilidad),Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-16 15:10,2025-03-28,2025-04-30
-132086,"RETENCIONES, Pablo Camdessanche, Carolina Gualdi",OBSBA,14,OBSBA-SIGAF,Tarea,88181,T-Stand By,Alta,ModificaciAA3n del filtro para liquidar retenciones (deseleccionar Tesoreria),Carolina Noemi Gualdi,Pablo Camdessanche,2025-03-25 16:23,2025-03-25,2025-04-26
-132089,"RETENCIONES, Pablo Camdessanche, Carolina Gualdi",OBSBA,14,OBSBA-SIGAF,Tarea,88181,T-Stand By,Media,ModificaciAA3n del filtro para la generaciAA3n de archivos en SICORE para deseleccionar TesorerAAa.,Carolina Noemi Gualdi,Pablo Camdessanche,2025-03-25 15:16,2025-03-24,2025-04-30
-128229,"Franchesca Rivas, FONDOS A RENDIR, Pablo Camdessanche, INCIDENCIA PRODUCTIVA",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Fondos a Rendir - Cambio de Nro Afip,Franchesca Gabriela Rivas Veliz,Pablo Camdessanche,2025-03-31 10:57,2025-02-12,2025-02-12
-129501,"FONDO COMPENSADOR, Software Factory, Vanina Zylberg, INCIDENCIA PRODUCTIVA",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,OBSBA - NB Inconsistencia presupuestaria al Desautorizar,Vanina Zylberg,G- SWF ObSBA,2025-03-31 10:57,2025-02-21,2025-02-28
-129371,"Franchesca Rivas, FONDOS A RENDIR, Pablo Camdessanche, INCIDENCIA PRODUCTIVA",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Cambio ente FRC 75805-2024,Franchesca Gabriela Rivas Veliz,Pablo Camdessanche,2025-02-21 01:08,,
-119877,"PLANTA VALORIZADA, [ #4 MEDIA ], Carolina Gualdi, Pablo La Maestra",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Recursos Humanos | Derecho Habientes - Error presupuestario al autorizar PV ,Carolina Noemi Gualdi,Pablo Diego La Maestra,2025-03-05 08:59,2024-11-04,2024-11-14
-128228,"GESTION DE FACTURAS y OP, Vanina Zylberg, Pablo Camdessanche",OBSBA,14,OBSBA,Tarea,91631,T-Stand By,Alta,Error descuento de NC en Pagos parciales - duplica descuento de NC,Vanina Zylberg,G- SWF ObSBA,2025-03-18 09:20,2025-02-05,2025-02-21
-108978,"Vanina Zylberg, FONDO COMPENSADOR, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,retenciones Fondo Compensador - Ganancias,Vanina Zylberg,G- SWF ObSBA,2025-03-31 10:56,2024-06-26,2024-11-30
-99403,"GESTION DE FACTURAS y OP, INCIDENCIA PRODUCTIVA, Daniel FernAAndez, Vanina Zylberg, QA - Ejecuta TEST COMPLETO, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Gestiones de Facturas sin autorizacion parcial | Error en AutorizaciAA3n - Se realizan impactos mAAoltiples,Vanina Zylberg,Daniel Marcelo FernAAndez,2025-03-31 10:56,2024-08-14,2024-09-10
-115220,"RETENCIONES, Carolina Gualdi, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,NC parcial para gestiones con 2 objetos del gasto,Carolina Noemi Gualdi,Pablo Diego La Maestra,2025-02-11 11:35,2024-08-27,2024-12-28
-73871,"RETENCIONES, Carolina Gualdi, Software Factory, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Tarea,68634,T-Stand By,Alta,Retenciones - ENTE Condominio,Nancy Andrea Martinez,G- SWF ObSBA,2024-08-21 15:12,2024-08-21,2024-09-30
-91679,"REPORTES, Vanina Zylberg, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Poner dato de carpeta y factura interno en REPORT OP,Dario Elola,Pablo Camdessanche,2025-03-31 10:55,2024-06-12,2024-08-31
-86346,"PLANTA VALORIZADA, Dario Elola, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Planta Valorizada - Derecho Habientes - C55 ,Nancy Andrea Martinez,G- SWF ObSBA,2024-02-22 11:24,,
-74990,"RETENCIONES, Carolina Gualdi, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Tarea,68634,T-Stand By,Urgente,Retenciones Acumulados - GestiAA3n Fondo Compensador -  Nota Bancaria,Nancy Andrea Martinez,Pablo Diego La Maestra,2025-04-15 13:07,,2025-09-30
-87374,"INCIDENCIA PRODUCTIVA, GESTION DE FACTURAS y OP, Vanina Zylberg, [ #3 ALTA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Obsba aplicacion NC por total de importe de la OP,Vanina Zylberg,G- SWF ObSBA,2025-03-31 10:55,2024-07-12,2024-07-31
-82332,"RETENCIONES, Carolina Gualdi, [ #4 MEDIA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,Periodos Impositivos | Permitir Realizar la Apertura por AplicaciAA3n ,Dario Elola,Pablo Camdessanche,2023-12-18 09:15,2023-09-13,2023-09-13
-83675,"GESTION DE FACTURAS y OP, Vanina Zylberg, Pablo Camdessanche, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Hito - Entregable,91631,E-Stand By,Media,CPC | AutorizaciAA3n Masiva,Dario Elola,G- SWF ObSBA,2024-06-12 17:41,2023-10-18,2023-11-03
-74932,"GESTION DE FACTURAS y OP, Franchesca Rivas, Vanina Zylberg, Pablo Camdessanche, INCIDENCIA PRODUCTIVA, [ #5 BAJA ]",OBSBA,14,OBSBA,Hito - Entregable,91631,E-Stand By,Media,Factura OBSBA | BAAosqueda por Formulario AFIP,Dario Elola,G- SWF ObSBA,2024-06-07 17:36,2023-07-04,2023-07-04
-98742,"Pablo La Maestra, RETENCIONES, Carolina Gualdi, [ #3 ALTA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,UBICACIAAN GEOGRAAFICA - NC con 2 ubicaciones geograficas da ERROR,Carolina Noemi Gualdi,Pablo Diego La Maestra,2024-02-29 10:46,2024-02-28,2024-12-28
-98753,"Pablo La Maestra, RETENCIONES, Carolina Gualdi, [ #3 ALTA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,UBICACIAAN GEOGRAAFICA - NB con 2 ubicaciones geograficas da ERROR,Carolina Noemi Gualdi,Pablo Diego La Maestra,2024-02-29 11:43,2024-02-28,2024-12-28
-93569,"FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, Dario Elola, Kevin Borghetti, [ #5 BAJA ]",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Resumen de Facturas de Fondo Compensador sale error,Carolina Noemi Gualdi,G- SWF ObSBA,2024-08-02 14:32,2024-01-04,2024-12-31
-127646,"GESTION DE FACTURAS y OP, INCIDENCIA PRODUCTIVA, Franchesca Rivas",OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,BotAA3n Consultar Asiento- Nota de CrAAdito,Franchesca Gabriela Rivas Veliz,Pablo Diego La Maestra,2025-01-29 17:00,,
-134349,"FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, Pablo Camdessanche, Carolina Gualdi, Franchesca Rivas",OBSBA,15,OBSBA-SIGAF,Tarea,91631,T-En Curso,Media,Fondos a Rendir - Cambio de Importe FRC ,Carolina Noemi Gualdi,Pablo Camdessanche,2025-04-25 18:51,2025-02-12,2025-02-12
-134338,"CONTABILIDAD, CIERRE DE BALANCE, Dario Elola, Pablo Camdessanche",OBSBA,15,OBSBA-SIGAF,Tarea,129765,T-En Curso,Alta,Contabilidad | Notas de CrAAdito con asientos en cero ,Dario Elola,Pablo Camdessanche,2025-04-23 10:56,2025-04-23,2025-04-23
-134571,"CONTABILIDAD, CIERRE DE BALANCE, Pablo Camdessanche, Dario Elola",OBSBA,15,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - CreaciAA3n de Script para Minuta ""NB OP 2025 Traditum""",Dario Elola,G- MDA OBSBA,2025-04-28 18:18,2025-04-25,2025-04-25
-134572,"CONTABILIDAD, CIERRE DE BALANCE, Pablo Camdessanche, Dario Elola",OBSBA,15,OBSBA-SIGAF,Tarea,129765,T-En Curso,Urgente,"CIERRE DE BALANCE - CreaciAA3n de Script para Minuta ""Ajuste DiagnAA3stico Mediter Fondo",Dario Elola,Dario Elola,2025-04-28 16:53,2025-04-25,2025-04-25
-134566,"CONTABILIDAD, Pablo Camdessanche, CIERRE DE BALANCE, Dario Elola",OBSBA,15,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Urgente,CIERRE DE BALANCE 2024  | Minuta CONCILIACION BANCARIA 132/4 2025,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2025-04-28 18:17,2025-04-27,2025-04-27
-131668,"INCIDENCIA PRODUCTIVA, Carolina Gualdi, RETENCIONES, Pablo La Maestra, EXCEPCIAAN, ASIGNADO",OBSBA,16,Mesa ObSBA,MDA-ObSBA,,MDA-Test funcional,Alta,Retenciones duplicadas tesoreria Obsba, KAREN  LICERA,Pablo Diego La Maestra,2025-04-28 17:11,,
-128819,"PLANTA VALORIZADA, Carolina Gualdi, INCIDENCIA PRODUCTIVA, Pablo Camdessanche, EXCEPCIAAN, ASIGNADO",OBSBA,16,OBSBA-SIGAF,Tarea,91631,T-En Curso,Urgente,Planta Valorizada RRHH Error OP no esta tomando el objeto del gasto 1390,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-15 12:34,2025-02-07,2025-02-15
-91676,"REPORTES, Kevin Borghetti, EXCEPCIAAN, CIERRE DE BALANCE, Carolina Gualdi, ASIGNADO",OBSBA,16,OBSBA-SIGAF,Hito - Entregable,91631,E-Test Funcional,Media,Report/PDF Nota de CrAAdito,Dario Elola,Carolina Noemi Gualdi,2025-04-15 09:29,2024-02-01,2025-09-30
-130866,"INCIDENCIA PRODUCTIVA, GESTION DE FACTURAS y OP, Vanina Zylberg, Pablo Camdessanche, EXCEPCIAAN",OBSBA,19,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,Cambio de Ente Carpeta 71890/24 Fdo Compensador,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2025-04-28 18:18,2025-04-23,2025-04-23
-134437,"CONTABILIDAD, Carolina Gualdi, CIERRE DE BALANCE, Pablo Camdessanche",OBSBA,19,OBSBA-SIGAF,Tarea,129765,T-Pasaje a ProducciAA3n,Urgente,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP,Carolina Noemi Gualdi,Pablo Camdessanche,2025-04-28 17:29,2025-04-11,2025-04-14
 134185,"Vanina Zylberg, FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, Kevin Borghetti, #P R O D U C C I O N#",OBSBA,20,Mesa ObSBA,MDA-ObSBA,,MDA-Cerrado,Alta,Imposibilidad de autorizar nota bancaria 81791,Oriana Sosa,G- MDA OBSBA,2025-04-25 13:14,,
 134357,"Vanina Zylberg, INCIDENCIA PRODUCTIVA, GESTION DE FACTURAS y OP, Pablo La Maestra, #P R O D U C C I O N#, EXCEPCIAAN",OBSBA,20,Mesa ObSBA,Tarea,134279,T-Finalizada,Urgente,Eliminar OP duplicada.,Vanina Zylberg,G- MDA OBSBA,2025-04-24 20:56,2025-04-23,2025-04-25
 134279,"Vanina Zylberg, FONDO COMPENSADOR, INCIDENCIA PRODUCTIVA, #FINALIZADO - Sin Pasaje a PROD#",OBSBA,20,Mesa ObSBA,MDA-ObSBA,,MDA-Cerrado,Media,SIGAF | Inconveniente con NC duplicada , KAREN  LICERA,Vanina Zylberg,2025-04-25 12:00,,
@@ -792,132 +846,30 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 94048,"Dario Elola, INCIDENCIA PRODUCTIVA, CONTABILIDAD, #P R O D U C C I O N#, EXCEPCIAAN, Pablo Camdessanche",OBSBA,20,OBSBA-SIGAF,Tarea,86214,T-Finalizada,Media,CPV | Regenerar Contabilidad 2023,Dario Elola,Pablo Camdessanche,2024-01-10 20:16,2024-01-10,2024-01-10
 134572,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - CreaciA3n de Script para Minuta ""Ajuste DiagnA3stico Mediter Fondo",Dario Elola,G- MDA OBSBA,2025-04-29 18:26,2025-04-25,2025-04-25
 134571,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - CreaciA3n de Script para Minuta ""NB OP 2025 Traditum""",Dario Elola,Dario Elola,2025-04-29 11:37,2025-04-25,2025-04-25
-134518,,CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Media,CIERRE CUENTA DE INVERSIAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciA3n de montos por retenciones,Gaston Sarkissian,Juan Miguel Olivares,2025-04-29 16:49,,
 134437,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP,Carolina Noemi Gualdi,G- MDA OBSBA,2025-04-29 18:36,2025-04-11,2025-04-14
-134233,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAlisis,Alta,SIGAF | Solicitud de correcciA3n de importes asientos C55 5200/2024 y 6174/2024, KAREN  LICERA,Valentina Juszkiewicz,2025-04-29 11:52,,
-133311,,CIUDAD,18,Mesa SIGAF,MDA-SIGAF,,MDA-Test QA,Media,CIERRE CUENTA DE INVERSIAN 2024 | 2025 // decremento saldo impago,Gaston Sarkissian,Luz Fox,2025-04-29 09:27,,
-132628,,CIUDAD,16,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test funcional,Alta,CIERRE CUENTA DE INVERSIAN 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024, KAREN  LICERA,G- MDA SIGAF,2025-04-29 16:04,,
-132275,,CIUDAD,19,Mesa SIGAF,MDA-SIGAF,,MDA-Pasaje PROD,Media,Movimientos en AC Cuenta OD ,Agustina Mainardi,Juan Miguel Olivares,2025-04-29 16:18,,
-131565,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,134403,MDA-AnAlisis,Baja,Revision de la carga de datos en facturas de servicios bAsicos,Hernan Gabriel Burgos,G- Func. Gastos y Contabilidad,2025-04-29 10:04,,
 131496,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSIAN 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10,Diego Martin Godoy,G- MDA SIGAF,2025-04-29 20:04,,
-131404,,CIUDAD,16,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Alta,"SIGAF | Agregar la condiciA3n en la solapa ""Beneficiario"" al autoriza la Orden de Pago",Oriana Sosa,Luz Fox,2025-04-29 15:12,,
-130027,,CIUDAD,18,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSIAN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,Agustina Mainardi,Luz Fox,2025-04-29 17:50,,
-129765,,OBSBA,11,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,Dario Elola,Dario Elola,2025-04-29 18:36,2025-02-27,2025-04-30
-128602,,CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSIAN 2024 ,Dario Elola,Dario Elola,2025-04-29 17:50,2024-10-28,2025-03-07
 120953,,CIUDAD,20,Mesa BI,Tarea,119916,T-Cancelada,Media,Reporte Tiempos PRD - Error: el reporte trajo un resultado 2023 cuando se esta filtrando por 2024,Vanina Zylberg,SebastiAn Javier  Cardoso,2025-04-29 12:39,2024-11-14,2024-11-21
-117956,,CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,Aviso de Pago de FacturaciA3n Servicios BAsicos,Lucas Gutierrez,Lucas Gutierrez,2025-04-29 17:46,2022-09-05,2025-06-28
 134572,"RM
 134572    CONTABILIDAD, CIERRE DE BALANCE, Pablo Camdess...
 134572                                                     
-Name: labels, dtype: object","RM
-134572    OBSBA
-134572    OBSBA
-Name: SISTEMA, dtype: object",,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - Creacion de Script para Minuta ""Ajuste Diagnostico Mediter Fondo",,G- MDA OBSBA,2025-04-29 18:26,2025-04-25,2025-04-25
+Name: labels, dtype: object",OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - Creacion de Script para Minuta ""Ajuste Diagnostico Mediter Fondo",,G- MDA OBSBA,2025-04-30,2025-04-25,2025-04-25
 134571,"RM
 134571    CONTABILIDAD, CIERRE DE BALANCE, Pablo Camdess...
 134571                                                     
-Name: labels, dtype: object","RM
-134571    OBSBA
-134571    OBSBA
-Name: SISTEMA, dtype: object",,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - Creacion de Script para Minuta ""NB OP 2025 Traditum""",,Dario Elola,2025-04-29 11:37,2025-04-25,2025-04-25
-134518,"RM
-134518    CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUC...
-134518                                                     
-Name: labels, dtype: object","RM
-134518    CIUDAD
-134518    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Media,CIERRE CUENTA DE INVERSION 2024 | CI 2024 - OD 210 - Cuenta regularizacion de montos por retenciones,,Juan Miguel Olivares,2025-04-29 16:49,,
+Name: labels, dtype: object",OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - Creacion de Script para Minuta ""NB OP 2025 Traditum""",,Dario Elola,2025-04-30,2025-04-25,2025-04-25
 134437,"RM
 134437    CONTABILIDAD, Carolina Gualdi, CIERRE DE BALAN...
 134437                                                     
-Name: labels, dtype: object","RM
-134437    OBSBA
-134437    OBSBA
-Name: SISTEMA, dtype: object",,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP,,G- MDA OBSBA,2025-04-29 18:36,2025-04-11,2025-04-14
-134304,"{ 01 }, CIERRE DE CUENTA DE INVERSIAAN, GESTIONES DE GASTOS, Valentina Juszkiewicz, Juan Miguel Olivares",CIUDAD,,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Media,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD,,Valentina Juszkiewicz,2025-04-30 09:54,,
-134233,"RM
-134233    { 01 }, CIERRE DE CUENTA DE INVERSIAAN, GESTIO...
-134233                                                     
-Name: labels, dtype: object","RM
-134233    CIUDAD
-134233    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,128602,MDA-Analisis,Alta,SIGAF | Solicitud de correccion de importes asientos C55 5200/2024 y 6174/2024,,Valentina Juszkiewicz,2025-04-29 11:52,,
-133311,"RM
-133311    { 01 }, CIERRE DE CUENTA DE INVERSIAAN, ASIGNA...
-133311                                                     
-Name: labels, dtype: object","RM
-133311    CIUDAD
-133311    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,,MDA-Test QA,Media,CIERRE CUENTA DE INVERSION 2024 | 2025 // decremento saldo impago,,Luz Fox,2025-04-29 09:27,,
+Name: labels, dtype: object",OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP,,G- MDA OBSBA,2025-04-30,2025-04-11,2025-04-14
 132628,"RM
 132628    Daniel Bordon, HAActor Gonzalez, CIERRE DE CUE...
 132628                                                     
-Name: labels, dtype: object","RM
-132628    CIUDAD
-132628    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSION 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024,,G- MDA SIGAF,2025-04-30 08:28,,
-132275,"RM
-132275    INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERS...
-132275                                                     
-Name: labels, dtype: object","RM
-132275    CIUDAD
-132275    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,,MDA-Pasaje PROD,Media,Movimientos en AC Cuenta OD ,,Juan Miguel Olivares,2025-04-29 16:18,,
-131565,"RM
-131565    SERVICIOS BAASICOS, INCIDENCIA PRODUCTIVA
-131565                                             
-Name: labels, dtype: object","RM
-131565    CIUDAD
-131565    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,134403,MDA-Analisis,Baja,Revision de la carga de datos en facturas de servicios basicos,,G- Func. Gastos y Contabilidad,2025-04-29 10:04,,
+Name: labels, dtype: object",CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSION 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024,,G- MDA SIGAF,2025-04-30,,
 131496,"RM
 131496    CIERRE CUENTA DE INVERSIAAN, INCIDENCIA PRODUC...
 131496                                                     
-Name: labels, dtype: object","RM
-131496    CIUDAD
-131496    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSION 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10,,G- MDA SIGAF,2025-04-29 20:04,,
-131404,"RM
-131404    ROBUSTECIMIENTO, Valentina Juszkiewicz, R.R.H....
-131404                                                     
-Name: labels, dtype: object","RM
-131404    CIUDAD
-131404    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Alta,"SIGAF | Agregar la condicion en la solapa ""Beneficiario"" al autoriza la Orden de Pago",,Luz Fox,2025-04-29 15:12,,
-130027,"RM
-130027    GESTIONES DE GASTOS, Vanina Zylberg, Adalberto...
-130027                                                     
-Name: labels, dtype: object","RM
-130027    CIUDAD
-130027    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSION 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,,Luz Fox,2025-04-29 17:50,,
-129765,"RM
-129765    Franchesca Rivas, CONTABILIDAD
-129765                                  
-Name: labels, dtype: object","RM
-129765    OBSBA
-129765    OBSBA
-Name: SISTEMA, dtype: object",,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,,Dario Elola,2025-04-29 18:36,2025-02-27,2025-04-30
-128602,"RM
-128602    CIERRE CUENTA DE INVERSIAAN
-128602                               
-Name: labels, dtype: object","RM
-128602    CIUDAD
-128602    CIUDAD
-Name: SISTEMA, dtype: object",,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSION 2024 ,,Dario Elola,2025-04-29 17:50,2024-10-28,2025-03-07
-127973,"INCIDENCIA PRODUCTIVA, CIERRE CUENTA DE INVERSIAAN, Juan Miguel Olivares, QA - Ejecuta TEST COMPLETO, { 01 }, Vanina Zylberg, ASIGNADO QA, Luz Fox",CIUDAD,,Mesa SIGAF,MDA-SIGAF,128602,MDA-Test QA,Alta,CIERRE CUENTA DE INVERSION 2024 | C55 debe generarse con impacto en pagado igual que OP original 2,,Luz Fox,2025-04-30 09:42,,
+Name: labels, dtype: object",CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSION 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10,,G- MDA SIGAF,2025-04-30,,
 120953,"RM
 120953    Vanina Zylberg, REPORTES, Business Intelligenc...
 120953                                                     
-Name: labels, dtype: object","RM
-120953    CIUDAD
-120953    CIUDAD
-Name: SISTEMA, dtype: object",,Mesa BI,Tarea,119916,T-Cancelada,Media,Reporte Tiempos PRD - Error: el reporte trajo un resultado 2023 cuando se esta filtrando por 2024,,Sebastian Javier  Cardoso,2025-04-29 12:39,2024-11-14,2024-11-21
-120150,"Daniel Bordon, QA - Ejecuta TEST COMPLETO, Juan Carlos Brodersen, FIRMA DIGITAL",CIUDAD,,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,RF:35904 Validacion Firma Digital,,Juan Carlos Brodersen,2025-04-30 09:50,2024-08-12,2024-12-31
-117956,"RM
-117956    SERVICIOS BAASICOS, ROBUSTECIMIENTO, Adalberto...
-117956                                                     
-Name: labels, dtype: object","RM
-117956    CIUDAD
-117956    CIUDAD
-Name: SISTEMA, dtype: object",,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,Aviso de Pago de Facturacion Servicios Basicos,,Lucas Gutierrez,2025-04-29 17:46,2022-09-05,2025-06-28
+Name: labels, dtype: object",CIUDAD,20,Mesa BI,Tarea,119916,T-Cancelada,Media,Reporte Tiempos PRD - Error: el reporte trajo un resultado 2023 cuando se esta filtrando por 2024,,Sebastian Javier  Cardoso,2025-04-30,2024-11-14,2024-11-21
