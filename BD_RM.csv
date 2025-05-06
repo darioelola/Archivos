@@ -48,7 +48,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 128853,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134426,MDA-AnAAlisis,Baja,ReimputaciAA3n Presupuestaria de Medidores || Servicios Basicos,Hernan Gabriel Burgos,G- Func. Gastos y Contabilidad,2025-04-25 11:46:00,,,
 134209,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,SIGAF | CI 2024 // Asientos PAG errAA3neos,Diego Martin Godoy,G- MDA SIGAF,2025-04-25 11:35:00,,,
 130217,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Alta,Generar reporte de Gastos de TelefonAAa EducaciAA3n-Hacienda,Oriana Sosa,Renzo Antonioli,2025-04-25 10:46:00,,,
-118245,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134432,MDA-AnAAlisis,Media,"RevisiAA3n funcionalidad,Sistema permitio autorizar Orden de pago en negativo",Gaston Sarkissian,G- Func. Gastos y Contabilidad,2025-04-25 09:54:00,,
+118245,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134432,MDA-AnAAlisis,Media,"RevisiAA3n funcionalidad - Sistema permitio autorizar Orden de pago en negativo",Gaston Sarkissian,G- Func. Gastos y Contabilidad,2025-04-25 09:54:00,,
 134194,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciAA3n de montos por retenciones,Gaston Sarkissian,G- MDA SIGAF,2025-04-25 09:26:00,,,
 133948,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIAAN 2024 | Arreglar cuentas contables,Gaston Sarkissian,G- MDA SIGAF,2025-04-25 09:18:00,,,
 134407,,CIUDAD,20,Mesa SIGAF,Tarea,0,T-Finalizada,Media,Restablecer los procesos contables (Duplicada de RM133350),Nelson Daniel Bordón,Dario Elola,2025-04-24 21:06:00,2025-04-23,2025-04-25,
