@@ -243,7 +243,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 130268,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Urgente,Contabilidad | Alta clasificador 1380 en MREDEVPR 2025,Franchesca Gabriela Rivas Veliz,Carolina Noemi Gualdi,2025-03-07 10:29:00,2025-03-06,2025-03-07,
 129157,,OBSBA,20,Mesa ObSBA,MDA-ObSBA,0,MDA-Cerrado,Alta,SIGAF | Inconvenientes al autorizar NB,Oriana Sosa,G- MDA OBSBA,2025-03-06 19:12:00,,,
 128148,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Media,Inconvenientes en OP: compensaciones para hacer el C10,Agustina Mainardi,Usuario Externo SIGAF,2025-03-06 17:35:00,,,
-130300,,OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-Stand By,Alta,Cierre de Balance 2024- Fecha de Impacto NC y NB,Carolina Noemi Gualdi,Franchesca Gabriela Rivas Veliz,2025-03-06 16:57:00,2025-02-28,2025-02-28,
+130300,|Franchesca Rivas|,OBSBA,12,OBSBA-SIGAF,Tarea,129765,T-Stand By,Alta,Cierre de Balance 2024- Fecha de Impacto NC y NB,Carolina Noemi Gualdi,Franchesca Gabriela Rivas Veliz,2025-03-06 16:57:00,2025-02-28,2025-02-28,
 116075,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Media,Solicitud de incorporar validacion,Agustin Retamal,G- MDA SIGAF,2025-03-06 11:24:00,,,
 130159,,OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,ADECUAR FORMATO LIBRO DIARIO  EN PDF,Franchesca Gabriela Rivas Veliz,,2025-03-05 18:13:00,,,
 127721,,CIUDAD,20,GCBA-SIGAF,Hito - Entregable,116075,E-Cancelada,Media,Solicitud de incorporar validacion,Dario Elola,Dario Elola,2025-03-05 16:14:00,2025-01-30,2025-01-30,
