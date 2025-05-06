@@ -188,7 +188,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 119074,,CIUDAD,20.0,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Gastos | Diferencias en bajada de fondo de reparo,Agustina Mainardi,G- MDA SIGAF,2025-03-18 13:21:00,,,
 128228,,OBSBA,14.0,OBSBA,Tarea,91631,T-Stand By,Alta,Error descuento de NC en Pagos parciales - duplica descuento de NC,Vanina Zylberg,G- SWF ObSBA,2025-03-18 09:20:00,2025-02-05,2025-02-21,
 131186,,CIUDAD,20.0,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Actualizar acumuladores de saldos contables,KAREN  LICERA,G- MDA SIGAF,2025-03-18 08:00:00,,,
-131354,,CIUDAD,11.0,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Media,Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n (RelaciAA3n Hito - Entregable #120743),Diego Martin Godoy,Dario Elola,2025-03-17 13:46:00,,,
+131354,[CIERRE DE CUENTA],CIUDAD,11.0,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Media,Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n (RelaciAA3n Hito - Entregable #120743),Diego Martin Godoy,Dario Elola,2025-03-17 13:46:00,,,
 131188,,CIUDAD,20.0,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,SIGAF | CIERRE CUENTA DE INVERSIAAN 2024 | Pendiente de Pago Deuda No Prescripta,Agustina Mainardi,Dario Elola,2025-03-17 10:56:00,,,
 130910,,CIUDAD,20.0,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,SIGAF  | Ejercicio erroneo en Historico de Solicitud de Gasto,Oriana Sosa,G- MDA SIGAF,2025-03-14 13:48:00,,,
 100307,,CIUDAD,20.0,GCBA-SIGAF,Hito - Entregable,100306,E-Produccion,Media,"1- IRdCP - Credito Publico en SIGAF (SSD,RSD,MS)",Lucas Gutierrez,Laura Isabel Freysselinard,2025-03-14 09:54:00,2024-06-24,,
