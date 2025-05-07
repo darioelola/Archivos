@@ -1,32 +1,32 @@
 RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asunto,Actualizado por,Asignado a,Actualizado,Fecha de inicio,Fecha fin,Last updated by
-135065,,OBSBA,12,Mesa ObSBA,MDA-ObSBA,"",MDA-Análisis,Alta,SIGAF | Inconvenientes al autorizar OPs,,G- OBSBA-Gestión de facturas y contabilidad,2025-05-06 16:38,"","",Oriana Sosa
-134741,[CIERRE DE CUENTA],CIUDAD,15,Mesa SIGAF,MDA-SIGAF,"",MDA-Desarrollo,Urgente,CIERRE CUENTA DE INVERSIÓN 2024  // diferencias DEUDA Flotante,,Juan Miguel Olivares,2025-05-06 19:15,"","",Lucas Gutierrez
-135045,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Alta,Corrección de Fondo: Inconveniente al desautorizar facturas de Servicios Básicos,,G- Func. Gastos y Contabilidad,2025-05-06 14:57,"","",Oriana Sosa
-135027,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Corrección de asiento  de formulario C55 11858/24,,G- Func. Gastos y Contabilidad,2025-05-06 13:23,"","",Oriana Sosa
-135008,[CIERRE DE CUENTA],CIUDAD,11,GCBA-SIGAF,Hito - Entregable,135006,E-Backlog,Urgente,CIERRE CUENTA DE INVERSIÓN 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gestión,,G- Func. Gastos y Contabilidad,2025-05-06 14:24,2024-11-20,2024-11-20,Dario Elola
-135007,[CIERRE DE CUENTA],CIUDAD,11,GCBA-SIGAF,Hito - Entregable,135006,E-Backlog,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Desafectación de saldos impagos para circuitos C41 con gestión (Compras- Obras- Contratos- etc.),,G- Func. Gastos y Contabilidad,2025-05-06 14:25,2024-10-28,2025-04-21,Dario Elola
+135065,,OBSBA,12,Mesa ObSBA,MDA-ObSBA,,MDA-Análisis,Alta,SIGAF | Inconvenientes al autorizar OPs,,G- OBSBA-Gestión de facturas y contabilidad,2025-05-06 16:38,,,Oriana Sosa
+134741,[CIERRE DE CUENTA],CIUDAD,15,Mesa SIGAF,MDA-SIGAF,,MDA-Desarrollo,Urgente,CIERRE CUENTA DE INVERSIÓN 2024  // diferencias DEUDA Flotante,,Juan Miguel Olivares,2025-05-06 19:15,,,Lucas Gutierrez
+135045,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Alta,Corrección de Fondo: Inconveniente al desautorizar facturas de Servicios Básicos,,G- Func. Gastos y Contabilidad,2025-05-06 14:57,,,Oriana Sosa
+135027,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Corrección de asiento  de formulario C55 11858/24,,G- Func. Gastos y Contabilidad,2025-05-06 13:23,,,Oriana Sosa
+135008,,CIUDAD,11,GCBA-SIGAF,Hito - Entregable,135006,E-Backlog,Urgente,CIERRE CUENTA DE INVERSIÓN 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gestión,,G- Func. Gastos y Contabilidad,2025-05-06 14:24,2024-11-20,2024-11-20,Dario Elola
+135007,,CIUDAD,11,GCBA-SIGAF,Hito - Entregable,135006,E-Backlog,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Desafectación de saldos impagos para circuitos C41 con gestión (Compras- Obras- Contratos- etc.),,G- Func. Gastos y Contabilidad,2025-05-06 14:25,2024-10-28,2025-04-21,Dario Elola
 134961,[CIERRE DE CUENTA],CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Media,"CIERRE CUENTA DE INVERSIÓN 2024 | OD 210 - Error de asientos en la columna ""Variaciones""",,G- Func. Gastos y Contabilidad,2025-05-05 16:25,,,Oriana Sosa
 134809,,OBSBA,19,OBSBA-SIGAF,Tarea,129765,T-Pasaje a Produccion,Urgente,"CIERRE DE BALANCE - Borrar Minuta 1742 ""Conciliacion Bancaria Cuenta 132/4""",,G- Tecno-Base de datos Oracle,2025-04-30 18:23:00,2025-04-30,2025-04-30,Pablo Camdessanche
 134523,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Alta,Creación de Script para los Cambios de Renteciones de FRC,,G- MDA OBSBA,2025-05-06 18:03,2025-03-28,2025-04-30,Sergio Nicolas Leiva
-129765,,CIUDAD,11,OBSBA-SIGAF,Requerimiento - Agrupador,"",R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,,G- OBSBA-Gestión de facturas y contabilidad,2025-05-06 14:24,"","",Dario Elola
+129765,,CIUDAD,11,OBSBA-SIGAF,Requerimiento - Agrupador,,R- Backlog,Urgente,CIERRE DE BALANCE OBSBA 2024,,G- OBSBA-Gestión de facturas y contabilidad,2025-05-06 14:24,,,Dario Elola
 134835,,OBSBA,15,OBSBA,Tarea,129765,T-En Curso,Urgente,Contabilidad| Asientos de Pago C42 - Adecuación,,Franchesca Gabriela Rivas Veliz,2025-05-06 17:35,2025-05-05,2025-05-06,Pablo Camdessanche
 131404,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,Alta,"SIGAF | Agregar la condición en la solapa ""Beneficiario"" al autoriza la Orden de Pago",,G- MDA SIGAF,2025-05-05 11:21,,,Oriana Sosa
 133311,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSION 2024 | 2025 // decremento saldo impago,,G- MDA SIGAF,2025-04-30 15:50:00,,,Gaston Sarkissian
 134518,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIÓN 2024 | CI 2024 - OD 210 - Cuenta regularización de montos por retenciones,,G- MDA SIGAF,2025-05-05 12:05,,,Gaston Sarkissian
-128602,[CIERRE DE CUENTA],CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,"",R- En curso,Urgente,CIERRE CUENTA DE INVERSIÓN 2024,,Dario Elola,2025-05-06 20:23,2024-10-28,2025-03-07,Nelson Daniel Bordón
+128602,[CIERRE DE CUENTA],CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Urgente,CIERRE CUENTA DE INVERSIÓN 2024,,Dario Elola,2025-05-06 20:23,2024-10-28,2025-03-07,Nelson Daniel Bordón
 134739,,OBSBA,19,OBSBA-SIGAF,Tarea,91631,T-Solicitud de pasaje,Urgente,CIERRE DE BALANCE - MINUTA CONC BANCARIA 6-2 2024,,Pablo Camdessanche,2025-04-30 15:28:00,2025-04-29,2025-05-10,Kevin Hernan Borghetti
-134233,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,SIGAF | Solicitud de corrección de importes asientos C55 5200/2024 y 6174/2024,,G- MDA SIGAF,2025-05-06 08:08,"","",KAREN  LICERA
+134233,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,SIGAF | Solicitud de corrección de importes asientos C55 5200/2024 y 6174/2024,,G- MDA SIGAF,2025-05-06 08:08,,,KAREN  LICERA
 132371,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSION 2024 | SIGAF | Solicitud de query para PRDs con Moneda Extranjera,,Oriana Sosa,2025-04-30 13:08:00,,,Oriana Sosa
 134677,,OBSBA,19,OBSBA-SIGAF,Tarea,129765,T-Pasaje a Produccion,Urgente,CIERRE DE BALANCE - Creacion de Script (Minuta de reimputacion de sueldos),,G- Tecno-Base de datos Oracle,2025-04-30 13:05:00,2025-04-25,2025-05-02,Pablo Camdessanche
-130027,[CIERRE DE CUENTA],CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,,Adalberto Jose Torres Salazar,2025-05-05 18:41,,,Luz Fox
+130027,,CIUDAD,15,Mesa SIGAF,MDA-SIGAF,128602,MDA-Desarrollo,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,,Adalberto Jose Torres Salazar,2025-05-05 18:41,,,Luz Fox
 134572,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - Creacion de Script para Minuta ""Ajuste Diagnostico Mediter Fondo",,Dario Elola,2025-04-30 12:01:00,2025-04-25,2025-04-25,Pablo Diego La Maestra
-127973,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | C55 debe generarse con impacto en pagado igual que OP original 2,,G- MDA SIGAF,2025-05-06 20:23,"","",Federico Prgich
+127973,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | C55 debe generarse con impacto en pagado igual que OP original 2,,G- MDA SIGAF,2025-05-06 20:23,,,Federico Prgich
 132275,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,Media,Movimientos en AC Cuenta OD,,G- MDA SIGAF,2025-05-05 10:54,,,Agustina Mainardi
-132628,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024,,G- MDA SIGAF,2025-05-06 08:05,"","",KAREN  LICERA
+132628,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024,,G- MDA SIGAF,2025-05-06 08:05,,,KAREN  LICERA
 117956,,CIUDAD,15,GCBA-SIGAF,Hito - Entregable,96818,E-Desarrollo,Alta,Aviso de Pago de Facturación Servicios Básicos,,Dario Elola,2025-05-06 18:24,2022-09-05,2025-06-28,Adalberto Jose Torres Salazar
 131496,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSION 2024 | SIGAF | CI 2024 // Inconveniente en contabilidad de formularios C10,,G- MDA SIGAF,2025-04-30 10:15:00,,,Diego Martin Godoy
 120150,,CIUDAD,18,GCBA-SIGAF,Hito - Entregable,96818,E-Test QA,Alta,RF:35904 Validacion Firma Digital,,Ricardo Henriquez,2025-04-30 10:11:00,2024-08-12,2024-12-31,Juan Carlos Brodersen
-134304,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Media,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD,,G- Func. Gastos y Contabilidad,2025-05-06 12:49,"","",Hernan Gabriel Burgos
+134304,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Media,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD,,G- Func. Gastos y Contabilidad,2025-05-06 12:49,,,Hernan Gabriel Burgos
 131565,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,134403,MDA-Análisis,Baja,Revision de la carga de datos en facturas de servicios básicos,,Renzo Antonioli,2025-05-05 16:04,,,Dario Elola
 120953,[CIERRE DE CUENTA],CIUDAD,20,Mesa BI,Tarea,119916,T-Cancelada,Media,Reporte Tiempos PRD - Error: el reporte trajo un resultado 2023 cuando se esta filtrando por 2024,,Sebastian Javier  Cardoso,2025-04-30 00:00:00,2024-11-14,2024-11-21,
 134571,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,"CIERRE DE BALANCE - Creacion de Script para Minuta ""NB OP 2025 Traditum""",,Dario Elola,2025-04-30 00:00:00,2025-04-25,2025-04-25,
@@ -49,20 +49,20 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 128853,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134426,MDA-AnAAlisis,Baja,ReimputaciAA3n Presupuestaria de Medidores || Servicios Basicos,Hernan Gabriel Burgos,G- Func. Gastos y Contabilidad,2025-04-25 11:46:00,,,
 134209,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,SIGAF | CI 2024 // Asientos PAG errAA3neos,Diego Martin Godoy,G- MDA SIGAF,2025-04-25 11:35:00,,,
 130217,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Alta,Generar reporte de Gastos de TelefonAAa EducaciAA3n-Hacienda,Oriana Sosa,Renzo Antonioli,2025-04-25 10:46:00,,,
-118245,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134432,MDA-Análisis,Media,Revisión funcionalidad - Sistema permitio autorizar Orden de pago en negativo,,G- Func. Gastos y Contabilidad,2025-05-06 15:47,"","",Dario Elola
+118245,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134432,MDA-Análisis,Media,Revisión funcionalidad - Sistema permitio autorizar Orden de pago en negativo,,G- Func. Gastos y Contabilidad,2025-05-06 15:47,,,Dario Elola
 134194,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciAA3n de montos por retenciones,Gaston Sarkissian,G- MDA SIGAF,2025-04-25 09:26:00,,,
 133948,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIAAN 2024 | Arreglar cuentas contables,Gaston Sarkissian,G- MDA SIGAF,2025-04-25 09:18:00,,,
 134407,,CIUDAD,20,Mesa SIGAF,Tarea,0,T-Finalizada,Media,Restablecer los procesos contables (Duplicada de RM133350),Nelson Daniel Bordón,Dario Elola,2025-04-24 21:06:00,2025-04-23,2025-04-25,
 134357,,OBSBA,20,Mesa ObSBA,Tarea,134279,T-Finalizada,Urgente,Eliminar OP duplicada.,Vanina Zylberg,G- MDA OBSBA,2025-04-24 20:56:00,2025-04-23,2025-04-25,
 120408,,CIUDAD,11,GCBA-SIGAF,Hito - Entregable,96818,E-Backlog,Media,Adecuacion reporte retenciones no liquidas para excluir constancias,Lucas Gutierrez,G- Func. Gastos y Contabilidad,2025-04-24 17:38:00,2025-04-24,2025-04-24,
-114270,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-AnAAlisis,Media,Adecuacion | C55 desafecta tomando fecha de imputaciAA3n del pago,Agustin Retamal,G- Func. Gastos y Contabilidad,2025-04-24 17:10:00,,,
-97920,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-Pendiente usuario,Media,Correcion de fondo : Gastos Imposibilidiad de aplicar cesion - Ticket #97664 -,Agustina Mainardi,Usuario Externo SIGAF,2025-04-24 16:59:00,,,
+114270,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-AnAAlisis,Media,Adecuacion | C55 desafecta tomando fecha de imputaciAA3n del pago,Agustin Retamal,G- Func. Gastos y Contabilidad,2025-04-24 17:10:00,,,
+97920,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-Pendiente usuario,Media,Correcion de fondo : Gastos Imposibilidiad de aplicar cesion - Ticket #97664 -,Agustina Mainardi,Usuario Externo SIGAF,2025-04-24 16:59:00,,,
 84922,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134410,MDA-AnAAlisis,Media,"Solicitud de agregar columna ""medidor""",Agustin Retamal,G- Func. Gastos y Contabilidad,2025-04-24 16:49:00,,,
 62037,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134425,MDA-AnAAlisis,No Aplica,Mejoras en reportes  y funciones de Servicios BAAsicos,Patricia Virginia Diaz Bossia,G- Func. Gastos y Contabilidad,2025-04-24 16:47:00,,,
 111486,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-Análisis,Alta,"Gastos Consulta | Reporte ""Listado de Retenciones No Liquidadas"" CR 7",,G- Func. Gastos y Contabilidad,2025-05-05 12:17,,,Agustina Mainardi
 53785,,CIUDAD,18,GCBA-SIGAF,Hito - Entregable,32693,E-Test QA,Media,Consulta de pagos Servicios BAAsicos,Lucas Gutierrez,Luz Fox,2025-04-24 16:30:00,2023-04-10,2024-05-01,
 123417,,CIUDAD,11,GCBA-SIGAF,Hito - Entregable,92756,E-Stand By,Alta,Modificar las retenciones en Servicios BAAsicos para que maneje pagos parciales,Laura Isabel Freysselinard,Alejandro Daniel Lagorio,2025-04-24 16:28:00,2025-03-06,2025-03-06,
-110869,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,"CIERRE CUENTA DE INVERSIÓN 2024 | Gastos - Reporte ""Listado de Retenciones No Liquidadas"" - CR 4 y 767 - NEGATIVOS",,G- Func. Gastos y Contabilidad,2025-05-05 12:17,,,Agustina Mainardi
+110869,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,"CIERRE CUENTA DE INVERSIÓN 2024 | Gastos - Reporte ""Listado de Retenciones No Liquidadas"" - CR 4 y 767 - NEGATIVOS",,G- Func. Gastos y Contabilidad,2025-05-05 12:17,,,Agustina Mainardi
 77508,,CIUDAD,14,GCBA-SIGAF,Hito - Entregable,95295,E-Stand By,Media,ActualizaciAA3n de Actividades Economicas (Datos Impositivos) - AutomatizaciAA3n y carga manual,Lucas Gutierrez,Ignacio Ferreyra,2025-04-24 15:13:00,2024-02-19,2024-12-31,
 134212,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,SIGAF | CI 2024 - Asientos PAG errAA3neos OD 210,Oriana Sosa,G- MDA SIGAF,2025-04-24 14:56:00,,,
 133535,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 - SIGAF | Asientos desbalanceados - CorrecciAA3n de fondo,Diego Martin Godoy,G- MDA SIGAF,2025-04-24 14:53:00,,,
@@ -74,9 +74,9 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 122798,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencia Reg de Monto por Retenciones a MAYO 2024,Gaston Sarkissian,Franchesca Gabriela Rivas Veliz,2025-04-24 13:49:00,,,
 132726,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciAA3n de montos por retenciones,Gaston Sarkissian,G- MDA SIGAF,2025-04-24 13:32:00,,,
 133350,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Borrar asientos de C70/2024 (RelaciAA3n RM #127976),Diego Martin Godoy,G- MDA SIGAF,2025-04-24 12:53:00,,,
-120743,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,11,GCBA-SIGAF,Hito - Entregable,128602,E-Stand By,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n,Dario Elola,Alejandro Daniel Lagorio,2025-04-24 12:16:00,2024-11-20,2024-11-20,
-123605,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Diferencias en movimientos de formularios C10,,G- MDA SIGAF,2025-05-07 09:02,"","",Dario Elola
-119615,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134429,MDA-AnAAlisis,Alta,Correcion de fondo: Inconvenientes con Fecha de Autorizacion de OPs: 01/01/0001,Agustina Mainardi,G- Func. Gastos y Contabilidad,2025-04-24 11:49:00,,,
+120743,,CIUDAD,11,GCBA-SIGAF,Hito - Entregable,128602,E-Stand By,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n,Dario Elola,Alejandro Daniel Lagorio,2025-04-24 12:16:00,2024-11-20,2024-11-20,
+123605,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Resuelto,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Diferencias en movimientos de formularios C10,,G- MDA SIGAF,2025-05-07 09:02,,,Dario Elola
+119615,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134429,MDA-AnAAlisis,Alta,Correcion de fondo: Inconvenientes con Fecha de Autorizacion de OPs: 01/01/0001,Agustina Mainardi,G- Func. Gastos y Contabilidad,2025-04-24 11:49:00,,,
 133969,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencia SyS y Reg de Monto por Retenciones a DICIEMBRE 2024,Oriana Sosa,G- MDA SIGAF,2025-04-24 11:35:00,,,
 131339,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencia SyS y Reg de Monto por Retenciones a DICIEMBRE 2024 | Diferencia positiva para analizar,Oriana Sosa,G- MDA SIGAF,2025-04-24 11:33:00,,,
 128967,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencia SyS y Reg de Monto por Retenciones a DICIEMBRE 2024,Oriana Sosa,G- MDA SIGAF,2025-04-24 11:32:00,,,
@@ -90,7 +90,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 133986,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,CIERRE DE BALANCE 2024 | MINUTA C55 RENDICIONES,Dario Elola,G- MDA OBSBA,2025-04-22 17:55:00,2025-04-15,2025-04-15,
 134005,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Media,Contabilidad | Asientos Contables Notas de Credito de FFC 2024,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2025-04-22 17:53:00,2025-04-20,2025-04-20,
 133982,,OBSBA,20,OBSBA-SIGAF,Tarea,129765,T-Finalizada,Urgente,CIERRE DE BALANCE 2024 | MINUTA CONC. BANCARIA CTA 1043-8 2024,Dario Elola,G- MDA OBSBA,2025-04-22 17:45:00,2025-04-15,2025-04-15,
-132470,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Corrección de asientos  de formularios C55 con errores,,Nelson Daniel Bordón,2025-05-06 09:23,"","",Oriana Sosa
+132470,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIÓN 2024 | SIGAF | Corrección de asientos  de formularios C55 con errores,,Nelson Daniel Bordón,2025-05-06 09:23,,,Oriana Sosa
 134263,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Alta,Cambiar constancias de retención al estado ANULADO.,,G- Func. Gastos y Contabilidad,2025-05-05 11:22,,,Hernan Gabriel Burgos
 131567,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,SIGAF | CIERRE CUENTA DE INVERSIAAN 2024 | Inconvenientes con OP C41: 493847/24 IVC  (RelaciAA3n RM #127138),Diego Martin Godoy,G- MDA SIGAF,2025-04-22 12:29:00,,,
 116319,,CIUDAD,16,GCBA-SIGAF,Hito - Entregable,96818,E-Test Funcional,Media,Ref: 115400 - Modificar calculo ult. consumo Servicios Básicos,,Luz Fox,2025-05-05 09:20,2024-10-21,2025-05-31,Juan Carlos Brodersen
@@ -108,7 +108,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 131477,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,No Aplica,Inconveniente en datos de la OP,Hernan Gabriel Burgos,Usuario Externo SIGAF,2025-04-16 12:56:00,,,
 133443,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Urgente,Cambio Fecha de EmisiAA3n - Constancias de RetenciAA3n Fondos 2025 3do Pedido,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-16 10:11:00,2025-04-14,2025-04-14,
 130360,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Media,Cambio de Nro AFIP- Sanatorio,Franchesca Gabriela Rivas Veliz,Carolina Noemi Gualdi,2025-04-16 10:10:00,2025-04-14,2025-04-14,
-133998,,CIUDAD,19,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Alta,Libro mayor Cuenta 212010001 con problemas de bajada a Excel,,Dario Elola,2025-05-06 11:34,"","",KAREN  LICERA
+133998,,CIUDAD,19,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Alta,Libro mayor Cuenta 212010001 con problemas de bajada a Excel,,Dario Elola,2025-05-06 11:34,,,KAREN  LICERA
 74990,,OBSBA,14,OBSBA-SIGAF,Tarea,68634,T-Stand By,Urgente,Retenciones Acumulados - GestiAA3n Fondo Compensador -  Nota Bancaria,Nancy Andrea Martinez,Pablo Diego La Maestra,2025-04-15 13:07:00,,2025-09-30,
 128819,,OBSBA,16,OBSBA-SIGAF,Tarea,91631,T-En Curso,Urgente,Planta Valorizada RRHH Error OP no esta tomando el objeto del gasto 1390,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-04-15 12:34:00,2025-02-07,2025-02-15,
 133472,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,Contrataciones Personales| Cambio de Cabecera Formularios C35 Adjudicacion 6543/2025,Agustina Mainardi,G- MDA SIGAF,2025-04-15 11:33:00,,,
@@ -130,7 +130,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 133663,,OBSBA,11,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,Contabilidad | CorrecciAA3n de fondo - Asientos de FRA (DAS) Sin RegularizaciAA3n y Regularizados,Dario Elola,,2025-04-10 17:59:00,,,
 130734,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud: GeneraciAA3n de Asiento de C55: NAA483/24,Diego Martin Godoy,G- MDA SIGAF,2025-04-10 16:18:00,,,
 64099,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Media,Solicitud de agregar botAA3n en Consulta de Cesiones: Salida EXCEL,Kevin Hernan Borghetti,Vanina Zylberg,2025-04-10 15:16:00,,,
-132763,,CIUDAD,19,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Baja,Revision de impactos de 1° trimestre 2025 realizados en Cierre trimestral fase Restringida,,G- MDA SIGAF,2025-05-06 15:09,"","",Agustina Mainardi
+132763,,CIUDAD,19,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Baja,Revision de impactos de 1° trimestre 2025 realizados en Cierre trimestral fase Restringida,,G- MDA SIGAF,2025-05-06 15:09,,,Agustina Mainardi
 131944,,OBSBA,20,Mesa ObSBA,Tarea,129765,T-Finalizada,Alta,C10 de desafectaciAA3n que no debe generar contabilidad,KAREN  LICERA,G- MDA OBSBA,2025-04-10 10:16:00,2025-04-03,2025-04-30,
 132941,,OBSBA,20,Mesa ObSBA,MDA-ObSBA,0,MDA-Cerrado,Alta,Imposibilidad de autorizar notas bancarias,KAREN  LICERA,G- MDA OBSBA,2025-04-10 10:04:00,,,
 133223,,OBSBA,20,OBSBA,Tarea,129765,T-Finalizada,Media,Cierre de Balance | Formulario sin Asiento -  PAG 2024 sin Asiento,Dario Elola,G- MDA OBSBA,2025-04-09 18:51:00,2025-04-07,2025-04-07,
@@ -149,7 +149,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 127895,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Inconvenientes al generar C55 correcion global: ENM ORA-01422: exact fetch returns more than requested number of rows,Agustina Mainardi,G- MDA SIGAF,2025-04-08 14:13:00,,,
 127976,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Formulario C 70 OD no hace contabilidad reflejo en AC,Agustin Retamal,G- MDA SIGAF,2025-04-08 13:21:00,,,
 127543,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,"Inconsistencias en OPs al emitir PDF ""Visualizar Orden de Pago"":  Campo Actuacion",Agustina Mainardi,G- MDA SIGAF,2025-04-07 16:50:00,,,
-131946,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,"",MDA-Cerrado,Alta,Inconveniente al desautorizar facturas de Servicios Básicos,,G- MDA SIGAF,2025-05-06 15:41,"","",Oriana Sosa
+131946,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,Alta,Inconveniente al desautorizar facturas de Servicios Básicos,,G- MDA SIGAF,2025-05-06 15:41,,,Oriana Sosa
 132103,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Baja,SIGAF | No visualizan CAB NAA32/2024 para abonarlo desde la DGT | OP NAA465619/2024: Pago anulado,Diego Martin Godoy,Usuario Externo SIGAF,2025-04-07 11:14:00,,,
 70097,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Baja,OGEPU - Inconsistencia en roles de mAA3dulo: Gastos Generales / Gastos por Transferencias,Diego Martin Godoy,G- Func. Gastos y Contabilidad,2025-04-04 15:40:00,,,
 132667,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,Desautorizar facturas de servicios basicos,Hernan Gabriel Burgos,G- MDA SIGAF,2025-04-04 12:48:00,,,
@@ -186,7 +186,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 131356,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Baja,SIGAF | Solicitud de reporte,Diego Martin Godoy,Usuario Externo SIGAF,2025-03-20 17:33:00,,,
 131180,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud de query para Formularios C57 del aAAo 2024,Oriana Sosa,Oriana Sosa,2025-03-20 17:33:00,,,
 131652,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,SIGAF | Solicitud: Agregar Grupo Pagador OP NAA57106/2025,Diego Martin Godoy,G- MDA SIGAF,2025-03-20 16:07:00,,,
-131651,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,"",MDA-Cerrado,Alta,Inconveniente al desautorizar facturas de Servicios Básicos,,G- MDA SIGAF,2025-05-06 15:41,"","",Oriana Sosa
+131651,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,Alta,Inconveniente al desautorizar facturas de Servicios Básicos,,G- MDA SIGAF,2025-05-06 15:41,,,Oriana Sosa
 130873,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Media,OBSBA| IMPOSIBILIDAD DE DESAUTORIZACION PARCIAL,Franchesca Gabriela Rivas Veliz,Carolina Noemi Gualdi,2025-03-20 11:48:00,,,
 131345,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,SIGAF | Inconveniente al ingresar decremento RGG 103/2025,KAREN  LICERA,G- MDA SIGAF,2025-03-20 11:32:00,,,
 129705,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,Planta Valorizada RRHH Archivo Meta 4,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-03-20 11:23:00,2025-02-25,2025-03-25,
@@ -195,7 +195,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 119074,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Gastos | Diferencias en bajada de fondo de reparo,Agustina Mainardi,G- MDA SIGAF,2025-03-18 13:21:00,,,
 128228,,OBSBA,14,OBSBA,Tarea,91631,T-Stand By,Alta,Error descuento de NC en Pagos parciales - duplica descuento de NC,Vanina Zylberg,G- SWF ObSBA,2025-03-18 09:20:00,2025-02-05,2025-02-21,
 131186,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Actualizar acumuladores de saldos contables,KAREN  LICERA,G- MDA SIGAF,2025-03-18 08:00:00,,,
-131354,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Media,Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n (RelaciAA3n Hito - Entregable #120743),Diego Martin Godoy,Dario Elola,2025-03-17 13:46:00,,,
+131354,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Media,Contabilidad | Crear Reporte Libro Mayor - Con datos de gestiAA3n (RelaciAA3n Hito - Entregable #120743),Diego Martin Godoy,Dario Elola,2025-03-17 13:46:00,,,
 131188,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Media,SIGAF | CIERRE CUENTA DE INVERSIAAN 2024 | Pendiente de Pago Deuda No Prescripta,Agustina Mainardi,Dario Elola,2025-03-17 10:56:00,,,
 130910,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,SIGAF  | Ejercicio erroneo en Historico de Solicitud de Gasto,Oriana Sosa,G- MDA SIGAF,2025-03-14 13:48:00,,,
 100307,,CIUDAD,20,GCBA-SIGAF,Hito - Entregable,100306,E-Produccion,Media,1- IRdCP - Credito Publico en SIGAF (SSD*RSD*MS),Lucas Gutierrez,Laura Isabel Freysselinard,2025-03-14 09:54:00,2024-06-24,,
@@ -219,8 +219,8 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 127381,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Inconveniente con Asiento contable del C55: 5068/2024,Agustina Mainardi,G- MDA SIGAF,2025-03-13 09:48:00,,,
 127730,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Error asiento contable PAG - CAJA OD en IVC,Gaston Sarkissian,G- MDA SIGAF,2025-03-13 09:47:00,,,
 130850,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud de Query,Diego Martin Godoy,Diego Martin Godoy,2025-03-13 09:45:00,,,
-129973,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Media,CIERRE CUENTA DE INVERSIAAN 2024 | RevisiAA3n de la gestiAA3n de DevoluciAA3n de la retenciAA3n 324,Agustina Mainardi,G- Func. Gastos y Contabilidad,2025-03-13 09:28:00,,,
-125740,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | reporte para control de deuda,Gaston Sarkissian,Dario Elola,2025-03-13 09:25:00,,,
+129973,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Media,CIERRE CUENTA DE INVERSIAAN 2024 | RevisiAA3n de la gestiAA3n de DevoluciAA3n de la retenciAA3n 324,Agustina Mainardi,G- Func. Gastos y Contabilidad,2025-03-13 09:28:00,,,
+125740,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-AnAAlisis,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | reporte para control de deuda,Gaston Sarkissian,Dario Elola,2025-03-13 09:25:00,,,
 130337,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud de correcciAA3n de asientos C55 3892/2024 y 7902/2024,Oriana Sosa,G- MDA SIGAF,2025-03-12 12:59:00,,,
 128650,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602,MDA-Cerrado,Urgente,CIERRE CUENTA DE INVERSIAAN 2024 | Error asiento contable PAG - CAJA OD en IVC,Gaston Sarkissian,G- MDA SIGAF,2025-03-12 09:19:00,,,
 128596,,OBSBA,20,OBSBA,Tarea,129765,T-Finalizada,Media,Contabilidad| Asientos de Pago C42,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2025-03-11 17:07:00,2025-02-28,2025-03-05,
@@ -256,7 +256,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 129318,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,Inconvenientes con OP,Hernan Gabriel Burgos,G- MDA SIGAF,2025-02-21 16:57:00,,,
 127530,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,No Aplica,"Inconveniente al cargar FCG ""LA SITUACION DEL BENEFICIARIO O EL CONCEPTO IMPOSITIVO NO TIENEN UN ALGORITMO APLICADO PARA EL CODIGO DE RETENCION 5""",Agustin Retamal,Usuario Externo SIGAF,2025-02-21 14:17:00,,,
 129371,,OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Alta,Cambio ente FRC 75805-2024,Franchesca Gabriela Rivas Veliz,Pablo Camdessanche,2025-02-21 01:08:00,,,
-121648,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Media,SIGAF | Inconveniente al visualizar OP C42 NAA422359/2024 para la firma,Diego Martin Godoy,Dario Elola,2025-02-20 16:31:00,,,
+121648,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,0,MDA-AnAAlisis,Media,SIGAF | Inconveniente al visualizar OP C42 NAA422359/2024 para la firma,Diego Martin Godoy,Dario Elola,2025-02-20 16:31:00,,,
 128514,,OBSBA,20,Mesa ObSBA,MDA-ObSBA,91631,MDA-Cerrado,Alta,SIGAF | Inconvenientes con calculo de retenciones,Agustin Retamal,Carolina Noemi Gualdi,2025-02-19 13:17:00,,,
 127018,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,Revision roles a usuarios de AuditorAAa,Gaston Sarkissian,G- MDA SIGAF,2025-02-19 07:41:00,,,
 128495,,OBSBA,20,Mesa ObSBA,MDA-ObSBA,0,MDA-Cerrado,Urgente,Inconveniente al asentar condiciAA3n de pago,KAREN  LICERA,G- MDA OBSBA,2025-02-18 16:47:00,,,
@@ -284,7 +284,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 127429,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Alta,Reimputacion de  C55,Agustin Retamal,G- MDA SIGAF,2025-02-03 09:35:00,,,
 99065,,OBSBA,20,OBSBA-SIGAF,Tarea,0,T-Finalizada,Alta,Update Unidad Ejecutora Notas de Credito,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2025-01-30 18:09:00,2025-01-29,2025-01-31,
 127621,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,Alta Fondo Anual - Fondos Permanentes 2025,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2025-01-30 16:38:00,2025-01-30,2025-01-30,
-127397,[CIERRE DE CUENTA],CIUDAD,15,Mesa SIGAF,Tarea,0,T-En Curso,Media,Correccion inconsistencias en tablas generacion automatica C55,Vanina Zylberg,Renzo Emanuel Sandes,2025-01-30 13:37:00,2025-01-27,2025-01-31,
+127397,,CIUDAD,15,Mesa SIGAF,Tarea,0,T-En Curso,Media,Correccion inconsistencias en tablas generacion automatica C55,Vanina Zylberg,Renzo Emanuel Sandes,2025-01-30 13:37:00,2025-01-27,2025-01-31,
 123070,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,OBSBAPRE- Nota de CrAAdito- Comprobante original FFC- autorizacion y desatorizaciAA3n- no se ve asiento cuando se autoriza NC,Silvia Donadio,Franchesca Gabriela Rivas Veliz,2025-01-30 10:03:00,2024-12-05,2024-12-09,
 127646,,OBSBA,14,OBSBA-SIGAF,Tarea,91631,T-Stand By,Media,BotAA3n Consultar Asiento- Nota de CrAAdito,Franchesca Gabriela Rivas Veliz,Pablo Diego La Maestra,2025-01-29 17:00:00,,,
 127300,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0,MDA-Cerrado,Urgente,Cambio de beneficiario de PRDs  (NO-2024-27181621-GCABA-DGCG),Sofia Jimena Genson,G- MDA SIGAF,2025-01-28 15:13:00,,,
@@ -382,8 +382,8 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 116359,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Media,Contabilidad | Generar Conjuntos 2024 C42 NP*FR*RT*DV,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-11-13 10:36:00,,,
 117893,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Alta,Contabilidad| Generar asientos C10 2024,Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-11-12 10:57:00,,,
 117848,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Alta,Contabilidad | Generar asientos 2024 FBS (Becas y Subsidios),Franchesca Gabriela Rivas Veliz,Franchesca Gabriela Rivas Veliz,2024-11-12 10:54:00,,,
-94410,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-Análisis,Media,SIGAF WEB LOGIC | Reporte de Consulta de retenciones no liquidadas,,G- Func. Gastos y Contabilidad,2025-05-06 15:33,"","",Sofia Jimena Genson
-96752,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134409,MDA-Análisis,Media,"Solicitud de validación de ""Grupo Gestión Incompleto""",,G- Func. Gastos y Contabilidad,2025-05-06 15:30,"","",Sofia Jimena Genson
+94410,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,96818,MDA-Análisis,Media,SIGAF WEB LOGIC | Reporte de Consulta de retenciones no liquidadas,,G- Func. Gastos y Contabilidad,2025-05-06 15:33,,,Sofia Jimena Genson
+96752,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,134409,MDA-Análisis,Media,"Solicitud de validación de ""Grupo Gestión Incompleto""",,G- Func. Gastos y Contabilidad,2025-05-06 15:30,,,Sofia Jimena Genson
 117943,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,Contabilidad| Generar asientos C42 FR*DV 2024,Franchesca Gabriela Rivas Veliz,G- MDA OBSBA,2024-11-08 15:05:00,2024-10-28,2024-11-04,
 120062,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Finalizada,Alta,Obsba - NC - El sistema permitio anular OP con NC aplicada - Desaplicar NC,Vanina Zylberg,G- MDA OBSBA,2024-11-08 14:58:00,2024-11-06,2024-11-08,
 114669,,CIUDAD,20,GCBA-SIGAF,Hito - Entregable,96818,MDA-Cerrado,Alta,RF:35904 ValidaciAA3n Firma Digital,Lucas Gutierrez,Nelson Daniel Bordón,2024-11-06 11:17:00,2024-08-12,2024-12-31,
@@ -809,7 +809,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 134921,,OBSBA,20,OBSBA,Tarea,91631,T-Finalizada,Alta,CIERRE DE BALANCE| Contabilidad- Minuta de conciliación bancaria 2024 cta 283/9,,G- MDA OBSBA,2025-05-06 18:00,2025-05-05,2025-05-05,Sergio Nicolas Leiva
 134908,,OBSBA,14,OBSBA,Tarea,,T-Stand By,Media,CIERRE DE BALANCE| Asientos DAS Regularizados - Adecuación,,Franchesca Gabriela Rivas Veliz,2025-05-05 11:48,,,Franchesca Gabriela Rivas Veliz
 134867,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,No Aplica,Llamado | Error al ingresar a SIGAF Web,,KAREN  LICERA,2025-05-05 09:40,,,
-134465,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Urgente,Imposibilidad auotirzar C42 Debe parametrizar la OGESE en la contabilidad,,G- Func. Gastos y Contabilidad,2025-05-06 15:09,"","",Gaston Sarkissian
+134465,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Urgente,Imposibilidad auotirzar C42 Debe parametrizar la OGESE en la contabilidad,,G- Func. Gastos y Contabilidad,2025-05-06 15:09,,,Gaston Sarkissian
 133942,,OBSBA,18,OBSBA-SIGAF,Hito - Entregable,114837,E-Test QA,Media,Solicitud de entrega de fondos,,G- QA Testers,2025-05-05 14:10,2025-01-27,2025-06-25,Flor Virginia Canel�n
 133901,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,Tarea,132470,T-Finalizada,Media,"Sub Tarea 4:  C55: 8228/24 - 8090/24 8068/24 - 8227/24 y 7933/24 En los Formularios C55 con ESTADO: ""U"" ANULACIÓN DEFINITIVA",,Gastón Ezequiel Kosiol,2025-05-05 17:05,2025-04-21,2025-04-22,Dario Elola
 133712,,OBSBA,18,OBSBA-SIGAF,Hito - Entregable,114835,E-Test QA,Alta,Definiciones contables,,G- QA Testers,2025-05-05 11:48,2024-10-28,2025-06-25,Nelson Daniel Bordón
@@ -819,10 +819,9 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 133706,,OBSBA,18,OBSBA-SIGAF,Hito - Entregable,114835,E-Test QA,Alta,Consultas e informes,,G- QA Testers,2025-05-05 10:49,2024-10-25,2025-06-25,Flor Virginia Canelón
 133247,,OBSBA,11,OBSBA-SIGAF,Hito - Entregable,114839,E-Planificación,Media,Gastos Generales,,G- QA Testers,2025-05-05 13:50,2025-01-30,2025-06-25,Flor Virginia Canelón
 132506,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,No Aplica,Inconvenientes con la fecha autorización OP 513974/2024,,Usuario Externo SIGAF,2025-05-05 13:17,,,KAREN  LICERA
-132500,,CIUDAD,16,Mesa SIGAF,MDA-SIGAF,"",MDA-Test funcional,Urgente,Inconveniente al desautorizar facturas de Servicios Básicos,,G- Func. Gastos y Contabilidad,2025-05-06 17:32,"","",Agustina Mainardi
+132500,,CIUDAD,16,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Urgente,Inconveniente al desautorizar facturas de Servicios Básicos,,G- Func. Gastos y Contabilidad,2025-05-06 17:32,,,Agustina Mainardi
 114841,,OBSBA,18,OBSBA-SIGAF,Hito - Entregable,129861,E-Test QA,Media,Migraci�n OBSBA 12C - Modulo Inicio de Ejercicio,,G- QA Testers,2025-05-05 12:06,2025-01-17,2025-06-25,Flor Virginia Canel�n
-40448,,OBSBA,12,GCBA-SIGAF,Requerimiento - Agrupador,"",R- En curso,Media,Diferencias entre gestión y presupuesto de Inciso 1,,Lucas Gutierrez,2025-05-06 20:31,2022-04-12,2022-10-05,Hernan Gabriel Burgos
-134961,[CIERRE DE CUENTA],CIUDAD,11,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Media,"CIERRE CUENTA DE INVERSIÓN 2024 | OD 210 - Error de asientos en la columna ""Variaciones""",,G- Func. Gastos y Contabilidad,2025-05-05 16:25,,,Oriana Sosa
-134947,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,"",MDA-Cerrado,No Aplica,"Gastos No Presupuestarios | Error en OP: ""ENM ORA-01403: no data found""",,KAREN  LICERA,2025-05-06 15:11,"","",KAREN  LICERA
+40448,,OBSBA,12,GCBA-SIGAF,Requerimiento - Agrupador,,R- En curso,Media,Diferencias entre gestión y presupuesto de Inciso 1,,Lucas Gutierrez,2025-05-06 20:31,2022-04-12,2022-10-05,Hernan Gabriel Burgos
+134947,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,No Aplica,"Gastos No Presupuestarios | Error en OP: ""ENM ORA-01403: no data found""",,KAREN  LICERA,2025-05-06 15:11,,,KAREN  LICERA
 134807,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Alta,SIGAF | Inconveniente al ingresar nuevo C55 | C42: N°213081/24 de Movilidad (Relación RM #129543),,Leandro Weber,2025-05-05 15:35,,,Leandro Weber
 134501,,CIUDAD,11,Mesa SIGAF,MDA-SIGAF,,MDA-Análisis,Alta,Medidores Solicitud de incorporación de nuevo campo,,G- Func. Gastos y Contabilidad,2025-05-05 15:37,,,Gaston Sarkissian
