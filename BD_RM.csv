@@ -6,7 +6,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 135156,,OBSBA,12,Mesa ObSBA,MDA-ObSBA,"",MDA-Análisis,Alta,Inconveniente al generar orden de pago,,G- OBSBA-Gestión de facturas y contabilidad,2025-05-07 15:35,"","",""
 135129,,OBSBA,12,Mesa ObSBA,MDA-ObSBA,"",MDA-Análisis,Alta,Inconveniente con el nuevo SIGAF,,G- OBSBA-Gestión de carpetas,2025-05-07 14:05,"","",""
 135094,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,"",MDA-Cerrado,No Aplica,Llamado | Inconveniente al ingresar C55,,KAREN  LICERA,2025-05-07 10:16,"","",""
-135147,[CIERRE DE CUENTA],CIUDAD,12,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Alta,Deuda Flotante por Ente 2024,,G- Func. Gastos y Contabilidad,2025-05-07 14:52,"","",""
+135147,[CIERRE DE CUENTA]|Lucas Gutierrez|,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Alta,Deuda Flotante por Ente 2024,,G- Func. Gastos y Contabilidad,2025-05-07 14:52,"","",""
 135126,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Media,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD || (Rel. RM 134304),,G- Func. Gastos y Contabilidad,2025-05-08 09:04,"","",Ernesto Mompo
 135109,,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,"",MDA-Análisis,Media,"SIGAF WEB | Consulta: Modificación de Receptor de Notificaciones en DGG N°129857/25 | ""El usuario no tiene permisos para realizar esta operación."" ",,Diego Martin Godoy,2025-05-07 17:07,"","",Diego Martin Godoy
 135065,,OBSBA,12,Mesa ObSBA,MDA-ObSBA,"",MDA-Análisis,Alta,SIGAF | Inconvenientes al autorizar OPs,,Carolina Noemi Gualdi,2025-05-07 13:10,"","",Oriana Sosa
@@ -23,7 +23,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 131404,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,,MDA-Cerrado,Alta,"SIGAF | Agregar la condición en la solapa ""Beneficiario"" al autoriza la Orden de Pago",,G- MDA SIGAF,2025-05-05 11:21:00,,,Oriana Sosa
 133311,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,0.0,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSION 2024 | 2025 // decremento saldo impago,,G- MDA SIGAF,2025-04-30 15:50:00,,,Gaston Sarkissian
 134518,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSIÓN 2024 | CI 2024 - OD 210 - Cuenta regularización de montos por retenciones,,G- MDA SIGAF,2025-05-05 12:05:00,,,Gaston Sarkissian
-128602,[CIERRE DE CUENTA],CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,"",R- En curso,Urgente,CIERRE CUENTA DE INVERSIÓN 2024,,Dario Elola,2025-05-07 18:59,2024-10-28,2025-03-07,Nelson Daniel Bordón
+128602,[CIERRE DE CUENTA]|Dario Elola|,CIUDAD,12,GCBA-SIGAF,Requerimiento - Agrupador,"",R- En curso,Urgente,CIERRE CUENTA DE INVERSIÓN 2024,,Dario Elola,2025-05-07 18:59,2024-10-28,2025-03-07,Nelson Daniel Bordón
 134739,,OBSBA,19,OBSBA-SIGAF,Tarea,91631.0,T-Solicitud de pasaje,Urgente,CIERRE DE BALANCE - MINUTA CONC BANCARIA 6-2 2024,,Pablo Camdessanche,2025-04-30 15:28:00,2025-04-29,2025-05-10,Kevin Hernan Borghetti
 134233,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Cerrado,Alta,SIGAF | Solicitud de corrección de importes asientos C55 5200/2024 y 6174/2024,,G- MDA SIGAF,2025-05-06 08:08:00,,,KAREN  LICERA
 132371,[CIERRE DE CUENTA],CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Cerrado,Media,CIERRE CUENTA DE INVERSION 2024 | SIGAF | Solicitud de query para PRDs con Moneda Extranjera,,Oriana Sosa,2025-04-30 13:08:00,,,Oriana Sosa
@@ -244,7 +244,7 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 126775,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Cerrado,Urgente,"CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Inconveniente al autorizar C10 NAA106853/24 | NAA106854/24 | ""CG002 NO SE PUDO GENERAR EL ASIENTO CONTABLE""",Diego Martin Godoy,G- MDA SIGAF,2025-03-10 15:46:00,,,
 127975,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Rechazado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Corregir AXT de C42,Agustin Retamal,Nelson Daniel Bordón,2025-03-10 15:46:00,,,
 125344,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud: CorrecciAA3n de 'Resumen de AAtems' en Asiento NAA1867277,Diego Martin Godoy,G- MDA SIGAF,2025-03-10 15:45:00,,,
-117065,[CIERRE DE CUENTA],CIUDAD,12,Mantenimiento Correctivo,MDA-SIGAF,128602.0,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Consulta diferencias Listado de Deuda por Beneficiario.,,Lucas Gutierrez,2025-05-05 16:12:00,,,Dario Elola
+117065,[CIERRE DE CUENTA]|Lucas Gutierrez|,CIUDAD,12,Mantenimiento Correctivo,MDA-SIGAF,128602.0,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Consulta diferencias Listado de Deuda por Beneficiario.,,Lucas Gutierrez,2025-05-05 16:12:00,,,Dario Elola
 110479,,CIUDAD,20,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Cerrado,Alta,CIERRE CUENTA DE INVERSIAAN 2024 | Asientos contables errAA3neos - OD 210,Gaston Sarkissian,G- MDA SIGAF,2025-03-10 15:43:00,,,
 130357,,OBSBA,20,OBSBA-SIGAF,Tarea,129765.0,T-Finalizada,Alta,Cierre de Balance 2024- Consulta Carpeta Deuda Flotante,Carolina Noemi Gualdi,Carolina Noemi Gualdi,2025-03-10 11:18:00,2025-03-07,2025-03-31,
 130056,,OBSBA,20,OBSBA-SIGAF,Tarea,91631.0,T-Cancelada,Alta,Retenciones| Incorporacion TXT Tesoreria y Sanatorio,Franchesca Gabriela Rivas Veliz,Carolina Noemi Gualdi,2025-03-10 11:00:00,,,
