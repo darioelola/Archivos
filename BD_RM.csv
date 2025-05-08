@@ -1,6 +1,6 @@
 RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asunto,Actualizado por,Asignado a,Actualizado,Fecha de inicio,Fecha fin,Last updated by
-135204,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Borrado de asientos,,Dario Elola,2025-05-08 08:26,"","",Dario Elola
-135203,[CIERRE DE CUENTA][ERICA PL 01],CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Pago CNNYA en CUT,,Dario Elola,2025-05-07 18:59,"","",Oriana Sosa
+135204,[CIERRE DE CUENTA][ERICA PL 01]|Valentina Juszkiewicz|,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Borrado de asientos,,Dario Elola,2025-05-08 08:26,"","",Dario Elola
+135203,[CIERRE DE CUENTA][ERICA PL 01]|Franchesca Rivas|,CIUDAD,12,Mesa SIGAF,MDA-SIGAF,128602,MDA-Análisis,Alta,CIERRE CUENTA DE INVERSIÓN 2024 | Pago CNNYA en CUT,,Dario Elola,2025-05-07 18:59,"","",Oriana Sosa
 135160,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Urgente,CIERRE DE BALANCE - MINUTA Solicitada,,Pablo Camdessanche,2025-05-07 16:15,2025-05-07,2025-05-10,Dario Elola
 135159,,OBSBA,20,OBSBA-SIGAF,Tarea,91631,T-Cancelada,Urgente,CIERRE DE BALANCE - MINUTA Solicitada,,Pablo Camdessanche,2025-05-07 16:14,2025-05-07,2025-05-10,Dario Elola
 135156,,OBSBA,12,Mesa ObSBA,MDA-ObSBA,"",MDA-Análisis,Alta,Inconveniente al generar orden de pago,,G- OBSBA-Gestión de facturas y contabilidad,2025-05-07 15:35,"","",""
