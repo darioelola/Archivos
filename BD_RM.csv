@@ -838,13 +838,14 @@ RM,labels,SISTEMA,ESTADO INTERNO,Proyecto,Tipo,Tarea padre,Estado,Prioridad,Asun
 134501,,CIUDAD,11.0,Mesa SIGAF,MDA-SIGAF,,MDA-Analisis,Alta,Medidores Solicitud de incorporacion de nuevo campo,,Valentina Juszkiewicz,2025-05-09 16:18,,,Gaston Sarkissian,2025-05-12T02:11:34.281Z,Actualizado
 135458,,CIUDAD,12.0,Mesa SIGAF,MDA-SIGAF,,MDA-Analisis,Alta,Cuenta inversion 2024 | C55 14694/2023 sin asiento,,G- Func. Gastos y Contabilidad,2025-05-09 16:55,,,KAREN  LICERA,2025-05-12T02:11:34.281Z,Nuevo
 135442,,CIUDAD,12.0,Mesa SIGAF,MDA-SIGAF,128602.0,MDA-Analisis,Alta,CIERRE CUENTA DE INVERSION 2024 | Correccion de asiento  de formulario C55 14894/24 y 14895/24,,G- Func. Gastos y Contabilidad,2025-05-09 16:22,,,Oriana Sosa,2025-05-12T02:11:34.281Z,Nuevo
-135441,,CIUDAD,14.0,Mesa SIGAF,Tarea,134845.0,T-Stand By,Media,"Entorno PREPROD | Gastos - Inconvenientes al desautorizar Factura con Gestion de Compras ""Importe mayor al facturado""- Error no se permite desautorizar 2 facturas",,,2025-05-09 16:19,,,,2025-05-12T02:11:34.281Z,Nuevo
+135441,,CIUDAD,14.0,Mesa SIGAF,Tarea,134845.0,T-Stand By,Media,,,,2025-05-09 16:19,,,,2025-05-12T02:11:34.281Z,Nuevo
 135432,,CIUDAD,11.0,GCBA-SIGAF,Hito - Entregable,134690.0,E-Backlog,Media,Testeo Frontend Inscripciones - Jornadas Contaduria,,Nelson Daniel Bordon,2025-05-09 15:54,2025-05-09,2025-05-09,,2025-05-12T02:11:34.281Z,Nuevo
-135414,,CIUDAD,12.0,Mesa SIGAF,MDA-SIGAF,,MDA-Analisis,Alta,"SIGAF | Inconveniente al ingresar factura ""NO SE PUEDEN REGISTRAR FACTURAS CONTRA ESTA ORDEN DE COMPRA""",,Carina Andrea Trolliet,2025-05-09 15:04,,,Carina Andrea Trolliet,2025-05-12T02:11:34.281Z,Nuevo
+135414,,CIUDAD,12.0,Mesa SIGAF,MDA-SIGAF,,MDA-Analisis,Alta,,,Carina Andrea Trolliet,2025-05-09 15:04,,,Carina Andrea Trolliet,2025-05-12T02:11:34.281Z,Nuevo
 135409,,OBSBA,15.0,OBSBA-SIGAF,Tarea,,T-En Curso,Media,Update para Cierre de Ejercicio en ambiente PreProd,,Pablo Camdessanche,2025-05-09 14:58,2025-05-06,2025-05-20,,2025-05-12T02:11:34.281Z,Nuevo
 135372,,CIUDAD,19.0,Mesa SIGAF,MDA-SIGAF,,MDA-Resuelto,Urgente,CIERRE CUENTA DE INVERSION 2024  // calculo deuda flotante,,G- MDA SIGAF,2025-05-09 20:09,,,Juan Manuel Nieves,2025-05-12T02:11:34.281Z,Nuevo
 135061,,OBSBA,20.0,Mesa ObSBA,MDA-ObSBA,,MDA-Cerrado,Alta,NB sin poder autorizar,,G- MDA OBSBA,2025-05-09 08:06,,,KAREN  LICERA,2025-05-12T02:11:34.281Z,Nuevo
 135012,,CIUDAD,20.0,GCBA-SIGAF,Requerimiento - Agrupador,,R- Cancelado,Media,CIERRE CUENTA INVERSION 2024 - Conciliacion Libro Banco - Contabilidad CUT,,Nelson Daniel Bordon,2025-05-09 10:22,,,Nelson Daniel Bordon,2025-05-12T02:11:34.281Z,Nuevo
-134845,,CIUDAD,15.0,Mesa SIGAF,MDA-SIGAF,,MDA-Desarrollo,Media,"Gastos| Inconvenientes al desautorizar Factura con Gestion de Compras ""Importe mayor al facturado""",,Otto Federico Klix Buteler,2025-05-09 16:19,,,Gonzalo  Lamas,2025-05-12T02:11:34.281Z,Nuevo
+134845,,CIUDAD,15.0,Mesa SIGAF,MDA-SIGAF,,MDA-Desarrollo,Media,,,Otto Federico Klix Buteler,2025-05-09 16:19,,,Gonzalo  Lamas,2025-05-12T02:11:34.281Z,Nuevo
 135479,[CIERRE DE CUENTA] |Franchesca Rivas|,CIUDAD,12.0,GCBA-SIGAF,Tarea,135203.0,T-En Curso,Alta,CIERRE CUENTA DE INVERSION 2024 | Pago CNNYA en CUT- INSERT DE ASIENTOS,,G- Desarrollo Ciudad PL/SQL,2025-05-11 18:09,2025-05-11,2025-05-12,Dario Elola,2025-05-12T02:11:34.281Z,
 134453,,CIUDAD,16.0,Mesa SIGAF,MDA-SIGAF,,MDA-Test funcional,Alta,Correccion fecha OP en reporte reporte de consulta movimientos de AXT,,Marina Lorena Ferraris,2025-05-09 16:36,,,Kevin Reboredo,2025-05-12T02:11:34.281Z,
+135485,,,,,,,,,,,,,,,,,
