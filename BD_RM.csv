@@ -536,7 +536,7 @@ OBSBA,CERRADOS / En PROD.,135160,CIERRE DE BALANCE - MINUTA Solicitada,T-Cancela
 CIUDAD,CERRADOS / En PROD.,135203,CIERRE CUENTA DE INVERSION 2024 | Pago CNNYA en CUT - UPDATE de ASIENTOS,MDA-Cerrado,Media,G- MDA SIGAF,2025-05-18,[CIERRE DE CUENTA][ERICA PL 01][Franchesca Gabriela Rivas Veliz]
 CIUDAD,CERRADOS / En PROD.,135204,CIERRE CUENTA DE INVERSION 2024 | Borrado de asientos,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-12 11:21,[CIERRE DE CUENTA][ERICA PL 01][Valentina Juszkiewicz]
 CIUDAD,CERRADOS / En PROD.,135299,CIERRE CUENTA DE INVERSION 2024 | SIGAF | Correccion de asiento  de formulario C55 714/2024,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-12 11:25,[CIERRE DE CUENTA][ERICA PL 01][Valentina Juszkiewicz]
-CIUDAD,CERRADOS / En PROD.,135303,CIERRE CUENTA DE INVERSI�N CI 2024 // PAG de C41 450347/24 + BARRIDA de IGUALES CASOS,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-15 08:23,[CIERRE DE CUENTA][ERICA PL 01][Franchesca Rivas]
+CIUDAD,CERRADOS / En PROD.,135303,CIERRE CUENTA DE INVERSI�N CI 2024 // PAG de C41 450347/24 + BARRIDA de IGUALES CASOS,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-18,[CIERRE DE CUENTA][ERICA PL 01][Franchesca Gabriela Rivas Veliz]
 CIUDAD,CERRADOS / En PROD.,135307,CIERRE CUENTA DE INVERSION 2024 Conciliacion Presupuesto contabilidad || Pagado,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-05-13 16:21,[CIERRE DE CUENTA][Dario Elola]
 CIUDAD,CERRADOS / En PROD.,135308,CIERRE CUENTA DE INVERSION 2024 Conciliacion Presupuesto contabilidad || Devengado,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-05-13 16:22,[CIERRE DE CUENTA] [Dario Elola]
 CIUDAD,CERRADOS / En PROD.,135372,CIERRE CUENTA DE INVERSION 2024  // calculo deuda flotante,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-05-12 12:46,
@@ -545,7 +545,7 @@ CIUDAD,En Análisis | BACKLOG,135432,Testeo Frontend Inscripciones - Jornadas Co
 CIUDAD,CERRADOS / En PROD.,135441,"Entorno PREPROD | Gastos - Inconvenientes al desautorizar Factura con Gestion de Compras ""Importe mayor al facturado""- Error no se permite desautorizar 2 facturas",T-Cancelada,Media,,2025-05-13 10:31,
 CIUDAD,En Análisis | EN CURSO,135442,CIERRE CUENTA DE INVERSION 2024 | Correccion de asiento  de formulario C55 14894/24 y 14895/24,MDA-Analisis,Alta,G- Func. Gastos y Contabilidad,2025-05-09 16:22,
 CIUDAD,CERRADOS / En PROD.,135458,CIERRE CUENTA DE INVERSI�N 2024 | C55 14694/2023 sin asiento,MDA-Resuelto,Alta,G- MDA SIGAF,2025-05-16 21:44,
-CIUDAD,CERRADOS / En PROD.,135479,CIERRE CUENTA DE INVERSION 2024 | Pago CNNYA en CUT- INSERT DE ASIENTOS,T-Finalizada,Alta,Alejandro Daniel Lagorio,2025-05-13 09:02,[CIERRE DE CUENTA] [Franchesca Rivas]
+CIUDAD,CERRADOS / En PROD.,135479,CIERRE CUENTA DE INVERSION 2024 | Pago CNNYA en CUT- INSERT DE ASIENTOS,T-Finalizada,Alta,Alejandro Daniel Lagorio,2025-05-18,[CIERRE DE CUENTA][Franchesca Gabriela Rivas Veliz]
 CIUDAD,CERRADOS / En PROD.,135485,CIERRE CUENTA DE INVERSI�N 2024 QWERY Devengados CNNYA - Con OP'S y Pagos ,T-Finalizada,Urgente,Dario Elola,2025-05-15 09:45,[CIERRE DE CUENTA] [Dario Elola]
 CIUDAD,CERRADOS / En PROD.,32694,RSSHYF Aviso FacturaciAA3n Servicios BAAsicos,E-Cancelada,Alta,Lucas Gutierrez,2024-10-14 15:12:00,
 CIUDAD,En Análisis | EN CURSO,40448,Diferencias entre gestion y presupuesto de Inciso 1,R- En curso,Media,Lucas Gutierrez,2025-05-06 20:31,
@@ -848,7 +848,7 @@ OBSBA,CERRADOS / En PROD.,99412,Contabilidad | Minuta de Notas de CrAAdito Carpe
 OBSBA,CERRADOS / En PROD.,99743,Contabilidad | Re Generar Asientos CPV,T-Finalizada,Alta,Pablo Camdessanche,2024-03-22 20:12:00,
 OBSBA,En Análisis | BACKLOG,99754,Gestiones de Facturas solapa Resumen. Mensaje para guardar al navegar de un registro al otro,E-Stand By,Alta,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 12:05,
 CIUDAD,CERRADOS / En PROD.,135783,CIERRE CUENTA DE INVERSION 2024 Inconvenientes para determinar la etapa del LIQUIDADO,MDA-Resuelto,Alta,G- MDA SIGAF,2025-05-16 16:04,[CIERRE DE CUENTA] [Lucas Gutierrez]
-CIUDAD,CERRADOS / En PROD.,135870,CIERRE CUENTA DE INVERSI�N 2024 | Diferencias REG Monto C10,E-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2025-05-16,[CIERRE DE CUENTA][Franchesca Rivas]
+CIUDAD,CERRADOS / En PROD.,135870,CIERRE CUENTA DE INVERSI�N 2024 | Diferencias REG Monto C10,E-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2025-05-18,[CIERRE DE CUENTA][Franchesca Gabriela Rivas Veliz]
 CIUDAD,CERRADOS / En PROD.,136037,CIERRE CUENTA DE INVERSION 2024 - Cuenta bancaria CDNNyA en AC,MDA-Resuelto,Urgente,G- MDA SIGAF,2025-05-16 20:14,[CIERRE DE CUENTA]
 OBSBA,En Análisis | BACKLOG,136030,Carpeta- Consulta- Tipo PRC- bot�n comprob asociados- no coinciden importes de FC Y NC,T-Stand By,Alta,Pablo Camdessanche,2025-05-16 15:40,
 CIUDAD,En Análisis | EN CURSO,136029,CI 2024 - Cuenta : 213010005 RETENC. RESOLUC. AFIP 405,MDA-An�lisis,Alta,G- Func. Gastos y Contabilidad,2025-05-18,[CIERRE DE CUENTA][Franchesca Gabriela Rivas Veliz]
