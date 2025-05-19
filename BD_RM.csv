@@ -477,7 +477,7 @@ CIUDAD,CERRADOS / En PROD.,133948,CIERRE CUENTA DE INVERSIAAN 2024 | Arreglar cu
 CIUDAD,CERRADOS / En PROD.,133969,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencia SyS y Reg de Monto por Retenciones a DICIEMBRE 2024,MDA-Cerrado,Alta,G- MDA SIGAF,2025-04-24 11:35:00,[CIERRE DE CUENTA]
 OBSBA,CERRADOS / En PROD.,133982,CIERRE DE BALANCE 2024 | MINUTA CONC. BANCARIA CTA 1043-8 2024,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-22 17:45:00,
 OBSBA,CERRADOS / En PROD.,133986,CIERRE DE BALANCE 2024 | MINUTA C55 RENDICIONES,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-22 17:55:00,
-CIUDAD,En Análisis | EN CURSO,133998,Libro mayor Cuenta 212010001 con problemas de bajada a Excel,MDA-Analisis,Alta,Dario Elola,2025-05-19,[DARIO ELOLA]
+CIUDAD,En Análisis | EN CURSO,133998,Libro mayor Cuenta 212010001 con problemas de bajada a Excel,MDA-Analisis,Alta,Dario Elola,2025-05-19,[Dario Elola]
 OBSBA,CERRADOS / En PROD.,134005,Contabilidad | Asientos Contables Notas de Credito de FFC 2024,T-Finalizada,Media,G- MDA OBSBA,2025-04-22 17:53:00,
 OBSBA,En Análisis | BACKLOG,134097,Cambios Importes de Retenciones de Fondos a Rendir (Contabilidad),T-Stand By,Alta,Carolina Noemi Gualdi,2025-04-16 15:10:00,
 OBSBA,CERRADOS / En PROD.,134127,CIERRE DE BALANCE 2024 | MINUTA SIGAF PRESCRIPCION PROVEEDORES 2024,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-22 17:55:00,
@@ -490,7 +490,7 @@ CIUDAD,CERRADOS / En PROD.,134248,Restablecer los procesos contables,T-Finalizad
 CIUDAD,CERRADOS / En PROD.,134263,Cuenta de Inversion - Cambiar constancias de retencion al estado ANULADO.,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-09 18:34,[CIERRE DE CUENTA][ERICA PL 01][Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,134279,SIGAF | Inconveniente con NC duplicada,MDA-Cerrado,Media,Vanina Zylberg,2025-04-25 12:00:00,
 CIUDAD,CERRADOS / En PROD.,134304,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD,MDA-Cerrado,Media,G- Func. Gastos y Contabilidad,2025-05-18 00:30,[CIERRE DE CUENTA]
-OBSBA,En Análisis | EN CURSO,134338,Contabilidad | Notas de CrAAdito con asientos en cero,T-En Curso,Alta,Pablo Camdessanche,2025-04-23 10:56:00,
+OBSBA,En Análisis | EN CURSO,134338,Contabilidad | Notas de CrAAdito con asientos en cero,T-En Curso,Alta,Pablo Camdessanche,2025-05-19,[Dario Elola]
 OBSBA,En Análisis | EN CURSO,134349,Fondos a Rendir - Cambio de Importe FRC,T-En Curso,Media,Pablo Camdessanche,2025-04-25 18:51:00,
 OBSBA,CERRADOS / En PROD.,134357,Eliminar OP duplicada.,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-24 20:56:00,
 CIUDAD,CERRADOS / En PROD.,134407,Restablecer los procesos contables (Duplicada de RM133350),T-Finalizada,Media,Dario Elola,2025-04-24 21:06:00,
