@@ -117,7 +117,7 @@ OBSBA,CERRADOS / En PROD.,110567,OBSBA - NB Inconsistencia presupuestaria al Des
 CIUDAD,CERRADOS / En PROD.,110765,CIERRE CUENTA DE INVERSIAAN 2024 | Asientos contables errAA3neos - OD 219,MDA-Cerrado,Alta,G- MDA SIGAF,2025-03-25 14:24:00,
 OBSBA,CERRADOS / En PROD.,110815,OBSBA - FDF - Boton NC/ND Asociados trae formularios FRC,B- Completo,Media,Vanina Zylberg,2024-07-22 13:27:00,
 CIUDAD,En Análisis | EN CURSO,110869,"CIERRE CUENTA DE INVERSION 2024 | Gastos - Reporte ""Listado de Retenciones No Liquidadas"" - CR 4 y 767 - NEGATIVOS",MDA-Analisis,Alta,G- Func. Gastos y Contabilidad,2025-05-13 14:23,
-CIUDAD,En Análisis | BACKLOG,111486,,MDA-Creado,Alta,G- Func. Gastos y Contabilidad,2025-05-07 14:10,
+CIUDAD,En Análisis | EN CURSO,111486,Gastos Consulta | Reporte "Listado de Retenciones No Liquidadas" CR 7,MDA-An�lisis,Alta,G- Func. Gastos y Contabilidad,2025-05-20 11:09,
 OBSBA,CERRADOS / En PROD.,111491,Alta Objetos del Gasto En BRELCONTAB,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2024-07-26 11:42:00,
 OBSBA,CERRADOS / En PROD.,111492,DescripciAA3n AXT en SFC- Fondos a Rendir,T-Finalizada,Media,Franchesca Gabriela Rivas Veliz,2024-08-09 17:03:00,
 OBSBA,CERRADOS / En PROD.,111742,Contabilidad | Borrado de Asientos C10,T-Finalizada,Urgente,Franchesca Gabriela Rivas Veliz,2024-07-30 20:57:00,
@@ -353,7 +353,7 @@ CIUDAD,En Análisis | EN CURSO,128602,CIERRE CUENTA DE INVERSI�N 2024 ,R- En c
 CIUDAD,CERRADOS / En PROD.,128603,CIERRE CUENTA DE INVERSION 2024 | Conciliacion Libro Banco - Contabilidad CUT,T-Finalizada,Media,G- Func. Gastos y Contabilidad,2025-05-07 16:42,[CIERRE DE CUENTA]
 CIUDAD,CERRADOS / En PROD.,128619,Servicios BAAsicos |  No toma los centavos en el proceso de carga masiva de factura,MDA-Cerrado,Alta,G- MDA SIGAF,2025-02-28 17:54:00,
 CIUDAD,CERRADOS / En PROD.,128650,CIERRE CUENTA DE INVERSIAAN 2024 | Error asiento contable PAG - CAJA OD en IVC,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-03-12 09:19:00,
-OBSBA,En Análisis | EN CURSO,128819,Planta Valorizada RRHH Error OP no esta tomando el objeto del gasto 1390,T-En Curso,Urgente,Carolina Noemi Gualdi,2025-04-15 12:34:00,
+OBSBA,En Análisis | BACKLOG,128819,Planta Valorizada RRHH Error OP no esta tomando el objeto del gasto 1390,T-Stand By,Urgente,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 13:12,
 OBSBA,CERRADOS / En PROD.,128851,Contabilidad | Alta clasificador 13136 en MRIDEVPR en 2024- 2025,T-Finalizada,Alta,G- MDA OBSBA,2025-02-14 17:47:00,
 CIUDAD,En Análisis | BACKLOG,128853,Reimputacion Presupuestaria de Medidores || Servicios Basicos,MDA-Creado,Baja,G- Func. Gastos y Contabilidad,2025-05-07 14:14,
 OBSBA,CERRADOS / En PROD.,128909,Solicitud de Barrido de Gestiones SIGAF 2024 y 2025,T-Finalizada,Alta,G- OBSBA-GestiAA3n de facturas y contabilidad,2025-04-20 22:13:00,
@@ -372,7 +372,7 @@ OBSBA,CERRADOS / En PROD.,129518,Contabilidad| Correccion de asientos contables 
 CIUDAD,CERRADOS / En PROD.,129555,CIERRE CUENTA DE INVERSIAAN 2024 | Solicitud de impacto asientos en DEVENGADOS de C42,MDA-Cerrado,Alta,G- MDA SIGAF,2025-04-23 19:33:00,[CIERRE DE CUENTA]
 OBSBA,CERRADOS / En PROD.,129640,Contabilidad| Asientos PAG RET DAS A PAGAR,T-Finalizada,Alta,G- MDA OBSBA,2025-03-27 18:28:00,
 OBSBA,CERRADOS / En PROD.,129705,Planta Valorizada RRHH Archivo Meta 4,T-Finalizada,Alta,Carolina Noemi Gualdi,2025-03-20 11:23:00,
-OBSBA,En Análisis | BACKLOG,129765,CIERRE DE BALANCE OBSBA 2024,R- Backlog,Alta,G- OBSBA-Gestion de facturas y contabilidad,2025-05-20,
+OBSBA,En Análisis | BACKLOG,129765,CIERRE DE BALANCE OBSBA 2024,R- Backlog,Alta,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 13:13,
 CIUDAD,CERRADOS / En PROD.,129914,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud de correcciAA3n de asientos,MDA-Cerrado,Alta,G- MDA SIGAF,2025-03-10 15:50:00,
 CIUDAD,CERRADOS / En PROD.,129966,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Inconveniente en impacto contable de C44 NAA2410/24,MDA-Cerrado,Alta,Diego Martin Godoy,2025-04-22 18:13:00,[CIERRE DE CUENTA][ERICA PL 01]
 CIUDAD,En Análisis | EN CURSO,129973,CIERRE CUENTA DE INVERSIAAN 2024 | RevisiAA3n de la gestiAA3n de DevoluciAA3n de la retenciAA3n 324,MDA-AnAAlisis,Media,G- Func. Gastos y Contabilidad,2025-03-13 09:28:00,
@@ -442,7 +442,7 @@ CIUDAD,CERRADOS / En PROD.,132506,Inconvenientes con la fecha autorizacion OP 51
 OBSBA,CERRADOS / En PROD.,132514,TesorerAAa | Baja de impactos de C55 Cierre de Fondos en Libro Banco formulario 142,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-01 18:03:00,
 CIUDAD,CERRADOS / En PROD.,132628,CIERRE CUENTA DE INVERSION 2024 | SIGAF | Inconveniente con Asiento contable del C55 14896/2024,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-06 08:05,[CIERRE DE CUENTA][ERICA PL 01]
 CIUDAD,CERRADOS / En PROD.,132667,Desautorizar facturas de servicios basicos,MDA-Cerrado,Alta,G- MDA SIGAF,2025-04-04 12:48:00,
-OBSBA,En Análisis | EN CURSO,132695,Cambios Importes de Retenciones de Fondos a Rendir,T-En Curso,Media,Carolina Noemi Gualdi,2025-05-06 15:20,
+OBSBA,En Análisis | BACKLOG,132695,Cambios Importes de Retenciones de Fondos a Rendir,T-Stand By,Media,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 13:12,
 CIUDAD,CERRADOS / En PROD.,132714,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024. Formulario C55 8516/24 falta un asiento contable,MDA-Cerrado,Media,G- MDA SIGAF,2025-04-03 12:23:00,
 CIUDAD,CERRADOS / En PROD.,132726,CIERRE CUENTA DE INVERSIAAN 2024 | CI 2024 - OD 210 - Cuenta regularizaciAA3n de montos por retenciones,MDA-Cerrado,Media,G- MDA SIGAF,2025-04-24 13:32:00,[CIERRE DE CUENTA]
 CIUDAD,En Análisis | EN CURSO,132763,ERROR,MDA-Analisis,Baja,G- MDA SIGAF,2025-05-08 09:37,
@@ -490,13 +490,13 @@ CIUDAD,CERRADOS / En PROD.,134248,Restablecer los procesos contables,T-Finalizad
 CIUDAD,CERRADOS / En PROD.,134263,Cuenta de Inversion - Cambiar constancias de retencion al estado ANULADO.,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-09 18:34,[CIERRE DE CUENTA][ERICA PL 01][Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,134279,SIGAF | Inconveniente con NC duplicada,MDA-Cerrado,Media,Vanina Zylberg,2025-04-25 12:00:00,
 CIUDAD,En Análisis | EN CURSO,134304,CI 2024 - Cuenta :   213010005 RETENC. RESOLUC. AFIP 4052 (SUSS) A DEPOSITAR - ASIENTOS RET DE AC CONTABILIZADOS EN OD,MDA-Analisis,Media,G- Func. Gastos y Contabilidad,2025-05-06 12:49,[CIERRE DE CUENTA]
-OBSBA,En Análisis | EN CURSO,134338,Contabilidad | Notas de CrAAdito con asientos en cero,T-En Curso,Alta,Pablo Camdessanche,2025-04-23 10:56:00,
-OBSBA,En Análisis | EN CURSO,134349,Fondos a Rendir - Cambio de Importe FRC,T-En Curso,Media,Pablo Camdessanche,2025-04-25 18:51:00,
+OBSBA,En Análisis | BACKLOG,134338,Contabilidad | Notas de Cr�dito con asientos en cero ,T-Stand By,Alta,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 13:13,
+OBSBA,En Análisis | BACKLOG,134349,Fondos a Rendir - Cambio de Importe FRC,T-Stand By,Media,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 13:14,
 OBSBA,CERRADOS / En PROD.,134357,Eliminar OP duplicada.,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-24 20:56:00,
 CIUDAD,CERRADOS / En PROD.,134407,Restablecer los procesos contables (Duplicada de RM133350),T-Finalizada,Media,Dario Elola,2025-04-24 21:06:00,
 OBSBA,CERRADOS / En PROD.,134437,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-30 00:00:00,
 CIUDAD,CERRADOS / En PROD.,134453,CIERRE CUENTA DE INVERSI�N 2024 | Correccion fecha OP en reporte reporte de consulta movimientos de AXT,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-19 12:07,
-CIUDAD,En Análisis | EN CURSO,134465,Imposibilidad autorizar C42 Debe parametrizar la OGESE en la contabilidad,MDA-An�lisis,Urgente,Valentina Juszkiewicz,2025-05-19 15:01,
+CIUDAD,Solicitud de Pasaje a PROD.,134465,Imposibilidad autorizar C42 Debe parametrizar la OGESE en la contabilidad,MDA-Pendiente usuario,Media,Usuario Externo SIGAF,2025-05-20 12:17,
 CIUDAD,En Análisis | EN CURSO,134501,Medidores Solicitud de incorporacion de nuevo campo,MDA-An�lisis,Alta,Valentina Juszkiewicz,2025-05-15 12:43,
 CIUDAD,CERRADOS / En PROD.,134518,CIERRE CUENTA DE INVERSION 2024 | CI 2024 - OD 210 - Cuenta regularizacion de montos por retenciones,MDA-Cerrado,Media,G- MDA SIGAF,2025-05-05 12:05,[CIERRE DE CUENTA]
 OBSBA,CERRADOS / En PROD.,134523,Creacion de Script para los Cambios de Renteciones de FRC,T-Finalizada,Alta,Carolina Noemi Gualdi,2025-05-07 12:03,
@@ -541,7 +541,7 @@ CIUDAD,CERRADOS / En PROD.,135307,CIERRE CUENTA DE INVERSION 2024 Conciliacion P
 CIUDAD,CERRADOS / En PROD.,135308,CIERRE CUENTA DE INVERSION 2024 Conciliacion Presupuesto contabilidad || Devengado,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-05-13 16:22,[CIERRE DE CUENTA] [Dario Elola]
 CIUDAD,CERRADOS / En PROD.,135372,CIERRE CUENTA DE INVERSION 2024  // calculo deuda flotante,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-05-12 12:46,
 OBSBA,En Análisis | BACKLOG,135409,Update para Cierre de Ejercicio en ambiente PreProd,T-Stand By,Media,Vanina Zylberg,2025-05-13 11:12,
-CIUDAD,En Análisis | BACKLOG,135432,Testeo Frontend Inscripciones - Jornadas Contaduria,E-Backlog,Media,Daniel Fernando Artigas,2025-05-13 09:57,
+CIUDAD,En Análisis | BACKLOG,135432,Testeo Frontend Inscripciones - Jornadas Contaduria,E-Backlog,Media,G- Func. Gastos y Contabilidad,2025-05-20 10:58,
 CIUDAD,CERRADOS / En PROD.,135441,"Entorno PREPROD | Gastos - Inconvenientes al desautorizar Factura con Gestion de Compras ""Importe mayor al facturado""- Error no se permite desautorizar 2 facturas",T-Cancelada,Media,,2025-05-13 10:31,
 CIUDAD,En Análisis | EN CURSO,135442,CIERRE CUENTA DE INVERSION 2024 | Correccion de asiento  de formulario C55 14894/24 y 14895/24,MDA-Analisis,Alta,G- Func. Gastos y Contabilidad,2025-05-09 16:22,
 CIUDAD,CERRADOS / En PROD.,135458,CIERRE CUENTA DE INVERSI�N 2024 | C55 14694/2023 sin asiento,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-19 10:26,
@@ -598,7 +598,7 @@ OBSBA,CERRADOS / En PROD.,77571,Nota de CrAAdito | Error - Permite Autorizar sin
 OBSBA,CERRADOS / En PROD.,78012,Habilitar Trigger,T-Finalizada,Alta,Bruno Fleitas,2023-08-11 20:06:00,
 OBSBA,CERRADOS / En PROD.,78118,Reporte Cuanta Corriente | Adecuaciones Plan de Pagos,T-Finalizada,Alta,Bruno Fleitas,2023-09-15 21:41:00,
 OBSBA,CERRADOS / En PROD.,78344,Duplicidad en Generar ImputaciAA3n,T-Finalizada,Alta,Manuel Antonio Ramirez Portal,2023-08-10 23:10:00,
-CIUDAD,En Análisis | BACKLOG,78536,Tabla bAAsica Excepciones Padron AGIP por Partida completa del gasto,E-Stand By,Media,Otto Federico Klix Buteler,2025-04-08 14:31:00,
+CIUDAD,En Análisis | BACKLOG,78536,Tabla b�sica Excepciones Padron AGIP por Partida completa del gasto,E-Stand By,Media,Otto Federico Klix Buteler,2025-05-20 11:59,
 OBSBA,CERRADOS / En PROD.,78544,Productivo Error en duplicidad de Facturas Fiscales para el mismo Cuit Ente -Notas Bancarias,T-Finalizada,Alta,Federico Perez Melillo,2023-09-07 00:21:00,
 OBSBA,CERRADOS / En PROD.,78546,Error descuento de NB en Pagos parciales y CorrecciAA3n de presupuesto,T-Finalizada,Media,Maximiliano Miguel Dantas,2023-08-23 20:04:00,
 OBSBA,CERRADOS / En PROD.,78566,Fondos a Rendir | Alta de Entes Responsables de Fondos,T-Finalizada,Alta,G- MDA OBSBA,2023-08-10 21:01:00,
@@ -638,7 +638,7 @@ OBSBA,CERRADOS / En PROD.,81658,Eliminar la aplicacion automatica de NC,T-Finali
 OBSBA,CERRADOS / En PROD.,81805,Parametrizacion OG (4),T-Finalizada,Alta,Maximiliano Miguel Dantas,2023-09-08 20:08:00,
 OBSBA,CERRADOS / En PROD.,81926,Escenarios alertas y validaciones CPC - NC - Facturas y Comprobantes (Escenario 1),E-Cancelada,Media,G- SWF ObSBA,2025-01-15 09:23:00,
 OBSBA,CERRADOS / En PROD.,81969,ValidaciAA3n Saldo de Partida Presupuestaria,T-Finalizada,Alta,Manuel Antonio Ramirez Portal,2023-11-08 10:41:00,
-OBSBA,En Análisis | EN CURSO,82021,Fondos a Rendir  - Proceso de Cierre del Fondo,R- En curso,Media,Pablo Camdessanche,2025-01-02 11:43:00,
+OBSBA,En Análisis | EN CURSO,82021,Fondos a Rendir  - Proceso de Cierre del Fondo,R- En curso,Media,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 13:15,
 OBSBA,CERRADOS / En PROD.,82027,Contabilidad | Corregir ParametrizaciAA3n asiento de Retenciones [FCP*FRA DAS*FRA REINTEGRO*FBS*FFC],T-Finalizada,Media,Maximiliano Miguel Dantas,,
 OBSBA,CERRADOS / En PROD.,82133,Contabilidad | CorrecciAA3n generaciAA3n de contra asiento - AnulaciAA3n Manual de Pagos,T-Cancelada,Media,Maximiliano Miguel Dantas,2023-09-15 13:21:00,
 OBSBA,CERRADOS / En PROD.,82315,Contabilidad | Minuta Contable - Eliminar Validaciones del Centro de Costo,T-Finalizada,Urgente,Dario Elola,2023-09-22 20:07:00,
@@ -737,7 +737,7 @@ OBSBA,CERRADOS / En PROD.,91598,Factura FCP | Corregir fecha de Fecha Ingreso Ca
 OBSBA,CERRADOS / En PROD.,91620,Fondos a Rendir | Ajuste de Fechas de EmisiAA3n de Constancias de RetenciAA3n,E-Produccion,Media,Dario Elola,2024-04-09 09:08:00,
 OBSBA,En Análisis | BACKLOG,91674,Fondos a Rendir | Nota de Credito aplicada a Rendiciones,E-Backlog,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:52,
 OBSBA,En Análisis | BACKLOG,91675,Nota de Debito,E-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:44,
-OBSBA,En Prueba Func. | EN CURSO,91676,Report/PDF Nota de CrAAdito,E-Test Funcional,Media,Carolina Noemi Gualdi,2025-04-15 09:29:00,
+OBSBA,En Prueba Func. | EN CURSO,91676,Report/PDF Nota de Cr�dito,E-Test Funcional,Media,Carolina Noemi Gualdi,2025-05-20 13:10,
 OBSBA,CERRADOS / En PROD.,91677,Contabilidad | CORRECCION | Generar Asientos faltantes para C41 RH,T-Finalizada,Media,Dario Elola,2024-03-12 20:06:00,
 OBSBA,CERRADOS / En PROD.,91678,Reportes Contables | Sumas y Saldos,E-Cancelada,Media,,2024-05-23 09:26:00,
 OBSBA,En Análisis | BACKLOG,91679,Poner dato de carpeta y factura interno en REPORT OP,E-Stand By,Media,Pablo Camdessanche,2025-03-31 10:55:00,
@@ -816,7 +816,7 @@ CIUDAD,En Análisis | BACKLOG,96752,,MDA-Creado,Media,G- Func. Gastos y Contabil
 OBSBA,CERRADOS / En PROD.,96810,Adecuacion C55 FR- DesafectaciAA3n Global Extrapresupuestaria,E-Produccion,Alta,Franchesca Gabriela Rivas Veliz,2024-04-05 10:20:00,
 OBSBA,CERRADOS / En PROD.,96811,Campo Excedente - FR,E-Produccion,Alta,Franchesca Gabriela Rivas Veliz,2024-04-05 10:18:00,
 OBSBA,CERRADOS / En PROD.,96812,Campo Descuento - FR,E-Produccion,Alta,Franchesca Gabriela Rivas Veliz,2024-04-05 10:19:00,
-OBSBA,CERRADOS / En PROD.,96815,AdecuaciAA3n Campo Solicitud en C10 Rec y DES Extrapresupuestarios,E-Cancelada,Alta,Dario Elola,2024-05-31 16:25:00,
+OBSBA,CERRADOS / En PROD.,96815,Adecuaci�n Campo Solicitud en C10 Rec y DES Extrapresupuestarios,E-Cancelada,Alta,Dario Elola,2025-05-20 13:17,
 CIUDAD,En Análisis | BACKLOG,96821,Validacion Alta AXT y parametrizaciones a realizar,E-Stand By,Media,G- Func. Gastos y Contabilidad,2025-05-07 15:17,
 OBSBA,CERRADOS / En PROD.,97033,Insertar detalle de constancia 494 2024,T-Cancelada,Urgente,Carolina Noemi Gualdi,2024-02-19 11:53:00,
 OBSBA,CERRADOS / En PROD.,97698,Campo Unidad Ejecutora C42 Vacio,E-Produccion,Alta,Pablo Camdessanche,2024-02-22 11:00:00,
@@ -851,4 +851,4 @@ CIUDAD,CERRADOS / En PROD.,135783,CIERRE CUENTA DE INVERSION 2024 Inconvenientes
 CIUDAD,CERRADOS / En PROD.,135870,,E-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2025-05-15 14:55,
 CIUDAD,En Análisis | EN CURSO,136179,CIERRE CUENTA DE INVERSION 2024 | OD 210 - Error de asientos en la columna Variaciones,T-En Curso,Urgente,G- Desarrollo Ciudad PL/SQL,2025-05-19 19:29,[CIERRE DE CUENTA]
 CIUDAD,En Análisis | EN CURSO,136108,CIERRE CUENTA DE INVERSION SIGAF | CI 2024 // Diferencia reporte deuda x ente,MDA-An�lisis,Alta,Adalberto Jose Torres Salazar,2025-05-20 07:45,[CIERRE DE CUENTA]
-CIUDAD,En Análisis | EN CURSO,136093, CIERRE CUENTA DE INVERSI�N 2024 | Inconveniente en datos de Libro Mayor,T-En Curso,Urgente,Gast�n Ezequiel Kosiol,2025-05-20 09:08,[CIERRE DE CUENTA]
+CIUDAD,En Análisis | EN CURSO,136093, CIERRE CUENTA DE INVERSI�N 2024 | Inconveniente en datos de Libro Mayor,T-En Curso,Urgente,Dario Elola,2025-05-20 12:30,[CIERRE DE CUENTA]
