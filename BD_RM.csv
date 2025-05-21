@@ -117,7 +117,7 @@ OBSBA,CERRADOS / En PROD.,110567,OBSBA - NB Inconsistencia presupuestaria al Des
 CIUDAD,CERRADOS / En PROD.,110765,CIERRE CUENTA DE INVERSIAAN 2024 | Asientos contables errAA3neos - OD 219,MDA-Cerrado,Alta,G- MDA SIGAF,2025-03-25 14:24:00,
 OBSBA,CERRADOS / En PROD.,110815,OBSBA - FDF - Boton NC/ND Asociados trae formularios FRC,B- Completo,Media,Vanina Zylberg,2024-07-22 13:27:00,
 CIUDAD,En Análisis | EN CURSO,110869,"CIERRE CUENTA DE INVERSION 2024 | Gastos - Reporte ""Listado de Retenciones No Liquidadas"" - CR 4 y 767 - NEGATIVOS",MDA-Analisis,Alta,G- Func. Gastos y Contabilidad,2025-05-13 14:23,
-CIUDAD,En Análisis | EN CURSO,111486,Gastos Consulta | Reporte Listado de Retenciones No Liquidadas CR 7,MDA-An�lisis,Alta,G- Func. Gastos y Contabilidad,2025-05-20 11:09,
+CIUDAD,En Análisis | EN CURSO,111486,Gastos Consulta | Reporte Listado de Retenciones No Liquidadas CR 7,MDA-An�lisis,Alta,G- Func. Gastos y Contabilidad,2025-05-21 11:01,
 OBSBA,CERRADOS / En PROD.,111491,Alta Objetos del Gasto En BRELCONTAB,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2024-07-26 11:42:00,
 OBSBA,CERRADOS / En PROD.,111492,DescripciAA3n AXT en SFC- Fondos a Rendir,T-Finalizada,Media,Franchesca Gabriela Rivas Veliz,2024-08-09 17:03:00,
 OBSBA,CERRADOS / En PROD.,111742,Contabilidad | Borrado de Asientos C10,T-Finalizada,Urgente,Franchesca Gabriela Rivas Veliz,2024-07-30 20:57:00,
@@ -231,7 +231,7 @@ CIUDAD,CERRADOS / En PROD.,120236,Error Reporte de gestiAA3n de devengados,MDA-C
 CIUDAD,En Análisis | BACKLOG,120408,Adecuacion reporte retenciones no liquidas para excluir constancias,E-Backlog,Media,G- Func. Gastos y Contabilidad,2025-04-24 17:38:00,
 CIUDAD,CERRADOS / En PROD.,120439,Inconvenientes para enviar anexos a la firma,MDA-Cerrado,Baja,Usuario Externo SIGAF,2024-11-21 10:15:00,
 OBSBA,En Análisis | BACKLOG,120656,Contabilidad 2024 | Diferencias Contabilidad - Presupuesto 2024,T-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:46,
-CIUDAD,En Análisis | BACKLOG,120743,CIERRE CUENTA DE INVERSI�N 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gesti�n ,E-Analisis,Media,Nelson Daniel Bordon,2025-05-21 10:57,
+CIUDAD,En Análisis | BACKLOG,120743,CIERRE CUENTA DE INVERSI�N 2024 | Contabilidad | Crear Reporte Libro Mayor - Con datos de gesti�n ,E-Analisis,Media,Nelson Daniel Bord�n,2025-05-21 10:57,
 CIUDAD,CERRADOS / En PROD.,120816,,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-01-03 10:51:00,
 CIUDAD,CERRADOS / En PROD.,120876,Inconvenientes al autorizar C42  433055/24,MDA-Cerrado,Urgente,Usuario Externo SIGAF,2024-11-15 11:29:00,
 CIUDAD,CERRADOS / En PROD.,120953,Reporte Tiempos PRD - Error: el reporte trajo un resultado 2023 cuando se esta filtrando por 2024,T-Cancelada,Media,Sebastian Javier  Cardoso,2025-04-30 00:00:00,[CIERRE DE CUENTA]
@@ -349,7 +349,7 @@ OBSBA,CERRADOS / En PROD.,128514,SIGAF | Inconvenientes con calculo de retencion
 OBSBA,CERRADOS / En PROD.,128531,Error en exportar la liquidaciAA3n de retenciones de Arba,MDA-Cerrado,Urgente,G- MDA OBSBA,2025-02-13 09:02:00,
 CIUDAD,CERRADOS / En PROD.,128585,Gastos - Servicios Basicos - Solicitud de anulaciAA3n de lote 38886,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-02-13 14:17:00,
 OBSBA,CERRADOS / En PROD.,128596,Contabilidad| Asientos de Pago C42,T-Finalizada,Media,G- MDA OBSBA,2025-03-11 17:07:00,
-CIUDAD,En Análisis | EN CURSO,128602,CIERRE CUENTA DE INVERSI�N 2024 ,R- En curso,Urgente,Dario Elola,2025-05-19 17:28,[CIERRE DE CUENTA][Dario Elola]
+CIUDAD,En Análisis | EN CURSO,128602,CIERRE CUENTA DE INVERSI�N 2024 ,R- En curso,Urgente,Dario Elola,2025-05-21 11:34,[CIERRE DE CUENTA][Dario Elola]
 CIUDAD,CERRADOS / En PROD.,128603,CIERRE CUENTA DE INVERSION 2024 | Conciliacion Libro Banco - Contabilidad CUT,T-Finalizada,Media,G- Func. Gastos y Contabilidad,2025-05-07 16:42,[CIERRE DE CUENTA]
 CIUDAD,CERRADOS / En PROD.,128619,Servicios BAAsicos |  No toma los centavos en el proceso de carga masiva de factura,MDA-Cerrado,Alta,G- MDA SIGAF,2025-02-28 17:54:00,
 CIUDAD,CERRADOS / En PROD.,128650,CIERRE CUENTA DE INVERSIAAN 2024 | Error asiento contable PAG - CAJA OD en IVC,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-03-12 09:19:00,
@@ -384,7 +384,7 @@ OBSBA,CERRADOS / En PROD.,130056,Retenciones| Incorporacion TXT Tesoreria y Sana
 CIUDAD,CERRADOS / En PROD.,130122,,MDA-Cerrado,Alta,Oriana Sosa,2025-03-27 14:05:00,
 OBSBA,En Análisis | EN CURSO,130159,ADECUAR FORMATO LIBRO DIARIO  EN PDF,T-En Curso,Alta,Franchesca Gabriela Rivas Veliz,2025-05-21 00:37,[Franchesca Gabriela Rivas Veliz]
 CIUDAD,CERRADOS / En PROD.,130212,Solicitud de correcciAA3n | Fecha Vencimiento de Pago OP 287476/2024,MDA-Cerrado,Alta,G- MDA SIGAF,2025-03-28 08:08:00,
-CIUDAD,En Análisis | EN CURSO,130217,Generar reporte de Gastos de Telefonia Educacion-Hacienda,MDA-Analisis,Alta,Renzo Antonioli,2025-05-09 11:20,
+CIUDAD,En Análisis | BACKLOG,130217,Servicios Basicos Generar reporte de Gastos de Telefon�a Educaci�n-Hacienda,E-Backlog,Alta,Renzo Antonioli,2025-05-21 11:01,
 OBSBA,CERRADOS / En PROD.,130268,Contabilidad | Alta clasificador 1380 en MREDEVPR 2025,T-Cancelada,Urgente,Carolina Noemi Gualdi,2025-03-07 10:29:00,
 OBSBA,En Análisis | BACKLOG,130300,Cierre de Balance 2024- Fecha de Impacto NC y NB,T-Stand By,Alta,G- OBSBA-Gesti�n de facturas y contabilidad,2025-05-20 15:48,
 CIUDAD,CERRADOS / En PROD.,130301,CIERRE CUENTA DE INVERSION 2024 | Conciliacion Libro Banco - Contabilidad CUT | Pagos,T-Finalizada,Media,Renzo Antonioli,2025-05-12 11:32,[CIERRE DE CUENTA]
@@ -506,7 +506,7 @@ OBSBA,CERRADOS / En PROD.,134572,,T-Finalizada,Urgente,Dario Elola,2025-04-30 12
 OBSBA,Solicitud de Pasaje a PROD.,134677,CIERRE DE BALANCE - Creacion de Script (Minuta de reimputacion de sueldos),T-Pasaje a Produccion,Urgente,G- Tecno-Base de datos Oracle,2025-04-30 13:05:00,
 CIUDAD,En Análisis | BACKLOG,134690,Sitio de Jornadas 2025,E-Backlog,Alta,G- Func. Gastos y Contabilidad,2025-05-07 14:12,
 CIUDAD,En Análisis | EN CURSO,134691,Documentacion:,T-En Curso,Media,Renzo Antonioli,2025-04-29 19:05:00,
-CIUDAD,En Análisis | EN CURSO,134695,Entornos y Accesos,T-En Curso,Media,Renzo Antonioli,2025-04-29 11:17:00,
+CIUDAD,CERRADOS / En PROD.,134695,Entornos y Accesos,T-Cancelada,Media,Renzo Antonioli,2025-05-21 11:28,
 OBSBA,Solicitud de Pasaje a PROD.,134739,CIERRE DE BALANCE - MINUTA CONC BANCARIA 6-2 2024,T-Solicitud de pasaje,Urgente,Pablo Camdessanche,2025-04-30 15:28:00,
 CIUDAD,CERRADOS / En PROD.,134741,CIERRE CUENTA DE INVERSION 2024  // diferencias DEUDA Flotante,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-05-09 10:47,[CIERRE DE CUENTA]
 CIUDAD,En Análisis | EN CURSO,134759,Definici�n de DNS para jornadas,T-En Curso,Media,Diego Javier Helguera,2025-05-15 16:07,
@@ -850,5 +850,5 @@ OBSBA,En Análisis | BACKLOG,99754,Gestiones de Facturas solapa Resumen. Mensaje
 CIUDAD,CERRADOS / En PROD.,135783,CIERRE CUENTA DE INVERSION 2024 Inconvenientes para determinar la etapa del LIQUIDADO,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-19 11:09,[CIERRE DE CUENTA] [Lucas Gutierrez]
 CIUDAD,CERRADOS / En PROD.,135870,CIERRE CUENTA DE INVERSI�N 2024 | Diferencias REG Monto C10,E-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2025-05-15 14:55,
 CIUDAD,En Análisis | EN CURSO,136179,CIERRE CUENTA DE INVERSION 2024 | OD 210 - Error de asientos en la columna Variaciones,T-En Curso,Urgente,Dario Elola,2025-05-20 16:32,[CIERRE DE CUENTA][Dario Elola]
-CIUDAD,En Análisis | EN CURSO,136108,CIERRE CUENTA DE INVERSION SIGAF | CI 2024 // Diferencia reporte deuda x ente,MDA-An�lisis,Urgente,Adalberto Jose Torres Salazar,2025-05-21 09:45,[CIERRE DE CUENTA]
+CIUDAD,En Prueba QA | EN CURSO,136108,CIERRE CUENTA DE INVERSION SIGAF | CI 2024 // Diferencia reporte deuda x ente,MDA-Test QA,Urgente,G- QA Testers,2025-05-21 11:50,[CIERRE DE CUENTA]
 CIUDAD,CERRADOS / En PROD.,136093, CIERRE CUENTA DE INVERSI�N 2024 | Inconveniente en datos de Libro Mayor,T-Finalizada,Urgente,Alejandro Daniel Lagorio ,2025-05-21 10:04,[CIERRE DE CUENTA][Dario Elola]
