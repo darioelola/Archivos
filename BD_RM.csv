@@ -159,7 +159,6 @@ OBSBA,CERRADOS / En PROD.,114690,Contabilidad | NOTA | Borrado de asientos PAG C
 OBSBA,CERRADOS / En PROD.,114692,Calculadora Retenciones ARBA,T-Cancelada,Media,Pablo Diego La Maestra,2024-09-03 14:27:00,
 OBSBA,CERRADOS / En PROD.,114723,TesorerAAa | NOTA | Correcciones Cuenta 6/2,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2024-09-02 11:28:00,
 OBSBA,CERRADOS / En PROD.,114758,Contabilidad | NOTA | Correcciones PAG Cta 6/2,T-Finalizada,Alta,Pablo Camdessanche,2024-09-04 20:14:00,
-OBSBA,En Prueba QA | EN CURSO,114841,Migraci n OBSBA 12C - Modulo Inicio de Ejercicio,E-Test QA,Media,G- QA Testers,2025-05-05 12:06:00,
 OBSBA,CERRADOS / En PROD.,114928,Contabilidad | Matriz MRIDEVPR | Corregir clasificadores contables para 2024,T-Finalizada,Urgente,Dario Elola,2024-08-28 21:56:00,
 OBSBA,En Análisis | BACKLOG,114929,C55 Cambio de Imputacion (CDI) | Adecuar validaciones presupuetarias,T-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 12:03,
 OBSBA,CERRADOS / En PROD.,114931,Contabilidad | Borrado y regeneracion de PAG y RET - DAS,T-Finalizada,Media,Dario Elola,2024-08-28 22:03:00,
@@ -463,16 +462,10 @@ CIUDAD,CERRADOS / En PROD.,133630,S/Metrogas-pagos 07/04/25,MDA-Cerrado,Media,Re
 OBSBA,CERRADOS / En PROD.,133662,CIERRE DE BALANCE - CorrecciAA3n de asientos DAS Regularizados,T-Finalizada,Urgente,G- Tecno-Base de datos Oracle,2025-04-25 18:26:00,
 OBSBA,En Análisis | BACKLOG,133663,Contabilidad | Correccion de fondo - Asientos de FRA (DAS) Sin Regularizacion y Regularizados,T-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:42,
 CIUDAD,CERRADOS / En PROD.,133702,,MDA-Cerrado,Alta,G- MDA SIGAF,2025-04-21 17:22:00,
-OBSBA,En Prueba QA | EN CURSO,133706,Consultas e informes,E-Test QA,Alta,G- QA Testers,2025-05-05 10:49:00,
-OBSBA,En Prueba QA | EN CURSO,133707,ERROR,E-Test QA,Alta,G- QA Testers,2025-05-05 11:26:00,
-OBSBA,En Prueba QA | EN CURSO,133709,Estados contables,E-Test QA,Alta,G- QA Testers,2025-05-05 11:50:00,
-OBSBA,En Prueba QA | EN CURSO,133710,Subdiarios,E-Test QA,Alta,G- QA Testers,2025-05-05 11:53:00,
-OBSBA,En Prueba QA | EN CURSO,133712,Definiciones contables,E-Test QA,Alta,G- QA Testers,2025-05-05 11:48:00,
 OBSBA,CERRADOS / En PROD.,133820,CIERRE DE BALANCE - Revisar pagos importes duplicados o triplicados en contabilidad.,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-16 18:00:00,
 OBSBA,CERRADOS / En PROD.,133821,CIERRE DE BALANCE - Contabilidad | Asientos PAG RET DAS A PAGAR  - Gestiones 2023- Pago 2024,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-21 18:06:00,
 OBSBA,CERRADOS / En PROD.,133825,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP | Ajuste de impacto cuenta del DEBE,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-16 17:58:00,
 CIUDAD,CERRADOS / En PROD.,133901,,T-Finalizada,Media,Gaston Ezequiel Kosiol,2025-05-05 17:05,[CIERRE DE CUENTA]
-OBSBA,En Prueba QA | EN CURSO,133942,Solicitud de entrega de fondos,E-Test QA,Media,G- QA Testers,2025-05-05 14:10:00,
 CIUDAD,CERRADOS / En PROD.,133948,CIERRE CUENTA DE INVERSIAAN 2024 | Arreglar cuentas contables,MDA-Cerrado,Media,G- MDA SIGAF,2025-04-25 09:18:00,[CIERRE DE CUENTA]
 CIUDAD,CERRADOS / En PROD.,133969,CIERRE CUENTA DE INVERSIAAN 2024 | Diferencia SyS y Reg de Monto por Retenciones a DICIEMBRE 2024,MDA-Cerrado,Alta,G- MDA SIGAF,2025-04-24 11:35:00,[CIERRE DE CUENTA]
 OBSBA,CERRADOS / En PROD.,133982,CIERRE DE BALANCE 2024 | MINUTA CONC. BANCARIA CTA 1043-8 2024,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-22 17:45:00,
