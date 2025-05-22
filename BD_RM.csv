@@ -571,7 +571,7 @@ OBSBA,CERRADOS / En PROD.,73725,Error descuento de NC en Pagos parciales (Ver NB
 OBSBA,CERRADOS / En PROD.,73858,Retenciones - C41 con Nota de CrAAdito Parcial - Error en el neto computable de la gestiAA3n,T-Cancelada,Alta,Carolina Noemi Gualdi,2024-08-28 16:21:00,
 OBSBA,En Análisis | BACKLOG,73871,Retenciones - ENTE Condominio,T-Stand By,Alta,G- SWF ObSBA,2024-08-21 15:12:00,
 CIUDAD,En Prueba QA | EN CURSO,74040,EVGS 012023 - Que la generaciAA3n de exportaciAA3n IIBB soporte pagos parciales,E-Test QA,Alta,Luz Fox,2025-04-08 14:37:00,
-OBSBA,En Análisis | BACKLOG,74932,Factura OBSBA | BAAosqueda por Formulario AFIP,E-Stand By,Media,G- SWF ObSBA,2024-06-07 17:36:00,
+OBSBA,En Análisis | BACKLOG,74932,Factura OBSBA | BAAosqueda por Formulario AFIP,E-Stand By,Media,G- SWF ObSBA,2025-05-22,[Vanina Zylberg]
 OBSBA,En Análisis | BACKLOG,74990,Retenciones Acumulados - GestiAA3n Fondo Compensador -  Nota Bancaria,T-Stand By,Urgente,Pablo Diego La Maestra,2025-04-15 13:07:00,
 OBSBA,CERRADOS / En PROD.,75191,Gastos - FacturaciAA3n OBSBA -  Factura de proveedores varios y Factura de deuda flotante- Formulario Factura- solapa cabecera-Boton NC/ND asociados*es incorrecto ver el CPC (PAGO A CUENTA) en dicho botAA3n,E-Produccion,Media,Vanina Zylberg,2023-12-29 15:24:00,
 OBSBA,CERRADOS / En PROD.,75982,AsociaciAA3n 2 o mas C42 en FRC Y FRP,T-Finalizada,Media,Franchesca Gabriela Rivas Veliz,2023-11-07 21:02:00,
@@ -654,7 +654,7 @@ OBSBA,CERRADOS / En PROD.,83295,RETENCIONES ACOMPAAAAMIENTO USUARIOS,T-Cancelada
 OBSBA,CERRADOS / En PROD.,83426,ARBA - HPADRON,T-Cancelada,Media,Carolina Noemi Gualdi,2024-03-13 15:20:00,
 OBSBA,CERRADOS / En PROD.,83452,Facturas Proveedores | Corregir numero AFIP,T-Finalizada,Alta,Bruno Fleitas,2023-09-26 21:11:00,
 OBSBA,CERRADOS / En PROD.,83663,Estados de Carpetas en FRC Y FRP,T-Finalizada,Media,Manuel Antonio Ramirez Portal,2023-11-08 10:38:00,
-OBSBA,En Análisis | BACKLOG,83675,CPC | AutorizaciAA3n Masiva,E-Stand By,Media,G- SWF ObSBA,2024-06-12 17:41:00,
+OBSBA,En Análisis | BACKLOG,83675,CPC | AutorizaciAA3n Masiva,E-Stand By,Media,G- SWF ObSBA,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,83687,Contabilidad | CORRECCION | Asientos de Pagos y Retenciones C42,T-Finalizada,Media,Pablo Camdessanche,2024-03-21 21:46:00,
 OBSBA,CERRADOS / En PROD.,83805,Herencia check amparo Carpetas y facturas,T-Finalizada,Alta,Claudio Giura,2023-10-26 08:53:00,
 OBSBA,CERRADOS / En PROD.,84058,Error al Guardar datos FACGS_FK,T-Finalizada,Alta,Manuel Antonio Ramirez Portal,2023-11-08 10:39:00,
