@@ -165,7 +165,7 @@ OBSBA,CERRADOS / En PROD.,114931,Contabilidad | Borrado y regeneracion de PAG y 
 OBSBA,CERRADOS / En PROD.,114935,OBSBA - Modificacion Ente beneficiario en gestion de fondo Compensador,T-Finalizada,Alta,Vanina Zylberg,2024-08-30 10:39:00,
 OBSBA,CERRADOS / En PROD.,114947,Contabilidad | Cheques| Borrar y Regenerar asientos Cta Bancaria 6/2,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2024-09-06 12:43:00,
 OBSBA,CERRADOS / En PROD.,115207,Corregir diferencia entre libro banco y pagos de lotes obsba,T-Finalizada,Urgente,Carlos Soraire,2024-09-03 20:10:00,
-OBSBA,En Análisis | BACKLOG,115220,NC parcial para gestiones con 2 objetos del gasto,T-Stand By,Media,Pablo Diego La Maestra,2025-02-11 11:35:00,
+OBSBA,En Análisis | BACKLOG,115220,NC parcial para gestiones con 2 objetos del gasto,T-Stand By,Media,Pablo Diego La Maestra,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,115401,Contabilidad | Fonco Compensador | Asiento de Ajuste de NB con NC,T-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2024-10-08 15:05:00,
 OBSBA,En Análisis | EN CURSO,115640,OBSBA - NB Inconsistencia en aplicacion de NB cuando la OP tiene una NC asociada,T-En Curso,Media,Vanina Zylberg,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,115645,Contabilidad| Fondo Compensador | Correccion importe de asiento NB con retenciones,T-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2024-10-08 15:07:00,
@@ -317,7 +317,7 @@ CIUDAD,CERRADOS / En PROD.,127532,Cambio de beneficiario OCB  (NO-2024-27181621-
 CIUDAD,CERRADOS / En PROD.,127537,,MDA-Rechazado,Alta,Dario Elola,2025-02-12 15:56:00,
 CIUDAD,CERRADOS / En PROD.,127543,,MDA-Cerrado,Urgente,G- MDA SIGAF,2025-04-07 16:50:00,
 OBSBA,CERRADOS / En PROD.,127621,Alta Fondo Anual - Fondos Permanentes 2025,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2025-01-30 16:38:00,
-OBSBA,En Análisis | BACKLOG,127646,BotAA3n Consultar Asiento- Nota de CrAAdito,T-Stand By,Media,Pablo Diego La Maestra,2025-01-29 17:00:00,
+OBSBA,En Análisis | BACKLOG,127646,BotAA3n Consultar Asiento- Nota de CrAAdito,T-Stand By,Media,Pablo Diego La Maestra,2025-05-22,[Vanina Zylberg]
 CIUDAD,CERRADOS / En PROD.,127721,Solicitud de incorporar validacion,E-Cancelada,Media,Dario Elola,2025-03-05 16:14:00,
 CIUDAD,CERRADOS / En PROD.,127730,CIERRE CUENTA DE INVERSIAAN 2024 | Error asiento contable PAG - CAJA OD en IVC,MDA-Cerrado,Alta,G- MDA SIGAF,2025-03-13 09:47:00,
 CIUDAD,CERRADOS / En PROD.,127785,Cambio de beneficiario de PRDs,MDA-Cerrado,Media,Usuario Externo SIGAF,2025-02-11 16:03:00,
