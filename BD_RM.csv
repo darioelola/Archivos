@@ -461,7 +461,7 @@ OBSBA,CERRADOS / En PROD.,133610,CIERRE DE BALANCE - Eliminar asientos residuale
 CIUDAD,CERRADOS / En PROD.,133630,S/Metrogas-pagos 07/04/25,MDA-Cerrado,Media,Renzo Antonioli,2025-04-23 19:46:00,
 OBSBA,CERRADOS / En PROD.,133662,CIERRE DE BALANCE - CorrecciAA3n de asientos DAS Regularizados,T-Finalizada,Urgente,G- Tecno-Base de datos Oracle,2025-04-25 18:26:00,
 OBSBA,En Análisis | BACKLOG,133663,Contabilidad | Correccion de fondo - Asientos de FRA (DAS) Sin Regularizacion y Regularizados,T-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:42,
-CIUDAD,CERRADOS / En PROD.,133702,SIGAF | CIERRE CUENTA DE INVERSIoN 2024 | Inconveniente al anular C55 No14756/24 "agregar error FRM-40737-Illegal restricted procedure GO_ITEM in PRE-UPDATE trigger",MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-22 11:50,
+CIUDAD,CERRADOS / En PROD.,133702,SIGAF | CIERRE CUENTA DE INVERSIoN 2024 | Inconveniente al anular C55 No14756/24 agregar error FRM-40737-Illegal restricted procedure GO_ITEM in PRE-UPDATE trigger,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-22 11:50,
 OBSBA,CERRADOS / En PROD.,133820,CIERRE DE BALANCE - Revisar pagos importes duplicados o triplicados en contabilidad.,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-16 18:00:00,
 OBSBA,CERRADOS / En PROD.,133821,CIERRE DE BALANCE - Contabilidad | Asientos PAG RET DAS A PAGAR  - Gestiones 2023- Pago 2024,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-21 18:06:00,
 OBSBA,CERRADOS / En PROD.,133825,CIERRE DE BALANCE - Contabilidad | Asientos RET de Gestiones FRC y FRP | Ajuste de impacto cuenta del DEBE,T-Finalizada,Urgente,G- MDA OBSBA,2025-04-16 17:58:00,
