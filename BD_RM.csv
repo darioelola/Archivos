@@ -339,7 +339,7 @@ CIUDAD,CERRADOS / En PROD.,128142,Detalle de Pago 30-01-25,MDA-Cerrado,Media,Dar
 CIUDAD,CERRADOS / En PROD.,128147,Consulta - Retenciones OP 139630/2024 -c10,MDA-Cerrado,Media,Usuario Externo SIGAF,2025-03-07 11:09:00,
 CIUDAD,CERRADOS / En PROD.,128148,Inconvenientes en OP: compensaciones para hacer el C10,MDA-Cerrado,Media,Usuario Externo SIGAF,2025-03-06 17:35:00,
 CIUDAD,CERRADOS / En PROD.,128154,Inconvenientes en OP: compensaciones para hacer el C10,MDA-Cerrado,Urgente,Dario Elola,2025-03-07 11:20:00,
-OBSBA,En Análisis | BACKLOG,128228,Error descuento de NC en Pagos parciales - duplica descuento de NC,T-Stand By,Alta,G- SWF ObSBA,2025-03-18 09:20:00,
+OBSBA,En Análisis | BACKLOG,128228,Error descuento de NC en Pagos parciales - duplica descuento de NC,T-Stand By,Alta,G- SWF ObSBA,2025-05-22,[Vanina Zylberg]
 OBSBA,En Análisis | BACKLOG,128229,Fondos a Rendir - Cambio de Nro Afip,T-Stand By,Media,Pablo Camdessanche,2025-03-31 10:57:00,
 CIUDAD,CERRADOS / En PROD.,128288,Reimputacion servicios basicos,MDA-Cerrado,Alta,Usuario Externo SIGAF,2025-02-11 15:08:00,
 OBSBA,CERRADOS / En PROD.,128334,Planta Valorizada RRHH Error en Autorizacion,T-Finalizada,Urgente,G- MDA OBSBA,2025-02-12 18:32:00,
@@ -365,7 +365,7 @@ OBSBA,CERRADOS / En PROD.,129157,SIGAF | Inconvenientes al autorizar NB,MDA-Cerr
 OBSBA,CERRADOS / En PROD.,129189,Consulta Retenciones Contabilidad,T-Finalizada,Alta,Carolina Noemi Gualdi,2025-04-01 10:59:00,
 CIUDAD,CERRADOS / En PROD.,129318,Inconvenientes con OP,MDA-Cerrado,Alta,G- MDA SIGAF,2025-02-21 16:57:00,
 OBSBA,En Análisis | BACKLOG,129371,Cambio ente FRC 75805-2024,T-Stand By,Alta,Pablo Camdessanche,2025-02-21 01:08:00,
-OBSBA,En Análisis | BACKLOG,129501,OBSBA - NB Inconsistencia presupuestaria al Desautorizar,T-Stand By,Alta,G- SWF ObSBA,2025-03-31 10:57:00,
+OBSBA,En Análisis | BACKLOG,129501,OBSBA - NB Inconsistencia presupuestaria al Desautorizar,T-Stand By,Alta,G- SWF ObSBA,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,129516,Contabilidad| CorrecciAA3n Asientos de Pago FFC,T-Finalizada,Alta,G- MDA OBSBA,2025-03-27 18:18:00,
 OBSBA,CERRADOS / En PROD.,129518,Contabilidad| Correccion de asientos contables de Fondos a Rendir,T-Finalizada,Alta,G- MDA OBSBA,2025-03-28 18:06:00,
 CIUDAD,CERRADOS / En PROD.,129555,CIERRE CUENTA DE INVERSIAAN 2024 | Solicitud de impacto asientos en DEVENGADOS de C42,MDA-Cerrado,Alta,G- MDA SIGAF,2025-04-23 19:33:00,[CIERRE DE CUENTA]
