@@ -247,7 +247,14 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- Lógica integrada con corrección de tags y recarga -->
 <script>
-    document.addEventListener('DOMContentLoaded', () => {
+    
+  // Definición de repo para carga de CSV
+  const REPO_USER   = "darioelola";
+  const REPO_NAME   = "ControlRM";
+  const BRANCH      = "main";
+  const RAW_CSV_URL = `https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}/BD_RM.csv`;
+  const LS_KEY_DATA = "BD_RM";
+document.addEventListener('DOMContentLoaded', () => {
       /* DESCARGAR EXCEL FILTRADO */
       window.descargarExcel = function() {
         const filtered = data.filter(r => {
@@ -279,7 +286,7 @@
       };
 
       /* CONFIGURACIÓN */
-      const GH_BRANCH   = "main";
+      // Definición de repo para carga de CSV   const REPO_USER   = "darioelola";   const REPO_NAME   = "ControlRM";   const BRANCH      = "main";   const RAW_CSV_URL = `https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}/BD_RM.csv`;   const LS_KEY_DATA = "BD_RM";
                   const LS_KEY_DATA = "BD_RM";
       const COLS = [
         "SISTEMA","ESTADO INTERNO","RM","Asunto",
@@ -721,10 +728,9 @@
       }
       
 async function fetchRawCSV() {
-  const url = "https://raw.githubusercontent.com/darioelola/Archivos/main/BD_RM.csv";
-  const r = await fetch(url);
-  if (!r.ok) throw Error("Descarga GitHub RAW");
-  return await r.text();
+    const r = await fetch(RAW_CSV_URL);
+    if (!r.ok) throw Error("Error descargando BD_RM desde GitHub");
+    return await r.text();
 }
 
         });
@@ -806,7 +812,7 @@ async function fetchRawCSV() {
 
   &lt;script src=&quot;https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js&quot;&gt;&lt;/script&gt;
   &lt;script&gt;
-    const GH_BRANCH = &quot;main&quot;;
+    // Definición de repo para carga de CSV   const REPO_USER   = "darioelola";   const REPO_NAME   = "ControlRM";   const BRANCH      = "main";   const RAW_CSV_URL = `https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}/BD_RM.csv`;   const LS_KEY_DATA = "BD_RM";main&quot;;
             const LS_KEY    = &quot;BD_RM&quot;;
 
     const ordenEstados = [
@@ -851,7 +857,7 @@ const Monitoreos = Object.values(mapaMonitoreos);
       const raw = localStorage.getItem(LS_KEY);
       if (raw) { try { data = JSON.parse(raw); } catch {} }
       if (!data.length) {
-        const resp = await fetch(`${GH_URL}?ref=${GH_BRANCH}`,{
+        const resp = await fetch(RAW_CSV_URL),{
           headers:{Authorization:`token ${GH_TOKEN}`,Accept:&quot;application/vnd.github.v3.raw&quot;}
         });
         const csvText = await resp.text();
