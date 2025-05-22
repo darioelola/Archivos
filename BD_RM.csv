@@ -591,7 +591,7 @@ OBSBA,CERRADOS / En PROD.,77571,Nota de CrAAdito | Error - Permite Autorizar sin
 OBSBA,CERRADOS / En PROD.,78012,Habilitar Trigger,T-Finalizada,Alta,Bruno Fleitas,2023-08-11 20:06:00,
 OBSBA,CERRADOS / En PROD.,78118,Reporte Cuanta Corriente | Adecuaciones Plan de Pagos,T-Finalizada,Alta,Bruno Fleitas,2023-09-15 21:41:00,
 OBSBA,CERRADOS / En PROD.,78344,Duplicidad en Generar ImputaciAA3n,T-Finalizada,Alta,Manuel Antonio Ramirez Portal,2023-08-10 23:10:00,
-CIUDAD,En Desarrollo | EN CURSO,78536,Tabla b�sica Excepciones Padron AGIP por Partida completa del gasto,E-Desarrollo,Alta,Otto Federico Klix Buteler,2025-05-22 10:12,
+CIUDAD,En Desarrollo | EN CURSO,78536,Tabla b�sica Excepciones Padron AGIP por Partida completa del gasto,E-Desarrollo,Alta,Otto Federico Klix Buteler,2025-05-22,[Nelson Daniel Bordon]
 OBSBA,CERRADOS / En PROD.,78544,Productivo Error en duplicidad de Facturas Fiscales para el mismo Cuit Ente -Notas Bancarias,T-Finalizada,Alta,Federico Perez Melillo,2023-09-07 00:21:00,
 OBSBA,CERRADOS / En PROD.,78546,Error descuento de NB en Pagos parciales y CorrecciAA3n de presupuesto,T-Finalizada,Media,Maximiliano Miguel Dantas,2023-08-23 20:04:00,
 OBSBA,CERRADOS / En PROD.,78566,Fondos a Rendir | Alta de Entes Responsables de Fondos,T-Finalizada,Alta,G- MDA OBSBA,2023-08-10 21:01:00,
@@ -835,10 +835,10 @@ OBSBA,En Desarrollo | EN CURSO,99213,Eliminar impacto presupuestario de Retencio
 OBSBA,CERRADOS / En PROD.,99313,Contabilidad | CorrecciAA3n de Clasificadores,T-Finalizada,Urgente,Pablo Camdessanche,2024-03-06 16:54:00,
 OBSBA,CERRADOS / En PROD.,99328,Ajuste Fechas Constancias de Retencion ENE-FEB 2024,E-Produccion,Media,Franchesca Gabriela Rivas Veliz,2024-04-08 20:36:00,
 OBSBA,CERRADOS / En PROD.,99396,Contabilidad | Alta clasificador  16210 en MRIDEVPR,E-Produccion,Media,Pablo Camdessanche,2024-03-07 20:10:00,
-OBSBA,En Análisis | BACKLOG,99403,Gestiones de Facturas sin autorizacion parcial | Error en AutorizaciAA3n - Se realizan impactos mAAoltiples,E-Stand By,Media,Daniel Marcelo FernAAndez,2025-03-31 10:56:00,
+OBSBA,En Análisis | BACKLOG,99403,Gestiones de Facturas sin autorizacion parcial | Error en AutorizaciAA3n - Se realizan impactos mAAoltiples,E-Stand By,Media,Daniel Marcelo FernAAndez,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,99412,Contabilidad | Minuta de Notas de CrAAdito Carpetas de Deuda Flotante,T-Finalizada,Media,Dario Elola,2024-03-18 20:43:00,
 OBSBA,CERRADOS / En PROD.,99743,Contabilidad | Re Generar Asientos CPV,T-Finalizada,Alta,Pablo Camdessanche,2024-03-22 20:12:00,
-OBSBA,En Análisis | BACKLOG,99754,Gestiones de Facturas solapa Resumen. Mensaje para guardar al navegar de un registro al otro,E-Stand By,Alta,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 12:05,
+OBSBA,En Análisis | BACKLOG,99754,Gestiones de Facturas solapa Resumen. Mensaje para guardar al navegar de un registro al otro,E-Stand By,Alta,G- OBSBA-Gestion de facturas y contabilidad,2025-05-22,[Vanina Zylberg]
 CIUDAD,CERRADOS / En PROD.,135783,CIERRE CUENTA DE INVERSION 2024 Inconvenientes para determinar la etapa del LIQUIDADO,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-19 11:09,[CIERRE DE CUENTA] [Lucas Gutierrez]
 CIUDAD,CERRADOS / En PROD.,135870,CIERRE CUENTA DE INVERSIoN 2024 | Diferencias REG Monto C10,E-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2025-05-15 14:55,
 CIUDAD,En Análisis | EN CURSO,136179,CIERRE CUENTA DE INVERSION 2024 | OD 210 - Error de asientos en la columna Variaciones,T-En Curso,Urgente,Dario Elola,2025-05-20 16:32,[CIERRE DE CUENTA][Dario Elola]
