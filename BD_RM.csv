@@ -684,7 +684,7 @@ OBSBA,CERRADOS / En PROD.,87291,CPC para gestiones con 2 Objetos del gasto,T-Fin
 OBSBA,CERRADOS / En PROD.,87355,,MDA-Cerrado,Alta,Dario Elola,2023-11-03 12:27:00,
 CIUDAD,En Análisis | BACKLOG,87369,,E-Stand By,Alta,G- Func. Gastos y Contabilidad,2025-05-07 15:16,
 OBSBA,CERRADOS / En PROD.,87373,,T-Cancelada,Media,Vanina Zylberg,2025-01-15 09:16:00,
-OBSBA,En Análisis | BACKLOG,87374,Obsba aplicacion NC por total de importe de la OP,E-Stand By,Media,G- SWF ObSBA,2025-03-31 10:55:00,
+OBSBA,En Análisis | BACKLOG,87374,Obsba aplicacion NC por total de importe de la OP,E-Stand By,Media,G- SWF ObSBA,2025-05-22,[Vanina Zylberg]
 CIUDAD,En Análisis | BACKLOG,87455,NDRET 022023 - Crear marca para retencion de ganancias segun Ente,E-Stand By,Media,G- Func. Gastos y Contabilidad,2025-05-07 14:12,
 OBSBA,CERRADOS / En PROD.,88048,Fondos a Rendir- Entrega de Fondos - autorizaciAA3n - se cargan un C42 de fondos con cargos a rendir con dos AXT,E-Produccion,Alta,Pablo Camdessanche,2023-12-19 10:16:00,
 OBSBA,CERRADOS / En PROD.,88049,Fondos a Rendir | Permite autorizar con importes diferentes entre solpa Cabecera y Detalle Presupuestario,T-Finalizada,Urgente,Pablo Camdessanche,2023-12-18 21:12:00,
@@ -696,7 +696,7 @@ OBSBA,CERRADOS / En PROD.,88281,NC - Pagos - Pasar pagos de NC de I a R y agrega
 OBSBA,CERRADOS / En PROD.,88296,Asociacion C42 Modulo gastos con SFP,T-Finalizada,Media,G- MDA OBSBA,2023-11-24 12:01:00,
 OBSBA,CERRADOS / En PROD.,88306,Contabilidad | Alta clasificadores matriz MRIDEVPR,T-Finalizada,Urgente,Dario Elola,2023-11-13 11:52:00,
 OBSBA,CERRADOS / En PROD.,88344,Fecha de Recepcion FRC y FRP Automatica y Editable.,E-Produccion,Media,Franchesca Gabriela Rivas Veliz,2024-01-25 20:42:00,
-OBSBA,En Análisis | BACKLOG,88345,Agregar Boton de Autorizar y Desautorizar en Resumen,E-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:47,
+OBSBA,En Análisis | BACKLOG,88345,Agregar Boton de Autorizar y Desautorizar en Resumen,E-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,88346,AnulaciAA3n de Factura FRC y FRP,T-Finalizada,Media,Manuel Antonio Ramirez Portal,2023-12-19 10:17:00,
 OBSBA,CERRADOS / En PROD.,88660,Falla en decimales FRC,T-Finalizada,Alta,Federico Perez Melillo,2023-11-25 19:35:00,
 OBSBA,CERRADOS / En PROD.,88682,Pruebas IE2024 Facturas ObSBA,E-Produccion,Alta,Carolina Noemi Gualdi,2024-01-02 13:50:00,
@@ -728,7 +728,7 @@ OBSBA,CERRADOS / En PROD.,91525,Nota de CrAAdito | Error en Consulta - 9478_2023
 OBSBA,CERRADOS / En PROD.,91598,Factura FCP | Corregir fecha de Fecha Ingreso Carpeta,E-Produccion,Urgente,Pablo Camdessanche,2023-12-18 17:29:00,
 OBSBA,CERRADOS / En PROD.,91620,Fondos a Rendir | Ajuste de Fechas de EmisiAA3n de Constancias de RetenciAA3n,E-Produccion,Media,Dario Elola,2024-04-09 09:08:00,
 OBSBA,En Análisis | BACKLOG,91674,Fondos a Rendir | Nota de Credito aplicada a Rendiciones,E-Backlog,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:52,
-OBSBA,En Análisis | BACKLOG,91675,Nota de Debito,E-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:44,
+OBSBA,En Análisis | BACKLOG,91675,Nota de Debito,E-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-22,[Vanina Zylberg]
 OBSBA,En Prueba Func. | EN CURSO,91676,Report/PDF Nota de Crodito,E-Test Funcional,Media,Carolina Noemi Gualdi,2025-05-21,[Carolina Noemi Gualdi]
 OBSBA,CERRADOS / En PROD.,91677,Contabilidad | CORRECCION | Generar Asientos faltantes para C41 RH,T-Finalizada,Media,Dario Elola,2024-03-12 20:06:00,
 OBSBA,CERRADOS / En PROD.,91678,Reportes Contables | Sumas y Saldos,E-Cancelada,Media,,2024-05-23 09:26:00,
@@ -738,7 +738,7 @@ OBSBA,CERRADOS / En PROD.,91681,Becas y Subsidios PSOC,E-Cancelada,Media,,2025-0
 OBSBA,CERRADOS / En PROD.,91682,MigraciAA3n Masiva de Facturas de Bien Salud,E-Cancelada,Media,,2025-01-15 09:18:00,
 OBSBA,En Análisis | BACKLOG,91683,Reportes Contables | Estado de Resultado,E-Backlog,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 12:09,
 OBSBA,CERRADOS / En PROD.,91684,EnviAA3 de Mail para las alertas de los Escenarios CPC - NC,E-Cancelada,Media,,2025-01-15 09:19:00,
-OBSBA,En Análisis | BACKLOG,91685,Fondo Compensador - Gestiones de HIV | Importar detalles con Excel y mostrarlos en una pestana de detalles en la factura,E-Backlog,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 12:13,
+OBSBA,En Análisis | BACKLOG,91685,Fondo Compensador - Gestiones de HIV | Importar detalles con Excel y mostrarlos en una pestana de detalles en la factura,E-Backlog,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,91804,Cargar subtipos de carpeta para tipo de carpeta LEG,T-Finalizada,Media,Sebastian Betti,2024-01-29 14:57:00,
 OBSBA,CERRADOS / En PROD.,92196,ValidaciAA3n de Saldo Erronea FRP Y FRC,E-Produccion,Urgente,Franchesca Gabriela Rivas Veliz,2023-12-21 12:55:00,
 OBSBA,CERRADOS / En PROD.,92309,Contabilidad | Alta clasificador 3841 en MREDEVPR,E-Produccion,Media,Dario Elola,2023-12-22 09:54:00,
