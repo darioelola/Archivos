@@ -167,7 +167,7 @@ OBSBA,CERRADOS / En PROD.,114947,Contabilidad | Cheques| Borrar y Regenerar asie
 OBSBA,CERRADOS / En PROD.,115207,Corregir diferencia entre libro banco y pagos de lotes obsba,T-Finalizada,Urgente,Carlos Soraire,2024-09-03 20:10:00,
 OBSBA,En Análisis | BACKLOG,115220,NC parcial para gestiones con 2 objetos del gasto,T-Stand By,Media,Pablo Diego La Maestra,2025-05-22,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,115401,Contabilidad | Fonco Compensador | Asiento de Ajuste de NB con NC,T-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2024-10-08 15:05:00,
-OBSBA,En Análisis | EN CURSO,115640,OBSBA - NB Inconsistencia en aplicacion de NB cuando la OP tiene una NC asociada,T-En Curso,Media,Vanina Zylberg,2025-05-22,[Vanina Zylberg]
+OBSBA,En Análisis | EN CURSO,115640,OBSBA - NB Inconsistencia en aplicacion de NB cuando la OP tiene una NC asociada,T-En Curso,Media,Vanina Zylberg,2025-05-22 11:56,[Vanina Zylberg]
 OBSBA,CERRADOS / En PROD.,115645,Contabilidad| Fondo Compensador | Correccion importe de asiento NB con retenciones,T-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2024-10-08 15:07:00,
 OBSBA,CERRADOS / En PROD.,115879,Contabilidad | Nota | Borrado y regeneraciAA3n 2da ConciliaciAA3n,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2024-09-10 18:03:00,
 OBSBA,CERRADOS / En PROD.,116048,Contabilidad | Banco| Borrado de asientos duplicados PAG,T-Finalizada,Alta,Franchesca Gabriela Rivas Veliz,2024-09-11 11:21:00,
@@ -197,7 +197,7 @@ OBSBA,CERRADOS / En PROD.,117880,Contabilidad| Generar asientos Fondos a Rendir 
 OBSBA,CERRADOS / En PROD.,117893,Contabilidad| Generar asientos C10 2024,T-Cancelada,Alta,Franchesca Gabriela Rivas Veliz,2024-11-12 10:57:00,
 OBSBA,CERRADOS / En PROD.,117940,Contabilidad| Generar asientos NC (Notas de Credito) 2024,T-Finalizada,Alta,G- MDA OBSBA,2024-10-24 21:07:00,
 OBSBA,CERRADOS / En PROD.,117943,Contabilidad| Generar asientos C42 FR*DV 2024,T-Finalizada,Alta,G- MDA OBSBA,2024-11-08 15:05:00,
-CIUDAD,En Análisis | BACKLOG,117956,Aviso de Pago de Facturaci�n Servicios B�sicos,E-Planificaci�n,Alta,Adalberto Jose Torres Salazar,2025-05-22 10:13,
+CIUDAD,En Análisis | BACKLOG,117956,Aviso de Pago de Facturaci�n Servicios B�sicos,E-Planificaci�n,Alta,Adalberto Jose Torres Salazar,2025-05-22 14:01,
 CIUDAD,CERRADOS / En PROD.,117978,CIERRE CUENTA DE INVERSI�N 2024 | SIGAF | Consulta sobre Decremento de Saldos impagos de OP,MDA-Cerrado,Baja,Vanina Zylberg,2025-05-22 12:05,
 OBSBA,CERRADOS / En PROD.,118012,Impactos Presupuestarios  FRC y FRP (C41 RETENCIONES),T-Cancelada,Media,Franchesca Gabriela Rivas Veliz,2025-01-15 09:22:00,
 OBSBA,CERRADOS / En PROD.,118019,Contabilidad | Minuta PrescripciAA3n Proveedores 2023,T-Finalizada,Alta,G- MDA OBSBA,2024-10-15 20:30:00,
@@ -374,7 +374,7 @@ OBSBA,CERRADOS / En PROD.,129705,Planta Valorizada RRHH Archivo Meta 4,T-Finaliz
 OBSBA,En Análisis | BACKLOG,129765,CIERRE DE BALANCE OBSBA 2024,R- Backlog,Alta,G- OBSBA-Gestion de facturas y contabilidad,2025-05-20 13:13,
 CIUDAD,CERRADOS / En PROD.,129914,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Solicitud de correcciAA3n de asientos,MDA-Cerrado,Alta,G- MDA SIGAF,2025-03-10 15:50:00,
 CIUDAD,CERRADOS / En PROD.,129966,CIERRE CUENTA DE INVERSIAAN 2024 | SIGAF | Inconveniente en impacto contable de C44 NAA2410/24,MDA-Cerrado,Alta,Diego Martin Godoy,2025-04-22 18:13:00,[CIERRE DE CUENTA][ERICA PL 01]
-CIUDAD,En Análisis | BACKLOG,129973,CIERRE CUENTA DE INVERSIoN 2024 | Revision de la gestion de Devolucion de la retencion 324,E-Backlog,Media,G- Func. Gastos y Contabilidad,2025-05-21 14:05,
+CIUDAD,En Análisis | BACKLOG,129973,CIERRE CUENTA DE INVERSI�N 2024 | Revisi�n de la gesti�n de Devoluci�n de la retenci�n 324,E-Backlog,Media,G- Func. Gastos y Contabilidad,2025-05-22 15:32,
 CIUDAD,En Desarrollo | EN CURSO,130027,CIERRE CUENTA DE INVERSIoN 2024 | Inconvenientes en OP C42 38331/25: Solicitud de Validacion,E-Desarrollo,Alta,Adalberto Jose Torres Salazar,2025-05-21 17:14,
 OBSBA,CERRADOS / En PROD.,130053,Cambio Fecha de EmisiAA3n - Constancias de RetenciAA3n Fondos 2025 (Entrega 1),T-Finalizada,Urgente,G- MDA OBSBA,2025-03-07 19:43:00,
 OBSBA,En Análisis | BACKLOG,130054,Retenciones| Optimizacion tiempo de Calculadora de Retenciones,T-Stand By,Media,G- OBSBA-Gestion de facturas y contabilidad,2025-05-07 11:45,
@@ -536,7 +536,7 @@ CIUDAD,CERRADOS / En PROD.,135372,CIERRE CUENTA DE INVERSI�N 2024  // calculo 
 OBSBA,CERRADOS / En PROD.,135409,Update para Cierre de Ejercicio en ambiente PreProd,T-Finalizada,Media,Vanina Zylberg,2025-05-20 14:16,
 CIUDAD,CERRADOS / En PROD.,135432,Testeo Frontend Inscripciones - Jornadas Contaduria,E-Cancelada,Media,G- Func. Gastos y Contabilidad,2025-05-21 15:40,
 CIUDAD,CERRADOS / En PROD.,135441,"Entorno PREPROD | Gastos - Inconvenientes al desautorizar Factura con Gestion de Compras ""Importe mayor al facturado""- Error no se permite desautorizar 2 facturas",T-Cancelada,Media,,2025-05-13 10:31,
-CIUDAD,En Análisis | EN CURSO,135442,CIERRE CUENTA DE INVERSI�N 2024 | Correcci�n de asiento  de formulario C55 14894/24 y 14895/24,MDA-An�lisis,Alta,G- MDA SIGAF,2025-05-22 09:23,
+CIUDAD,CERRADOS / En PROD.,135442,CIERRE CUENTA DE INVERSI�N 2024 | Correcci�n de asiento  de formulario C55 14894/24 y 14895/24,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-22 15:23,
 CIUDAD,CERRADOS / En PROD.,135458,CIERRE CUENTA DE INVERSI�N 2024 | C55 14694/2023 sin asiento,MDA-Cerrado,Alta,G- MDA SIGAF,2025-05-22 11:46,
 CIUDAD,CERRADOS / En PROD.,135479,CIERRE CUENTA DE INVERSION 2024 | Pago CNNYA en CUT- INSERT DE ASIENTOS,T-Finalizada,Alta,Alejandro Daniel Lagorio,2025-05-13 09:02,[CIERRE DE CUENTA] [Franchesca Rivas]
 CIUDAD,CERRADOS / En PROD.,135485,CIERRE CUENTA DE INVERSIoN 2024 QWERY Devengados CNNYA - Con OP'S y Pagos ,T-Finalizada,Urgente,Dario Elola,2025-05-15 09:45,[CIERRE DE CUENTA]
@@ -591,7 +591,7 @@ OBSBA,CERRADOS / En PROD.,77571,Nota de CrAAdito | Error - Permite Autorizar sin
 OBSBA,CERRADOS / En PROD.,78012,Habilitar Trigger,T-Finalizada,Alta,Bruno Fleitas,2023-08-11 20:06:00,
 OBSBA,CERRADOS / En PROD.,78118,Reporte Cuanta Corriente | Adecuaciones Plan de Pagos,T-Finalizada,Alta,Bruno Fleitas,2023-09-15 21:41:00,
 OBSBA,CERRADOS / En PROD.,78344,Duplicidad en Generar ImputaciAA3n,T-Finalizada,Alta,Manuel Antonio Ramirez Portal,2023-08-10 23:10:00,
-CIUDAD,En Desarrollo | EN CURSO,78536,Tabla b�sica Excepciones Padron AGIP por Partida completa del gasto,E-Desarrollo,Alta,Otto Federico Klix Buteler,2025-05-22,[Nelson Daniel Bordon]
+CIUDAD,En Análisis | EN CURSO,78536,Tabla b�sica Excepciones Padron AGIP por Partida completa del gasto,E-Analisis,Alta,Nelson Daniel Bord�n,2025-05-22 15:29,[Nelson Daniel Bordon]
 OBSBA,CERRADOS / En PROD.,78544,Productivo Error en duplicidad de Facturas Fiscales para el mismo Cuit Ente -Notas Bancarias,T-Finalizada,Alta,Federico Perez Melillo,2023-09-07 00:21:00,
 OBSBA,CERRADOS / En PROD.,78546,Error descuento de NB en Pagos parciales y CorrecciAA3n de presupuesto,T-Finalizada,Media,Maximiliano Miguel Dantas,2023-08-23 20:04:00,
 OBSBA,CERRADOS / En PROD.,78566,Fondos a Rendir | Alta de Entes Responsables de Fondos,T-Finalizada,Alta,G- MDA OBSBA,2023-08-10 21:01:00,
