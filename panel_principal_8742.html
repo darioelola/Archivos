@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Panel de Tickets</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f4f4f4;
+    }
+    /* Header fijo */
+    .header {
+      position: fixed;
+      top: 0; left: 0; width: 100%;
+      background-color: #2c3e50;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+      z-index: 1000;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 1.25rem;
+    }
+    #datetime {
+      font-size: 0.95rem;
+    }
+    .content {
+      padding: 100px 20px 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    th, td {
+      padding: 8px 10px;
+      border: 1px solid #e0e0e0;
+      font-size: 0.9rem;
+      text-align: left;
+    }
+    thead th {
+      background-color: #34495e;
+      color: #fff;
+      position: sticky;
+      top: 0;
+      z-index: 500;
+    }
+    .filter-row th {
+      background-color: #ecf0f1;
+      position: sticky;
+      top: 38px;
+      z-index: 499;
+    }
+    .filter-row input,
+    .filter-row select {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 4px 6px;
+      font-size: 0.85rem;
+      border: 1px solid #ccc;
+      border-radius: 3px;
+    }
+    tr:nth-child(even) td {
+      background-color: #f9f9f9;
+    }
+    tr:hover td {
+      background-color: #eef7ff;
+    }
+    /* Etiquetas estilizadas */
+    .tag-label {
+      display: inline-block;
+      background-color: #27ae60;
+      color: #fff;
+      border-radius: 12px;
+      padding: 2px 8px;
+      margin: 0 4px 4px 0;
+      font-size: 0.8rem;
+    }
+    .system-label {
+      display: inline-block;
+      border-radius: 12px;
+      padding: 2px 8px;
+      margin: 0 4px 4px 0;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    .system-label.ciudad {
+      background-color: #f1c40f;
+      color: #000;
+    }
+    .system-label.obsba {
+      background-color: #3498db;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header">
+    <h1>Listado de Tickets</h1>
+    <div id="datetime"></div>
+  </div>
+
+  <div class="content">
+    <table id="tablaTickets">
+      <thead>
+        <tr>
+          <th>RM</th>
+          <th>Sistema</th>
+          <th>Estado Interno</th>
+          <th>Estado</th>
+          <th>Asunto</th>
+          <th>Prioridad</th>
+          <th>Asignado a</th>
+          <th>Actualizado</th>
+          <th>Tags</th>
+        </tr>
+        <tr class="filter-row">
+          <th><input type="text" id="filterRm" placeholder="Filtrar RM"></th>
+          <th><select id="filterSistema"><option value="">Todos</option></select></th>
+          <th><select id="filterEstadoInterno"><option value="">Todos</option></select></th>
+          <th><select id="filterEstado"><option value="">Todos</option></select></th>
+          <th><input type="text" id="filterAsunto" placeholder="Filtrar Asunto"></th>
+          <th><select id="filterPrioridad"><option value="">Todas</option></select></th>
+          <th><select id="filterAsignado"><option value="">Todos</option></select></th>
+          <th><input type="date" id="filterActualizado"></th>
+          <th><input type="text" id="filterTags" placeholder="Filtrar Tags"></th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script>
+    function updateDateTime() {
+      const now = new Date();
+      const fecha = now.toLocaleDateString('es-ES', {
+        weekday:'long', year:'numeric', month:'long', day:'numeric'
+      });
+      const hora = now.toLocaleTimeString('es-ES');
+      document.getElementById('datetime').textContent = `${fecha} · ${hora}`;
+    }
+    setInterval(updateDateTime, 1000);
+    updateDateTime();
+
+    let tickets = [];
+
+    fetch("api/get_tickets.php")
+      .then(res => res.json())
+      .then(data => {
+        tickets = data;
+        poblarSelects();
+        renderTable(tickets);
+      })
+      .catch(err => {
+        console.error(err);
+        alert("Error al cargar tickets.");
+      });
+
+    function poblarSelects() {
+      const campos = {
+        Sistema: [...new Set(tickets.map(t => t.sistema))].sort(),
+        EstadoInterno: [...new Set(tickets.map(t => t.estado_interno))].sort(),
+        Estado: [...new Set(tickets.map(t => t.estado))].sort(),
+        Prioridad: [...new Set(tickets.map(t => t.prioridad))].sort(),
+        Asignado: [...new Set(tickets.map(t => t.asignado_a))].sort()
+      };
+      for (const [campo, valores] of Object.entries(campos)) {
+        const sel = document.getElementById(`filter${campo}`);
+        valores.forEach(v => {
+          const opt = document.createElement('option');
+          opt.value = v;
+          opt.textContent = v;
+          sel.appendChild(opt);
+        });
+      }
+    }
+
+    function renderTable(data) {
+      const tbody = document.querySelector("#tablaTickets tbody");
+      tbody.innerHTML = '';
+      data.forEach(r => {
+        let sistemaHTML = r.sistema;
+        if (r.sistema.toLowerCase() === 'ciudad') {
+          sistemaHTML = `<span class="system-label ciudad">${r.sistema}</span>`;
+        } else if (r.sistema.toLowerCase() === 'obsba') {
+          sistemaHTML = `<span class="system-label obsba">${r.sistema}</span>`;
+        }
+
+        let tagsHTML = '';
+        const regex = /\[(.*?)\]/g;
+        let match;
+        while ((match = regex.exec(r.tags)) !== null) {
+          tagsHTML += `<span class="tag-label">${match[1]}</span>`;
+        }
+
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${r.rm}</td>
+          <td>${sistemaHTML}</td>
+          <td>${r.estado_interno}</td>
+          <td>${r.estado}</td>
+          <td>${r.asunto}</td>
+          <td>${r.prioridad}</td>
+          <td>${r.asignado_a}</td>
+          <td>${r.actualizado}</td>
+          <td>${tagsHTML}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.querySelectorAll('.filter-row input, .filter-row select')
+      .forEach(el => el.addEventListener('input', aplicarFiltros));
+
+    function aplicarFiltros() {
+      const f = {
+        rm: document.getElementById('filterRm').value.trim().toLowerCase(),
+        sis: document.getElementById('filterSistema').value.toLowerCase(),
+        int: document.getElementById('filterEstadoInterno').value.toLowerCase(),
+        est: document.getElementById('filterEstado').value.toLowerCase(),
+        asu: document.getElementById('filterAsunto').value.trim().toLowerCase(),
+        pri: document.getElementById('filterPrioridad').value.toLowerCase(),
+        asi: document.getElementById('filterAsignado').value.toLowerCase(),
+        act: document.getElementById('filterActualizado').value,
+        tag: document.getElementById('filterTags').value.trim().toLowerCase()
+      };
+      const filtrados = tickets.filter(t => {
+        const cumpleRm  = !f.rm   || t.rm.toString().toLowerCase().includes(f.rm);
+        const cumpleSis = !f.sis  || t.sistema.toLowerCase() === f.sis;
+        const cumpleInt = !f.int  || t.estado_interno.toLowerCase() === f.int;
+        const cumpleEst = !f.est  || t.estado.toLowerCase() === f.est;
+        const cumpleAsu = !f.asu  || t.asunto.toLowerCase().includes(f.asu);
+        const cumplePri = !f.pri  || t.prioridad.toLowerCase() === f.pri;
+        const cumpleAsi = !f.asi  || t.asignado_a.toLowerCase() === f.asi;
+        const cumpleAct = !f.act  || t.actualizado.startsWith(f.act);
+        const cumpleTag = !f.tag  || t.tags.toLowerCase().includes(f.tag);
+        return cumpleRm && cumpleSis && cumpleInt && cumpleEst
+            && cumpleAsu && cumplePri && cumpleAsi && cumpleAct && cumpleTag;
+      });
+      renderTable(filtrados);
+    }
+  </script>
+
+  <!-- SCRIPT PARA OCULTAR NOMBRE DE ARCHIVO EN URL -->
+  <script>
+    if (window.history && history.replaceState) {
+      history.replaceState({}, document.title, '/');
+    }
+  </script>
+</body>
+</html>
