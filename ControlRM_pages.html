@@ -242,11 +242,7 @@
 </div>
 </div>
 <!-- Librerías externas -->
-<script src="https://cdn.jsdelivr.net/npm/flatpickr">
-  // === Dynamic path to CSV in same repository ===
-  const RAW_CSV_URL = new URL("BD_RM.csv", location.href).href;
-  window.RAW_CSV_URL = RAW_CSV_URL;
-</script>
+<script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
 <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- Lógica integrada con corrección de tags y recarga -->
@@ -283,8 +279,8 @@
       };
 
       /* CONFIGURACIÓN */
-      const GH_BRANCH   = "main";
-                  const LS_KEY_DATA = "BD_RM";
+      const RAW_CSV_URL = new URL("BD_RM.csv", location.href).href;
+      const LS_KEY_DATA = "BD_RM";
       const COLS = [
         "SISTEMA","ESTADO INTERNO","RM","Asunto",
         "Estado","Prioridad","Asignado a","Actualizado",
@@ -396,7 +392,9 @@
         refreshFilterOptions();
         $fileIssues.onchange = () => {
           if ($fileIssues.files.length) importarIssues($fileIssues.files[0]);
-        };        document.getElementById("btnResetBD").onclick = () => {
+        };
+        $btnSaveGit.onclick = () => setStatus("Guardado local (sin Git).","success");
+        document.getElementById("btnResetBD").onclick = () => {
           if (confirm("¿Seguro que querés borrar la BD local y reiniciar la sincronización?")) {
             localStorage.removeItem(LS_KEY_DATA);
             location.reload();
@@ -695,7 +693,9 @@
         refreshFilterOptions();
         setStatus(msg,"success");
       }
-              setStatus("✅ Sincronizado con Git.","success");
+      async function syncGit() {
+        setStatus("💾 Datos guardados localmente.");
+      ","success");
       }
 
       /* RELOAD desde GitHub */
@@ -723,13 +723,15 @@
           return obj;
         });
       }
-      
-async function fetchRawCSV() {
-  const resp = await fetch(RAW_CSV_URL);
-  if (!resp.ok) throw Error("Error descargando BD_RM.csv");
-  return await resp.text();
-}
-
+      async function fetchRawCSV() {
+        const r = await fetch(RAW_CSV_URL);
+        if (!r.ok) throw Error("Descarga CSV");
+        return await r.text();
+      }?ref=${GH_BRANCH}`, {
+          headers: {
+            Authorization: `token ${GH_TOKEN}`,
+            Accept: "application/vnd.github.v3.raw"
+          }
         });
         if (!r.ok) throw Error("Descarga Git");
         return await r.text();
@@ -809,8 +811,8 @@ async function fetchRawCSV() {
 
   &lt;script src=&quot;https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js&quot;&gt;&lt;/script&gt;
   &lt;script&gt;
-    const GH_BRANCH = &quot;main&quot;;
-            const LS_KEY    = &quot;BD_RM&quot;;
+    const RAW_CSV_URL = window.parent.RAW_CSV_URL;
+    const LS_KEY    = &quot;BD_RM&quot;;
 
     const ordenEstados = [
       &quot;En Análisis | EN CURSO&quot;,
@@ -854,7 +856,9 @@ const Monitoreos = Object.values(mapaMonitoreos);
       const raw = localStorage.getItem(LS_KEY);
       if (raw) { try { data = JSON.parse(raw); } catch {} }
       if (!data.length) {
-        const resp = await fetch(RAW_CSV_URL);
+        const resp = await fetch(`${GH_URL}?ref=${GH_BRANCH}`,{
+          headers:{Authorization:`token ${GH_TOKEN}`,Accept:&quot;application/vnd.github.v3.raw&quot;}
+        });
         const csvText = await resp.text();
         data = Papa.parse(csvText,{header:true,skipEmptyLines:true}).data;
         localStorage.setItem(LS_KEY, JSON.stringify(data));
