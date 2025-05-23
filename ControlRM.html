@@ -252,7 +252,7 @@
   const REPO_USER   = "darioelola";
   const REPO_NAME   = "ControlRM";
   const BRANCH      = "main";
-  const RAW_CSV_URL = `https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}/BD_RM.csv`;
+  const RAW_CSV_URL = 'https://cdn.jsdelivr.net/gh/darioelola/ControlRM@main/BD_RM.csv';
   const LS_KEY_DATA = "BD_RM";
 document.addEventListener('DOMContentLoaded', () => {
       /* DESCARGAR EXCEL FILTRADO */
@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', () => {
       };
 
       /* CONFIGURACIÓN */
-      // Definición de repo para carga de CSV   const REPO_USER   = "darioelola";   const REPO_NAME   = "ControlRM";   const BRANCH      = "main";   const RAW_CSV_URL = `https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}/BD_RM.csv`;   const LS_KEY_DATA = "BD_RM";
+      // Definición de repo para carga de CSV   const REPO_USER   = "darioelola";   const REPO_NAME   = "ControlRM";   const BRANCH      = "main";   const RAW_CSV_URL = 'https://cdn.jsdelivr.net/gh/darioelola/ControlRM@main/BD_RM.csv';   const LS_KEY_DATA = "BD_RM";
                   const LS_KEY_DATA = "BD_RM";
       const COLS = [
         "SISTEMA","ESTADO INTERNO","RM","Asunto",
@@ -728,9 +728,9 @@ document.addEventListener('DOMContentLoaded', () => {
       }
       
 async function fetchRawCSV() {
-    const r = await fetch(RAW_CSV_URL);
-    if (!r.ok) throw Error("Error descargando BD_RM desde GitHub");
-    return await r.text();
+    const response = await fetch(RAW_CSV_URL);
+    if (!response.ok) throw Error("Error descargando BD_RM desde GitHub");
+    return await response.text();
 }
 
         });
@@ -812,7 +812,7 @@ async function fetchRawCSV() {
 
   &lt;script src=&quot;https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js&quot;&gt;&lt;/script&gt;
   &lt;script&gt;
-    // Definición de repo para carga de CSV   const REPO_USER   = "darioelola";   const REPO_NAME   = "ControlRM";   const BRANCH      = "main";   const RAW_CSV_URL = `https://raw.githubusercontent.com/${REPO_USER}/${REPO_NAME}/${BRANCH}/BD_RM.csv`;   const LS_KEY_DATA = "BD_RM";main&quot;;
+    // Definición de repo para carga de CSV   const REPO_USER   = "darioelola";   const REPO_NAME   = "ControlRM";   const BRANCH      = "main";   const RAW_CSV_URL = 'https://cdn.jsdelivr.net/gh/darioelola/ControlRM@main/BD_RM.csv';   const LS_KEY_DATA = "BD_RM";main&quot;;
             const LS_KEY    = &quot;BD_RM&quot;;
 
     const ordenEstados = [
