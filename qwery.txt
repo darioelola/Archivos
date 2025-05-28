@@ -1,0 +1,91 @@
+select
+datos.*,
+(
+  CASE
+       WHEN datos.asignado_a=datos.persona_a_cargo then 1
+   	   else 0
+  END
+)trab
+from
+ (
+   select
+    (
+        select ei.nombre
+        from estado_interno ei
+        where ei.id=t.estado_interno_id
+    )estado_interno,
+    t.rm,
+    t.asunto,
+    t.estado,
+    t.asignado_a,
+    (
+        select pa.persona_a_cargo
+        from Persona_a_cargo pa
+        where pa.id=t.persona_a_cargo_id
+    ) persona_a_cargo,
+    (
+        select s.nombre
+        from sistemas s
+        where s.id=t.sistema_id
+
+    ) sistemas
+    from tickets t
+    where t.persona_a_cargo_id is not null
+     
+ )datos
+ ----------------------------------------------------------------------------------------------------------------------------
+ NSERT INTO `tickets` (
+  `id`,
+  `sistema_id`,
+  `rm`,
+  `estado_interno_id`,
+  `asunto`,
+  `estado`,
+  `prioridad`,
+  `asignado_a`,
+  `actualizado`,
+  `tags`,
+  `persona_a_cargo_id`
+)
+VALUES
+  (DEFAULT, 2, 136739, 2, 'ASUNTO GENÉRICO', 'ABIERTO', 1, 'usuario1', NOW(), '[]', 1),
+  (DEFAULT, 2, 136687, 2, 'ASUNTO GENÉRICO', 'ABIERTO', 1, 'usuario1', NOW(), '[]', 1),
+  (DEFAULT, 2, 136676, 2, 'ASUNTO GENÉRICO', 'ABIERTO', 1, 'usuario1', NOW(), '[]', 1),
+  (DEFAULT, 2, 136482, 2, 'ASUNTO GENÉRICO', 'ABIERTO', 1, 'usuario1', NOW(), '[]', 1),
+  (DEFAULT, 2, 136486, 2, 'ASUNTO GENÉRICO', 'ABIERTO', 1, 'usuario1', NOW(), '[]', 1);
+  
+  
+  ------------------------------------------------------------------------------------------------------------------------------
+  
+UPDATE `tickets`
+SET `persona_a_cargo_id` = 10
+WHERE `rm` IN (
+  114929,
+  115220,
+  115640,
+  127646,
+  128228,
+  129501,
+  74932,
+  83675,
+  87374,
+  88345,
+  91675,
+  91685,
+  93569,
+  99403,
+  99754
+);
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+UPDATE tickets t
+set eqi_en_curso='En Desarrollo | EN CURSO'
+where rm=128228
+
+----------------------------------------------------------------------------------------------------------------------------------
+UPDATE tickets t
+set tags ='[]'
+where rm in 
+(
+)
